@@ -1,0 +1,8 @@
+<websocket-action name="Draw Line" slaProfileEnabled="false"
+    synchronous-type="ASYNCHRONOUS"
+    uid="69fa7033-5fb8-4e8a-9e4b-59d93bfb9a0d"
+    websocket-body-type="TEXT" websocket-channel-uid="39882a58-04bb-47cb-a922-874e674798d2">
+    <binaryPostContentBase64><![CDATA[FWRyYXdpbmdib2FyZC9yb29tcy8ke1Jvb21OYW1lfQEke3JhbmRvbUNvbG9yfQIke3JhbmRvbUNvb3JkfQIke3JhbmRvbUNvb3JkfQIke3JhbmRvbUNvb3JkfQIke3JhbmRvbUNvb3JkfQ==]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_5abf36e6-d4fc-4732-be54-29899b089d46</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e51bfdcf-24a9-4742-9250-5f333339595e.txt</requestContentFileDescription>
+</websocket-action>

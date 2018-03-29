@@ -1,0 +1,4 @@
+<monitored-host host-name="10.0.0.100" mehost-name="localhost" uid="10.0.0.100">
+    <embedded-action>9cb4012c-1871-4b5e-951c-8faa2ebb417f</embedded-action>
+    <embedded-action>d0eddb1c-c486-4148-9c03-8a4e7a08da21</embedded-action>
+</monitored-host>

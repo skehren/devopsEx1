@@ -1,0 +1,1 @@
+<variable-counter inc="1" max="100" name="Counter" order="1" policy="4" range="1" starting="0" uid="ae4b34a8-2fee-4db8-aca4-2b0ca55571e0" whenOutOfValues="STOP_TEST"/>

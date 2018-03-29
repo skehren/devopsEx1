@@ -1,0 +1,44 @@
+<http-page executeResourcesDynamically="false" name="/_js/_import.js"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/fe1bd768-46e2-4de5-8a56-aa6f8ba33c7e.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="fe1bd768-46e2-4de5-8a56-aa6f8ba33c7e">
+    <embedded-action>90e761ea-0de2-422c-81a5-eff6b2c10479</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_ac17d59d-2a5a-4bc9-9e3e-acce0f036727.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;570-50d543e4b7cfc&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 23 Jan 2015 16:25:57 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/_js/_import.js" path="/_js/_import.js"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/fe1bd768-46e2-4de5-8a56-aa6f8ba33c7e.zip"
+    recordedResponseCode="200" recordedResponseTime="275"
+    responseSize="1392" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="90e761ea-0de2-422c-81a5-eff6b2c10479" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_20fb9b86-403c-4ab4-91d1-d4bc195ebf2c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_20fb9b86-403c-4ab4-91d1-d4bc195ebf2c.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:24 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Fri, 23 Jan 2015 16:25:57 GMT
+ETag: "570-50d543e4b7cfc"
+Accept-Ranges: bytes
+Content-Length: 1392
+Keep-Alive: timeout=5, max=98
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

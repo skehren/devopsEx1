@@ -1,0 +1,1277 @@
+<http-page executeResourcesDynamically="false" name="/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="d34c9089-330c-487e-8c96-ebc112097290">
+    <embedded-action>1dd08cd1-a5b5-45f9-8026-a9805cb2c38f</embedded-action>
+    <embedded-action>d6b3bb3f-36c6-41be-aa83-0c451f2beb6b</embedded-action>
+    <embedded-action>887bba60-5c09-4b52-93e2-9a5f486f917b</embedded-action>
+    <embedded-action>6095528c-7786-486b-849e-26e41aaf1402</embedded-action>
+    <embedded-action>d9c5f448-9b2a-491b-9c60-cba164d17391</embedded-action>
+    <embedded-action>7f224b21-d3ac-45b2-99e5-bcc11b3b2ca6</embedded-action>
+    <embedded-action>289365da-01d8-4945-867a-debe07989f68</embedded-action>
+    <embedded-action>a05f038a-e745-4524-b190-e8d3ed6eb04a</embedded-action>
+    <embedded-action>a1d52317-c1b4-4758-84c1-ddbd9d966f86</embedded-action>
+    <embedded-action>77b07f16-6e09-4477-bb7c-1988e4c711ec</embedded-action>
+    <embedded-action>a8efeca6-c8c2-4dc9-86fe-0625884b04fb</embedded-action>
+    <embedded-action>24492f39-5ee8-4a70-837c-bde6792100f2</embedded-action>
+    <embedded-action>0338cecb-09ae-4ba8-be05-2e0a555c29b6</embedded-action>
+    <embedded-action>51d2c948-2bd1-4f8e-a03e-ee1983516ca2</embedded-action>
+    <embedded-action>ae48d558-62f4-4773-bf9f-e064226bd615</embedded-action>
+    <embedded-action>3fe7075a-4108-43b7-baaa-a860fe141d78</embedded-action>
+    <embedded-action>bf626f18-3d26-4305-b5f1-559347931931</embedded-action>
+    <embedded-action>01675c0c-6ac7-4e67-9e99-c4fc102ebba9</embedded-action>
+    <embedded-action>d320aeaf-6b1b-48cb-8c44-00d7cf4c3fe7</embedded-action>
+    <embedded-action>0602a00f-5936-4e9b-aa2c-1bc21ad679f4</embedded-action>
+    <embedded-action>5b2a4ec6-88d5-4089-8b5e-4543b2654082</embedded-action>
+    <embedded-action>a9da8f8e-af07-4f0e-99d5-f4ba52c60700</embedded-action>
+    <embedded-action>8e88fa9d-0b58-4dbb-b299-0b585cdae28c</embedded-action>
+    <embedded-action>a41a0a39-ef52-49f4-8a3f-c041b2bd5510</embedded-action>
+    <embedded-action>69e356cb-d3e4-4da2-9392-68d45bacd089</embedded-action>
+    <embedded-action>03dee29c-b9ce-472b-aa7f-a5b13abcaafe</embedded-action>
+    <embedded-action>9e735a8d-3a3f-40e9-9bce-f1521881c337</embedded-action>
+    <embedded-action>4b2ab3c6-78ac-4e68-97c5-20bed8c3947f</embedded-action>
+    <embedded-action>0b47d572-6ae9-4fcd-b3c8-921aa91a9bfe</embedded-action>
+    <embedded-action>c94925db-a9b2-4aca-84b7-5355fcecb0a0</embedded-action>
+    <embedded-action>50f3bb54-dfde-4844-86b1-8fffcafa8ba6</embedded-action>
+    <embedded-action>49ac7328-d320-45da-a147-fd00efac6257</embedded-action>
+    <embedded-action>047912b2-60eb-4957-a98b-82a5143dfca9</embedded-action>
+    <embedded-action>ff62c91b-294c-4820-a6ac-dd6349e08d5a</embedded-action>
+    <embedded-action>5eda4ae3-1dc6-43c8-bc7a-59bbb796f164</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_301159a5-6c05-4c3d-8893-f955a9e35b56.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    eTag="&quot;1f4d-50b5d7f81a683&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Mon, 29 Dec 2014 16:38:02 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/" path="/" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="219"
+    responseSize="8013" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="1dd08cd1-a5b5-45f9-8026-a9805cb2c38f" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_8bc34c6a-6b71-47e5-9f12-44a3fe6196da.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8bc34c6a-6b71-47e5-9f12-44a3fe6196da.txt</requestContentFileDescription>
+    <header name="Accept" value="image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="DNT" value="1"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:24 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Mon, 29 Dec 2014 16:38:02 GMT
+ETag: "1f4d-50b5d7f81a683"
+Accept-Ranges: bytes
+Content-Length: 8013
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;d20-50d54d075fad1&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 23 Jan 2015 17:06:49 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/style.css" path="/style.css" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="83"
+    responseSize="3360" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="d6b3bb3f-36c6-41be-aa83-0c451f2beb6b" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_67fd6a73-df0e-455e-9233-1b48a75403c4.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_67fd6a73-df0e-455e-9233-1b48a75403c4.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:24 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Fri, 23 Jan 2015 17:06:49 GMT
+ETag: "d20-50d54d075fad1"
+Accept-Ranges: bytes
+Content-Length: 3360
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;ed7-4f0948892f100&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 22 Jan 2014 19:57:24 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pics/type_of_vehicle.jpg"
+    path="/pics/type_of_vehicle.jpg" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="258"
+    responseSize="0" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="887bba60-5c09-4b52-93e2-9a5f486f917b" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_9206526d-e58f-487a-ad28-f4b89335f11b</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9206526d-e58f-487a-ad28-f4b89335f11b.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:24 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Wed, 22 Jan 2014 19:57:24 GMT
+ETag: "ed7-4f0948892f100"
+Accept-Ranges: bytes
+Content-Length: 3799
+Keep-Alive: timeout=5, max=97
+Connection: Keep-Alive
+Content-Type: image/jpeg</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;a39-4f094d187b300&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 22 Jan 2014 20:17:48 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pics/vehic_data.jpg" path="/pics/vehic_data.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="188"
+    responseSize="0" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="6095528c-7786-486b-849e-26e41aaf1402" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_d8b71031-8b55-43c8-b226-91dd3f32f43e</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d8b71031-8b55-43c8-b226-91dd3f32f43e.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:24 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Wed, 22 Jan 2014 20:17:48 GMT
+ETag: "a39-4f094d187b300"
+Accept-Ranges: bytes
+Content-Length: 2617
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: image/jpeg</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;c72-4f094d8533380&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 22 Jan 2014 20:19:42 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pics/product_choice.jpg"
+    path="/pics/product_choice.jpg" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="244"
+    responseSize="0" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="d9c5f448-9b2a-491b-9c60-cba164d17391" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_ad621630-ffb1-43f7-993e-c219c083b258</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ad621630-ffb1-43f7-993e-c219c083b258.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:24 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Wed, 22 Jan 2014 20:19:42 GMT
+ETag: "c72-4f094d8533380"
+Accept-Ranges: bytes
+Content-Length: 3186
+Keep-Alive: timeout=5, max=98
+Connection: Keep-Alive
+Content-Type: image/jpeg</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;4a2-4f0951b521480&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 22 Jan 2014 20:38:26 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pics/subnav_arrow.png"
+    path="/pics/subnav_arrow.png" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="321"
+    responseSize="0" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="7f224b21-d3ac-45b2-99e5-bcc11b3b2ca6" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_e8b19948-645a-4b37-a5db-d96557270113.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e8b19948-645a-4b37-a5db-d96557270113.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:24 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Wed, 22 Jan 2014 20:38:26 GMT
+ETag: "4a2-4f0951b521480"
+Accept-Ranges: bytes
+Content-Length: 1186
+Keep-Alive: timeout=5, max=95
+Connection: Keep-Alive
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;3c0-4f09527d66d00&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 22 Jan 2014 20:41:56 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pics/subnav_seperator.png"
+    path="/pics/subnav_seperator.png" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="277"
+    responseSize="0" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="289365da-01d8-4945-867a-debe07989f68" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_3f38056e-e3ea-42bf-a853-da6d294f730e.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3f38056e-e3ea-42bf-a853-da6d294f730e.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:24 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Wed, 22 Jan 2014 20:41:56 GMT
+ETag: "3c0-4f09527d66d00"
+Accept-Ranges: bytes
+Content-Length: 960
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;2b8a-4f094f456d500&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 22 Jan 2014 20:27:32 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pics/hr_top.jpg" path="/pics/hr_top.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="356"
+    responseSize="0" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="a05f038a-e745-4524-b190-e8d3ed6eb04a" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_263acdd8-e9dd-4c0d-ab54-52edbe943161</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_263acdd8-e9dd-4c0d-ab54-52edbe943161.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:24 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Wed, 22 Jan 2014 20:27:32 GMT
+ETag: "2b8a-4f094f456d500"
+Accept-Ranges: bytes
+Content-Length: 11146
+Keep-Alive: timeout=5, max=92
+Connection: Keep-Alive
+Content-Type: image/jpeg</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;88d-4f094d6897000&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 22 Jan 2014 20:19:12 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pics/insurant.jpg" path="/pics/insurant.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="144"
+    responseSize="0" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="a1d52317-c1b4-4758-84c1-ddbd9d966f86" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_0a978608-e350-409e-b72f-4bf2a84940bc</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0a978608-e350-409e-b72f-4bf2a84940bc.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:24 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Wed, 22 Jan 2014 20:19:12 GMT
+ETag: "88d-4f094d6897000"
+Accept-Ranges: bytes
+Content-Length: 2189
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: image/jpeg</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;613-4f094da3b7b80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 22 Jan 2014 20:20:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pics/arrow.jpg" path="/pics/arrow.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="315"
+    responseSize="0" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="77b07f16-6e09-4477-bb7c-1988e4c711ec" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_73e34538-26d1-4ed8-9bc3-ba2a55fcb831</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_73e34538-26d1-4ed8-9bc3-ba2a55fcb831.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:24 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Wed, 22 Jan 2014 20:20:14 GMT
+ETag: "613-4f094da3b7b80"
+Accept-Ranges: bytes
+Content-Length: 1555
+Keep-Alive: timeout=5, max=95
+Connection: Keep-Alive
+Content-Type: image/jpeg</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;4162-4f09465684180&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 22 Jan 2014 19:47:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pics/logo.jpg" path="/pics/logo.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="286"
+    responseSize="0" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="a8efeca6-c8c2-4dc9-86fe-0625884b04fb" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_7ffb2503-3f77-4039-b5dd-8b66d6d2377b</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7ffb2503-3f77-4039-b5dd-8b66d6d2377b.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:24 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Wed, 22 Jan 2014 19:47:34 GMT
+ETag: "4162-4f09465684180"
+Accept-Ranges: bytes
+Content-Length: 16738
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Content-Type: image/jpeg</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;50b-4f09505dcea80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 22 Jan 2014 20:32:26 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pics/subnav_bottom.jpg"
+    path="/pics/subnav_bottom.jpg" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="228"
+    responseSize="0" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="24492f39-5ee8-4a70-837c-bde6792100f2" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_f7412dc9-7fb9-4766-9f06-0508f4459f36</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f7412dc9-7fb9-4766-9f06-0508f4459f36.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:24 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Wed, 22 Jan 2014 20:32:26 GMT
+ETag: "50b-4f09505dcea80"
+Accept-Ranges: bytes
+Content-Length: 1291
+Keep-Alive: timeout=5, max=94
+Connection: Keep-Alive
+Content-Type: image/jpeg</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;49f-4f0953aac3400&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 22 Jan 2014 20:47:12 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pics/seperator_vertical.png"
+    path="/pics/seperator_vertical.png" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="152"
+    responseSize="0" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="0338cecb-09ae-4ba8-be05-2e0a555c29b6" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_a23ac18b-69e7-484e-a493-5a9dd54d65d9.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a23ac18b-69e7-484e-a493-5a9dd54d65d9.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:24 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Wed, 22 Jan 2014 20:47:12 GMT
+ETag: "49f-4f0953aac3400"
+Accept-Ranges: bytes
+Content-Length: 1183
+Keep-Alive: timeout=5, max=94
+Connection: Keep-Alive
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;4e6-4f0a47a0fc800&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 23 Jan 2014 14:58:40 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pics/hr_calc.jpg" path="/pics/hr_calc.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="140"
+    responseSize="0" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="51d2c948-2bd1-4f8e-a03e-ee1983516ca2" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_4faafe11-d7c0-4d25-9731-3fa610cb2f46</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4faafe11-d7c0-4d25-9731-3fa610cb2f46.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:24 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Thu, 23 Jan 2014 14:58:40 GMT
+ETag: "4e6-4f0a47a0fc800"
+Accept-Ranges: bytes
+Content-Length: 1254
+Keep-Alive: timeout=5, max=93
+Connection: Keep-Alive
+Content-Type: image/jpeg</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;58c-4e99338211880&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 25 Oct 2013 16:26:58 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pics/twitter.png" path="/pics/twitter.png"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="120"
+    responseSize="0" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="ae48d558-62f4-4773-bf9f-e064226bd615" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_fa588745-7cf4-41c7-b32f-2ef2257af267.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_fa588745-7cf4-41c7-b32f-2ef2257af267.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:24 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Fri, 25 Oct 2013 16:26:58 GMT
+ETag: "58c-4e99338211880"
+Accept-Ranges: bytes
+Content-Length: 1420
+Keep-Alive: timeout=5, max=93
+Connection: Keep-Alive
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;4d3-4e99337e40f80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 25 Oct 2013 16:26:54 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pics/facebook.png" path="/pics/facebook.png"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="47"
+    responseSize="0" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="3fe7075a-4108-43b7-baaa-a860fe141d78" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_e6381c3c-e354-476b-a9ef-5a8a97b30f58.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e6381c3c-e354-476b-a9ef-5a8a97b30f58.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:24 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Fri, 25 Oct 2013 16:26:54 GMT
+ETag: "4d3-4e99337e40f80"
+Accept-Ranges: bytes
+Content-Length: 1235
+Keep-Alive: timeout=5, max=97
+Connection: Keep-Alive
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;658-4e99337a70680&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 25 Oct 2013 16:26:50 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pics/gplus.png" path="/pics/gplus.png"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="195"
+    responseSize="0" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="bf626f18-3d26-4305-b5f1-559347931931" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_71604d9b-aab8-42e1-bcef-7f29c9f605a0.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_71604d9b-aab8-42e1-bcef-7f29c9f605a0.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:25 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Fri, 25 Oct 2013 16:26:50 GMT
+ETag: "658-4e99337a70680"
+Accept-Ranges: bytes
+Content-Length: 1624
+Keep-Alive: timeout=5, max=92
+Connection: Keep-Alive
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;52e-4e9933769fd80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 25 Oct 2013 16:26:46 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pics/linkedin.png" path="/pics/linkedin.png"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="329"
+    responseSize="0" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="01675c0c-6ac7-4e67-9e99-c4fc102ebba9" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_fa45efe1-84a1-4f4c-8b83-95842a0801d4.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_fa45efe1-84a1-4f4c-8b83-95842a0801d4.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:25 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Fri, 25 Oct 2013 16:26:46 GMT
+ETag: "52e-4e9933769fd80"
+Accept-Ranges: bytes
+Content-Length: 1326
+Keep-Alive: timeout=5, max=87
+Connection: Keep-Alive
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;624-4e993370e7000&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 25 Oct 2013 16:26:40 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pics/youtube.png" path="/pics/youtube.png"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="280"
+    responseSize="0" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="d320aeaf-6b1b-48cb-8c44-00d7cf4c3fe7" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_d3b1e51f-c64e-4631-a161-fcc9eaff2a5d.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d3b1e51f-c64e-4631-a161-fcc9eaff2a5d.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:25 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Fri, 25 Oct 2013 16:26:40 GMT
+ETag: "624-4e993370e7000"
+Accept-Ranges: bytes
+Content-Length: 1572
+Keep-Alive: timeout=5, max=88
+Connection: Keep-Alive
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;839-4e9931daa3180&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 25 Oct 2013 16:19:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pics/logofooter.png" path="/pics/logofooter.png"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="219"
+    responseSize="0" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="0602a00f-5936-4e9b-aa2c-1bc21ad679f4" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_612999dc-b229-4e7c-bdde-9a211e5b300e.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_612999dc-b229-4e7c-bdde-9a211e5b300e.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:25 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Fri, 25 Oct 2013 16:19:34 GMT
+ETag: "839-4e9931daa3180"
+Accept-Ranges: bytes
+Content-Length: 2105
+Keep-Alive: timeout=5, max=85
+Connection: Keep-Alive
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;1c7f0-50ae8a8933bea&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Tue, 23 Dec 2014 21:14:20 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/bower_components/jspdf/dist/jspdf.min.js"
+    path="/bower_components/jspdf/dist/jspdf.min.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="194"
+    responseSize="116720" serverUid="10.0.0.100"
+    slaProfileEnabled="false" uid="5b2a4ec6-88d5-4089-8b5e-4543b2654082" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_033b3739-076e-4b74-bb23-e0e72f83f4ab</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_033b3739-076e-4b74-bb23-e0e72f83f4ab.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:25 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Tue, 23 Dec 2014 21:14:20 GMT
+ETag: "1c7f0-50ae8a8933bea"
+Accept-Ranges: bytes
+Content-Length: 116720
+Keep-Alive: timeout=5, max=90
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;14983-50ae8a89366e3&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Tue, 23 Dec 2014 21:14:20 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/bower_components/jquery/dist/jquery.min.js"
+    path="/bower_components/jquery/dist/jquery.min.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="191"
+    responseSize="84355" serverUid="10.0.0.100"
+    slaProfileEnabled="false" uid="a9da8f8e-af07-4f0e-99d5-f4ba52c60700" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_6a361343-25ec-4f12-a998-3ca757a4a722</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6a361343-25ec-4f12-a998-3ca757a4a722.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:25 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Tue, 23 Dec 2014 21:14:20 GMT
+ETag: "14983-50ae8a89366e3"
+Accept-Ranges: bytes
+Content-Length: 84355
+Keep-Alive: timeout=5, max=86
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;18381-50d53d44c1608&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 23 Jan 2015 15:56:18 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/bower_components/moment/moment.js"
+    path="/bower_components/moment/moment.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="307"
+    responseSize="99201" serverUid="10.0.0.100"
+    slaProfileEnabled="false" uid="8e88fa9d-0b58-4dbb-b299-0b585cdae28c" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_90c051c0-7fdb-475d-90ed-a819f469f617</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_90c051c0-7fdb-475d-90ed-a819f469f617.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:25 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Fri, 23 Jan 2015 15:56:18 GMT
+ETag: "18381-50d53d44c1608"
+Accept-Ranges: bytes
+Content-Length: 99201
+Keep-Alive: timeout=5, max=86
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;b22-50d53d44733f6&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 23 Jan 2015 15:56:18 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/bower_components/moment/locale/de.js"
+    path="/bower_components/moment/locale/de.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="167"
+    responseSize="2850" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="a41a0a39-ef52-49f4-8a3f-c041b2bd5510" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_07d88214-93a1-4104-b4ad-3c4c9b79872f</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_07d88214-93a1-4104-b4ad-3c4c9b79872f.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:25 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Fri, 23 Jan 2015 15:56:18 GMT
+ETag: "b22-50d53d44733f6"
+Accept-Ranges: bytes
+Content-Length: 2850
+Keep-Alive: timeout=5, max=88
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;b69-50d53d447189d&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 23 Jan 2015 15:56:18 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/bower_components/moment/locale/de-at.js"
+    path="/bower_components/moment/locale/de-at.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="167"
+    responseSize="2921" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="69e356cb-d3e4-4da2-9392-68d45bacd089" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_23ef0dd1-341e-4cd6-bd2a-1e29764deec6</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_23ef0dd1-341e-4cd6-bd2a-1e29764deec6.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:25 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Fri, 23 Jan 2015 15:56:18 GMT
+ETag: "b69-50d53d447189d"
+Accept-Ranges: bytes
+Content-Length: 2921
+Keep-Alive: timeout=5, max=87
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;95a-50d53d447959f&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 23 Jan 2015 15:56:18 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/bower_components/moment/locale/en-gb.js"
+    path="/bower_components/moment/locale/en-gb.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="144"
+    responseSize="2394" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="03dee29c-b9ce-472b-aa7f-a5b13abcaafe" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_e22fac4d-19db-4b3c-9544-1c00047515df</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e22fac4d-19db-4b3c-9544-1c00047515df.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:25 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Fri, 23 Jan 2015 15:56:18 GMT
+ETag: "95a-50d53d447959f"
+Accept-Ranges: bytes
+Content-Length: 2394
+Keep-Alive: timeout=5, max=89
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;91f-50d53d447765f&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 23 Jan 2015 15:56:18 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/bower_components/moment/locale/en-au.js"
+    path="/bower_components/moment/locale/en-au.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="139"
+    responseSize="2335" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="9e735a8d-3a3f-40e9-9bce-f1521881c337" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_25a3cf78-a72d-4ceb-a795-afe5437c23c5</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_25a3cf78-a72d-4ceb-a795-afe5437c23c5.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:25 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Fri, 23 Jan 2015 15:56:18 GMT
+ETag: "91f-50d53d447765f"
+Accept-Ranges: bytes
+Content-Length: 2335
+Keep-Alive: timeout=5, max=90
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;4231-5083db1e1aa68&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 19 Nov 2014 22:25:53 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/_js/TypeOfVehicle.js"
+    path="/_js/TypeOfVehicle.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="125"
+    responseSize="16945" serverUid="10.0.0.100"
+    slaProfileEnabled="false" uid="4b2ab3c6-78ac-4e68-97c5-20bed8c3947f" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_ca411f68-7856-4d2b-befd-6d0d9a9c605e</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ca411f68-7856-4d2b-befd-6d0d9a9c605e.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:25 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Wed, 19 Nov 2014 22:25:53 GMT
+ETag: "4231-5083db1e1aa68"
+Accept-Ranges: bytes
+Content-Length: 16945
+Keep-Alive: timeout=5, max=91
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;743f-50ad43bae9e99&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Mon, 22 Dec 2014 20:52:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/_js/VehicleData.js" path="/_js/VehicleData.js"
+    postCharset="" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="17"
+    responseSize="29759" serverUid="10.0.0.100"
+    slaProfileEnabled="false" uid="0b47d572-6ae9-4fcd-b3c8-921aa91a9bfe" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_45a5898b-dd54-4578-a06b-da8251724e8f</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_45a5898b-dd54-4578-a06b-da8251724e8f.txt</requestContentFileDescription>
+    <variable-extractor assertionOnNoMatch="true"
+        defaultValue="&lt;NOT FOUND>" displayMode="0"
+        endsWithSimple="&quot;" extractFromVarNameAdv=""
+        extractFromVarNameSimple="" extractType="0" extractTypeAdv="0"
+        extractTypeSimple="0" matchNumber="1" matchNumberAdv="1"
+        matchNumberSimple="1" name="ExtractedVariable_0"
+        refererUid="45a5898b-dd54-4578-a06b-da8251724e8f"
+        regExp="&lt;option value=&quot;(.*?)&quot;" regExpAdv=""
+        setDefaultValue="true"
+        startsWithSimple="&lt;option value=&quot;" template="$1$"
+        templateAdv="$1$" uid="eb987fa5-5b71-4214-8f18-e0b77aa976d9" xpath="">
+        <variable-extractor-group extract="true" occurs="1" pattern="" type="4"/>
+    </variable-extractor>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:25 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Mon, 22 Dec 2014 20:52:14 GMT
+ETag: "743f-50ad43bae9e99"
+Accept-Ranges: bytes
+Content-Length: 29759
+Keep-Alive: timeout=5, max=91
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;2372-50ad424391f57&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Mon, 22 Dec 2014 20:45:40 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/_js/ProductChoice.js"
+    path="/_js/ProductChoice.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="12"
+    responseSize="9074" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="c94925db-a9b2-4aca-84b7-5355fcecb0a0" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_9aadf384-d758-4d3a-aa5a-3326e5bd81c7</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9aadf384-d758-4d3a-aa5a-3326e5bd81c7.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:25 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Mon, 22 Dec 2014 20:45:40 GMT
+ETag: "2372-50ad424391f57"
+Accept-Ranges: bytes
+Content-Length: 9074
+Keep-Alive: timeout=5, max=89
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;b524-4f1af5d1e425b&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 05 Feb 2014 21:23:10 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/_js/Globals.js" path="/_js/Globals.js"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="105"
+    responseSize="46372" serverUid="10.0.0.100"
+    slaProfileEnabled="false" uid="50f3bb54-dfde-4844-86b1-8fffcafa8ba6" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_588571c7-a246-4ee6-a303-7aa07f40b57b</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_588571c7-a246-4ee6-a303-7aa07f40b57b.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:25 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Wed, 05 Feb 2014 21:23:10 GMT
+ETag: "b524-4f1af5d1e425b"
+Accept-Ranges: bytes
+Content-Length: 46372
+Keep-Alive: timeout=5, max=84
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;27d-4e4a0da3a5980&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 23 Aug 2013 17:36:54 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/_js/UpdateCookie.js" path="/_js/UpdateCookie.js"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="96"
+    responseSize="637" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="49ac7328-d320-45da-a147-fd00efac6257" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_f3c4da82-c83a-42f2-85bb-3234ba331b5e</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f3c4da82-c83a-42f2-85bb-3234ba331b5e.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:25 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Fri, 23 Aug 2013 17:36:54 GMT
+ETag: "27d-4e4a0da3a5980"
+Accept-Ranges: bytes
+Content-Length: 637
+Keep-Alive: timeout=5, max=83
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;f771-50d54c414f1da&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 23 Jan 2015 17:03:21 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/_js/Offer.js" path="/_js/Offer.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="68"
+    responseSize="63345" serverUid="10.0.0.100"
+    slaProfileEnabled="false" uid="047912b2-60eb-4957-a98b-82a5143dfca9" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_68e390ff-73f8-430d-966f-8f7ff5015b92</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_68e390ff-73f8-430d-966f-8f7ff5015b92.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:25 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Fri, 23 Jan 2015 17:03:21 GMT
+ETag: "f771-50d54c414f1da"
+Accept-Ranges: bytes
+Content-Length: 63345
+Keep-Alive: timeout=5, max=81
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;eb19-513c940ed3a5c&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 15 Apr 2015 20:33:02 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/_js/Insurant.js" path="/_js/Insurant.js"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="59"
+    responseSize="60185" serverUid="10.0.0.100"
+    slaProfileEnabled="false" uid="ff62c91b-294c-4820-a6ac-dd6349e08d5a" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_cf7e64a3-9516-425e-9061-0bc1db0743ea</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_cf7e64a3-9516-425e-9061-0bc1db0743ea.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:25 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Wed, 15 Apr 2015 20:33:02 GMT
+ETag: "eb19-513c940ed3a5c"
+Accept-Ranges: bytes
+Content-Length: 60185
+Keep-Alive: timeout=5, max=82
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;2d3e-4f0952147f580&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 22 Jan 2014 20:40:06 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pics/subnav_top.jpg" path="/pics/subnav_top.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/d34c9089-330c-487e-8c96-ebc112097290.zip"
+    recordedResponseCode="200" recordedResponseTime="24"
+    responseSize="0" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="5eda4ae3-1dc6-43c8-bc7a-59bbb796f164" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_1d496359-43f8-4b51-aa1c-375af6b1f7f0</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1d496359-43f8-4b51-aa1c-375af6b1f7f0.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:25 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Wed, 22 Jan 2014 20:40:06 GMT
+ETag: "2d3e-4f0952147f580"
+Accept-Ranges: bytes
+Content-Length: 11582
+Keep-Alive: timeout=5, max=85
+Connection: Keep-Alive
+Content-Type: image/jpeg</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

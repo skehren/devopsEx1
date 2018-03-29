@@ -1,0 +1,8 @@
+<websocket-action name="Close Connection" slaProfileEnabled="false"
+    synchronous-type="ASYNCHRONOUS"
+    uid="a3f6bd6c-bc6a-4517-a418-48574ab4aa77"
+    websocket-body-type="TEXT" websocket-channel-uid="39882a58-04bb-47cb-a922-874e674798d2">
+    <binaryPostContentBase64><![CDATA[]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_29155bb5-a6b7-4a61-8fdd-5eeae8704931</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_29155bb5-a6b7-4a61-8fdd-5eeae8704931.txt</requestContentFileDescription>
+</websocket-action>

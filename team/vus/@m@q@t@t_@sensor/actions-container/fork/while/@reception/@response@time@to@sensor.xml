@@ -1,0 +1,13 @@
+<custom-action actionType="CustomMeasurementAction" isHit="false"
+    name="ResponseTimeToSensor" uid="964130c5-8fe2-4aff-9804-b175058db76f">
+    <description>Records your own data for analysis: custom duration and related error status.
+
+Possible parameters are:&#xd;
+- duration (required): Sets the duration (in ms) of the action.&#xd;
+- isError (optional): Used as error status. Default value is "false".&#xd;
+- responseCode (optional): Sets the response code.&#xd;
+- response (optional): Sets the response content.</description>
+    <custom-action-parameter name="duration" type="TEXT" value="${TransferTime}"/>
+    <custom-action-parameter name="isError" type="TEXT" value="false"/>
+    <responsePageFileDescription>recorded-responses/res_a64ee7e1-7090-4cbb-8ca2-32cfe96f72c0</responsePageFileDescription>
+</custom-action>

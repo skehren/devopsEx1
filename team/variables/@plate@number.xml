@@ -1,0 +1,1 @@
+<variable-random-string max-lenght="8" min-lenght="5" name="PlateNumber" order="1" policy="1" random-seed="false" range="2" uid="721be26e-d841-4a3a-826e-9c8095595cba" whenOutOfValues="CYCLE_VALUES"/>

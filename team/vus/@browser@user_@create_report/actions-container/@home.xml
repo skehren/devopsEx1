@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Home" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="true"
+    slaProfileName="DefaultSLA"
+    uid="a27821ac-6718-4c70-a67b-20305b0b6457" weightsEnabled="false">
+    <weighted-embedded-action uid="3598f93e-37d6-47a5-b2f8-a68a2b038b8f"/>
+    <weighted-embedded-action uid="5f272c4c-f429-438d-b708-22ea85fc9a35"/>
+</basic-logical-action-container>

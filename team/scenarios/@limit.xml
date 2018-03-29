@@ -1,0 +1,248 @@
+<scenario postMonitoringTime="-1" preMonitoringTime="-1"
+    slaProfileEnabled="false" uid="Limit" virtualUsersStates="true">
+    <dashboards defaultDashboardUid="Graph board"/>
+    <!--****** DASHBOARDS  ******-->
+    <charts-model-description name="Graph board">
+        <chart-description autoRange="true"
+            chart-description-type="chart-description-type"
+            domainMarkerVisible="true" granularityLevel="0"
+            historyState="XMIN" includeInReport="false"
+            rangeMarkerVisible="true" title="User Load and Error Rate" typeName="CLASSIC">
+            <monitor-curve-description color="20,106,203"
+                connectionName="NeoLoad" dashed="false"
+                monitorName="UserLoad" monitoredHostName="NeoLoad"
+                scale="0.1" selected="false"/>
+            <action-curve-description
+                actionUid="2ee035d5-0178-378f-8d0a-63218f082d2f"
+                color="200,0,0" dashed="false" populationName=""
+                scale="1.0" selected="false"
+                statisticName="result.errors" zoneName=""/>
+        </chart-description>
+        <chart-description autoRange="true"
+            chart-description-type="chart-description-type"
+            domainMarkerVisible="true" granularityLevel="0"
+            historyState="XMIN" includeInReport="false"
+            rangeMarkerVisible="true" title="Overall Throughput" typeName="CLASSIC">
+            <monitor-curve-description color="42,89,26"
+                connectionName="NeoLoad" dashed="false"
+                monitorName="throughput" monitoredHostName="NeoLoad"
+                scale="1.0" selected="false"/>
+        </chart-description>
+        <chart-description autoRange="true"
+            chart-description-type="chart-description-type"
+            domainMarkerVisible="true" granularityLevel="0"
+            historyState="XMIN" includeInReport="false"
+            rangeMarkerVisible="true" title="Load Generators CPU usage" typeName="CLASSIC">
+            <monitor-curve-description color="0,255,0"
+                connectionName="NeoLoad" dashed="false"
+                monitorName="lgcpu.localhost"
+                monitoredHostName="LG localhost" scale="1.0" selected="false"/>
+            <monitor-curve-description color="20,106,203"
+                connectionName="NeoLoad" dashed="false"
+                monitorName="lgcpu.tosca-1.skytap.example"
+                monitoredHostName="LG tosca-1.skytap.example"
+                scale="1.0" selected="false"/>
+        </chart-description>
+        <chart-description autoRange="true"
+            chart-description-type="chart-description-type"
+            domainMarkerVisible="true" granularityLevel="0"
+            historyState="XMIN" includeInReport="false"
+            rangeMarkerVisible="true" title="10.0.0.100/windows" typeName="CLASSIC">
+            <monitor-curve-description color="20,106,203"
+                connectionName="windows" dashed="false"
+                monitorName="Database ==> Instances/Sessions % Used (svchost/_Total)"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="88,183,55"
+                connectionName="windows" dashed="false"
+                monitorName="Database ==> Instances/Sessions % Used (svchost/SUS20ClientDataStore)"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="200,0,0"
+                connectionName="windows" dashed="false"
+                monitorName="Database ==> TableClasses/Database Cache % Hit"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="191,0,189"
+                connectionName="windows" dashed="false"
+                monitorName="Database ==> TableClasses/Database Cache Misses/sec"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="20,210,210"
+                connectionName="windows" dashed="false"
+                monitorName="Database ==> TableClasses/Database Cache Requests/sec"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="223,143,143"
+                connectionName="windows" dashed="false"
+                monitorName="LogicalDisk/% Disk Time"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="236,153,22"
+                connectionName="windows" dashed="false"
+                monitorName="LogicalDisk/% Free Space"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="128,128,128"
+                connectionName="windows" dashed="false"
+                monitorName="LogicalDisk/Avg. Disk Queue Length"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="244,239,0"
+                connectionName="windows" dashed="false"
+                monitorName="Memory/Available MBytes"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="15,79,152"
+                connectionName="windows" dashed="false"
+                monitorName="Memory/Page Faults/sec"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="66,137,41"
+                connectionName="windows" dashed="false"
+                monitorName="Memory/Pages/sec"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="183,179,0"
+                connectionName="windows" dashed="false"
+                monitorName="Network Interface/% network utilization (vmxnet3 Ethernet Adapter)"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="143,0,141"
+                connectionName="windows" dashed="false"
+                monitorName="Network Interface/% network utilization (isatap.tricentis.com)"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="15,157,157"
+                connectionName="windows" dashed="false"
+                monitorName="Network Interface/% network utilization (Local Area Connection_ 9)"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="177,114,16"
+                connectionName="windows" dashed="false"
+                monitorName="Network Interface/% network utilization (isatap.skytap.example)"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="183,179,0"
+                connectionName="windows" dashed="false"
+                monitorName="Network Interface/Bytes Total/sec (vmxnet3 Ethernet Adapter)"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="64,64,64"
+                connectionName="windows" dashed="false"
+                monitorName="Network Interface/Bytes Total/sec (isatap.tricentis.com)"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="26,141,255"
+                connectionName="windows" dashed="false"
+                monitorName="Network Interface/Bytes Total/sec (Local Area Connection_ 9)"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="117,244,73"
+                connectionName="windows" dashed="false"
+                monitorName="Network Interface/Bytes Total/sec (isatap.skytap.example)"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="254,0,252"
+                connectionName="windows" dashed="false"
+                monitorName="Network Interface/Output Queue Length (vmxnet3 Ethernet Adapter)"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="26,255,255"
+                connectionName="windows" dashed="false"
+                monitorName="Network Interface/Output Queue Length (isatap.tricentis.com)"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="192,192,192"
+                connectionName="windows" dashed="false"
+                monitorName="Network Interface/Output Queue Length (Local Area Connection_ 9)"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="11,59,114"
+                connectionName="windows" dashed="false"
+                monitorName="Network Interface/Output Queue Length (isatap.skytap.example)"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="49,102,30"
+                connectionName="windows" dashed="false"
+                monitorName="Network Interface/Packets/sec (vmxnet3 Ethernet Adapter)"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="137,134,0"
+                connectionName="windows" dashed="false"
+                monitorName="Network Interface/Packets/sec (isatap.tricentis.com)"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="107,0,105"
+                connectionName="windows" dashed="false"
+                monitorName="Network Interface/Packets/sec (Local Area Connection_ 9)"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="11,117,117"
+                connectionName="windows" dashed="false"
+                monitorName="Network Interface/Packets/sec (isatap.skytap.example)"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="132,85,12"
+                connectionName="windows" dashed="false"
+                monitorName="PhysicalDisk/% Idle Time"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="34,188,255"
+                connectionName="windows" dashed="false"
+                monitorName="PhysicalDisk/Avg. Disk Queue Length"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="156,255,97"
+                connectionName="windows" dashed="false"
+                monitorName="PhysicalDisk/Avg. Disk sec/Read"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="255,0,255"
+                connectionName="windows" dashed="false"
+                monitorName="PhysicalDisk/Avg. Disk sec/Write"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="34,255,255"
+                connectionName="windows" dashed="false"
+                monitorName="Processor/% Processor Time"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="74,88,139"
+                connectionName="windows" dashed="false"
+                monitorName="Processor/Interrupts/sec"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="39,180,11"
+                connectionName="windows" dashed="false"
+                monitorName="System/Context Switches/sec"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="236,106,97"
+                connectionName="windows" dashed="false"
+                monitorName="System/Processor Queue Length"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="16,32,110"
+                connectionName="windows" dashed="false"
+                monitorName="System/Processor Queue Length per CPU"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="88,53,156"
+                connectionName="windows" dashed="false"
+                monitorName="System/System Calls/sec"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="38,34,232"
+                connectionName="windows" dashed="false"
+                monitorName="TCPv4/% Segments Retransmitted"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="210,101,13"
+                connectionName="windows" dashed="false"
+                monitorName="TCPv4/Segments Retransmitted/sec"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+            <monitor-curve-description color="236,80,74"
+                connectionName="windows" dashed="false"
+                monitorName="TCPv4/Segments Sent/sec"
+                monitoredHostName="10.0.0.100" scale="1.0" selected="false"/>
+        </chart-description>
+        <chart-description autoRange="true"
+            chart-description-type="chart-description-type"
+            domainMarkerVisible="true" granularityLevel="0"
+            historyState="XMIN" includeInReport="false"
+            rangeMarkerVisible="true" title="NeoloadIntegration/6" typeName="CLASSIC">
+            <third-party-data-curve-description color="178,140,0"
+                dashed="false" path="NeoloadIntegration/6" scale="1.0"
+                selected="true" unit="ms"/>
+        </chart-description>
+    </charts-model-description>
+    <!--****** END DASHBOARDS  ******-->
+    <!--****** START DATA FILTERS  ******-->
+    <!--****** END DATA FILTERS  ******-->
+    <!--****** START RENDEZ-VOUS POLICIES  ******-->
+    <!--****** END RENDEZ-VOUS POLICIES  ******-->
+    <!--****** START DEBUG POLICY ******-->
+    <debug-policy mode="0"/>
+    <!--****** END DEBUG POLICY ******-->
+    <!--****** START VU STATES ******-->
+    <!--****** END VU STATES ******-->
+    <request-path-exclusion-filter isEnabled="false">
+        <regexps>
+            <regexp>.*\.jpg</regexp>
+            <regexp>.*\.jpeg</regexp>
+            <regexp>.*\.gif</regexp>
+            <regexp>.*\.png</regexp>
+            <regexp>.*\.bmp</regexp>
+            <regexp>.*\.css</regexp>
+            <regexp>.*\.js</regexp>
+            <regexp>.*\.swf</regexp>
+            <regexp>.*\.ico</regexp>
+            <regexp>.*\.jar</regexp>
+            <regexp>.*\.class</regexp>
+            <regexp>.*\.properties</regexp>
+        </regexps>
+    </request-path-exclusion-filter>
+</scenario>

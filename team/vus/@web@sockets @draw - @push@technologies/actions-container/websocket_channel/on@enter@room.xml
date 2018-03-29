@@ -1,0 +1,12 @@
+<push-message element-number="1" execution-type="0"
+    messageType="CONDITIONS" name="onEnterRoom" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    responseCharset="UTF-8" uid="c882372e-f312-4dcd-9b1c-67f6de1d1ee0" weightsEnabled="false">
+    <weighted-embedded-action uid="fe397e46-37fb-48b2-a3f9-a50e28370eea"/>
+    <weighted-embedded-action uid="a5b17340-4189-4577-9124-610e0136f074"/>
+    <weighted-embedded-action uid="39cba765-5767-41e2-962d-39a8ca26e4ca"/>
+    <conditions match-type="1">
+        <condition operand1="${NL-MessageContent}"
+            operand2="pushtechnology.com" operator="CONTAINS"/>
+    </conditions>
+</push-message>

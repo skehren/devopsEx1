@@ -1,0 +1,45 @@
+<http-page executeResourcesDynamically="false"
+    name="/pics/vehic_data_a.jpg" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/981945e9-c265-43f5-baf1-984ece9e3ee5.zip"
+    slaProfileEnabled="false" thinkTime="26021"
+    thinkTimeMode="MODE_RANGE_THINK_TIME" thinkTimeRangeEnd="6000"
+    thinkTimeRangeStart="3000" uid="981945e9-c265-43f5-baf1-984ece9e3ee5">
+    <embedded-action>20c7257d-4dcf-4b46-8b1e-404da597d2b7</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_1ea9614c-aacf-4575-b0ea-427d5bf1c0df.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;d3e-4f094d27bd700&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 22 Jan 2014 20:18:04 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pics/vehic_data_a.jpg"
+    path="/pics/vehic_data_a.jpg" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/981945e9-c265-43f5-baf1-984ece9e3ee5.zip"
+    recordedResponseCode="200" recordedResponseTime="9" responseSize="0"
+    serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="20c7257d-4dcf-4b46-8b1e-404da597d2b7" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_aaa48aab-8f1c-407a-a26f-2212b6af8a0a</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_aaa48aab-8f1c-407a-a26f-2212b6af8a0a.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/VehicleData.html"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Cookie" value="TypeOfVehicle=Automobile; isDateVerified=true"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:59 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Wed, 22 Jan 2014 20:18:04 GMT
+ETag: "d3e-4f094d27bd700"
+Accept-Ranges: bytes
+Content-Length: 3390
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: image/jpeg</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

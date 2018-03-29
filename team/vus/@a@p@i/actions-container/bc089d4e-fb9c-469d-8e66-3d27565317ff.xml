@@ -1,0 +1,11 @@
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="http_request_" path="/api" postType="1"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="bc089d4e-fb9c-469d-8e66-3d27565317ff" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3fbb1c63-34fd-4077-8fca-34ce481b7a5e</responsePageFileDescription>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

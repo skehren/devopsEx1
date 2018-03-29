@@ -1,0 +1,5 @@
+<http-server hostname="versioncheck-bg.addons.mozilla.org" port="443"
+    ssl="true" uid="versioncheck-bg.addons.mozilla.org"
+    urlrewriting-argument-name="" urlrewriting-enabled="false"
+    urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

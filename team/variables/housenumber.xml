@@ -1,0 +1,1 @@
+<variable-random-number max-value="100" min-value="1" name="housenumber" order="1" policy="1" random-seed="false" range="2" uid="b04b0787-c1f6-40bb-a798-31b7e32c7296" whenOutOfValues="CYCLE_VALUES"/>

@@ -1,0 +1,16 @@
+<custom-action actionType="MQTT Connect" isHit="false" name="connect" uid="73426e8b-0187-41e1-99d6-f2bdf719626e">
+    <description>Connect to an MQTT broker.
+
+Possible parameters are:&#xd;
+- BrokerAlias (optional): Alias identifying the broker in all further interactions with it. If User Path connects to one broker only, this parameter can be left out.&#xd;
+- Protocol (optional): Protocol used to communicate with the MQTT broker. Defaults to the only supported protocol: "tcp". Default value is "tcp".&#xd;
+- Host (optional): Host of the MQTT broker (IP address or domain name). Default value is "localhost".&#xd;
+- Port (optional): Port number of the MQTT broker. Defaults to 1883. Default value is "1883".&#xd;
+- UserName (optional): Username for authenticating and authorizing the client on the MQTT broker.&#xd;
+- Password (optional): Password for authenticating and authorizing the client on the MQTT broker.&#xd;
+- ClientId (optional): Identifier of the MQTT client connecting to the MQTT broker (expected to be unique per broker, default is a randomly generated client identifier guaranteed to be unique per User Path and per Load Generator).</description>
+    <custom-action-parameter name="Protocol" type="TEXT" value="tcp"/>
+    <custom-action-parameter name="Host" type="TEXT" value="localhost"/>
+    <custom-action-parameter name="Port" type="TEXT" value="1883"/>
+    <responsePageFileDescription>recorded-responses/res_7e63bb8c-4757-45be-82af-de9c559f4da7</responsePageFileDescription>
+</custom-action>

@@ -1,0 +1,42 @@
+<websocket-channel-action actionType="1" contentType=""
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    extractorServerUid="technodemo" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="websocket_channel" path="/diffusion" postType="1"
+    pushType="WEBSOCKET" responseSize="0" serverUid="technodemo"
+    slaProfileEnabled="false" uid="39882a58-04bb-47cb-a922-874e674798d2" useKeepAlive="true">
+    <response-matching extractionMethod="REGEXP_ONLY" regexp="" template="$1$"/>
+    <responsePageFileDescription>recorded-responses/res_0e0b3a73-d96a-4d4c-80b4-2f3e47a95128</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0e0b3a73-d96a-4d4c-80b4-2f3e47a95128.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="t"
+        recordRawValue="drawingboard" separator="=" value="drawingboard" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ty"
+        recordRawValue="WB" separator="=" value="WB" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="username"
+        recordRawValue="default" separator="=" value="default" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="password"
+        recordRawValue="null" separator="=" value="null" valueMode="USE_VALUE"/>
+    <header name="Host" value="demo2.pushtechnology.com"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Sec-WebSocket-Version" value="13"/>
+    <header name="Origin" value="http://demo2.pushtechnology.com"/>
+    <header name="Sec-WebSocket-Key" value="GhNOIrfHR5FGQgpXu4So+A=="/>
+    <header name="Cookie" value="__utma=153225145.980303157.1379661365.1380788947.1382011556.3; __utmz=153225145.1379661365.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __unam=8c26cf8-1413a39c404-1b649d5f-4; __hstc=143486506.f8cbda7510d5cb1608ca4eb1ec55ff98.1379661367246.1380788951691.1382011557897.3; hsfirstvisit=http%3A%2F%2Fwww.pushtechnology.com%2Fdiffusion%2Fdemos%2F||1379661367245; hubspotutk=f8cbda7510d5cb1608ca4eb1ec55ff98; __hs_opt_out=no; __utmb=153225145.1.10.1382011556; __hssc=143486506.1.1382011557897"/>
+    <header name="Connection" value="keep-alive, Upgrade"/>
+    <header name="Pragma" value="no-cache"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="Upgrade" value="websocket"/>
+    <responseHeaders>null</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <embedded-action>c882372e-f312-4dcd-9b1c-67f6de1d1ee0</embedded-action>
+    <push-handler filecount="0"
+        filename="recorded-responses\websocket_ce07ec7c-b4e2-4f28-8b46-6954d438f9ec.dat" pushType="WEBSOCKET">
+        <result-handler responseSource="MESSAGE" type="REGEXP"/>
+    </push-handler>
+</websocket-channel-action>

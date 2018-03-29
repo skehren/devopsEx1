@@ -1,0 +1,118 @@
+<scenario postMonitoringTime="-1" preMonitoringTime="-1"
+    slaProfileEnabled="false" uid="ALL" virtualUsersStates="true">
+    <description>50 NL users &amp; 1 Selenium users</description>
+    <dashboards defaultDashboardUid="Graph board"/>
+    <!--****** DASHBOARDS  ******-->
+    <charts-model-description name="Graph board">
+        <chart-description autoRange="true"
+            chart-description-type="chart-description-type"
+            domainMarkerVisible="true" granularityLevel="0"
+            historyState="XMIN" includeInReport="false"
+            rangeMarkerVisible="true" title="User Load and Error Rate" typeName="CLASSIC">
+            <monitor-curve-description color="20,106,203"
+                connectionName="NeoLoad" dashed="false"
+                monitorName="UserLoad" monitoredHostName="NeoLoad"
+                scale="1.0" selected="false"/>
+            <action-curve-description
+                actionUid="2ee035d5-0178-378f-8d0a-63218f082d2f"
+                color="200,0,0" dashed="false" populationName=""
+                scale="1.0" selected="false"
+                statisticName="result.errors" zoneName=""/>
+        </chart-description>
+        <chart-description autoRange="true"
+            chart-description-type="chart-description-type"
+            domainMarkerVisible="true" granularityLevel="0"
+            historyState="XMIN" includeInReport="false"
+            rangeMarkerVisible="true" title="Overall Throughput" typeName="CLASSIC">
+            <monitor-curve-description color="42,89,26"
+                connectionName="NeoLoad" dashed="false"
+                monitorName="throughput" monitoredHostName="NeoLoad"
+                scale="1.0" selected="false"/>
+        </chart-description>
+        <chart-description autoRange="true"
+            chart-description-type="chart-description-type"
+            domainMarkerVisible="true" granularityLevel="0"
+            historyState="XMIN" includeInReport="false"
+            rangeMarkerVisible="true" title="Load Generators CPU usage" typeName="CLASSIC">
+            <monitor-curve-description color="0,255,0"
+                connectionName="NeoLoad" dashed="false"
+                monitorName="lgcpu.localhost:7100"
+                monitoredHostName="LG localhost:7100" scale="1.0" selected="false"/>
+        </chart-description>
+        <chart-description autoRange="true"
+            chart-description-type="chart-description-type"
+            domainMarkerVisible="true" granularityLevel="0"
+            historyState="XMIN" includeInReport="false"
+            rangeMarkerVisible="true" title="Submission/Timers/HomePage" typeName="CLASSIC">
+            <action-curve-description
+                actionUid="6bae8376-0396-450d-b137-e544b6c0adcd"
+                color="0,51,255" dashed="false" populationName=""
+                scale="1.0" selected="false"
+                statisticName="result.average.duration"
+                virtualUserUid="Ushahidi" zoneName=""/>
+            <action-curve-description
+                actionUid="4edec47a-5e05-47f0-ae8a-ddfec7714a2d"
+                color="191,0,189" dashed="false" populationName=""
+                scale="1.0" selected="false"
+                statisticName="result.average.duration"
+                virtualUserUid="Ushahidi" zoneName=""/>
+            <action-curve-description
+                actionUid="207991cb-92e8-4650-9d41-25f4d6ca6e5b"
+                color="20,210,210" dashed="false" populationName=""
+                scale="1.0" selected="false"
+                statisticName="result.average.duration"
+                virtualUserUid="Ushahidi" zoneName=""/>
+            <action-curve-description
+                actionUid="f8a0462a-4a64-43e5-b632-c02ffe60a779"
+                color="223,143,143" dashed="false" populationName=""
+                scale="1.0" selected="false"
+                statisticName="result.average.duration"
+                virtualUserUid="Ushahidi" zoneName=""/>
+        </chart-description>
+        <chart-description autoRange="true"
+            chart-description-type="chart-description-type"
+            domainMarkerVisible="true" granularityLevel="0"
+            historyState="XMIN" includeInReport="false"
+            rangeMarkerVisible="true"
+            title="SeleniumDelegate/Timers/reports/submit" typeName="CLASSIC">
+            <action-curve-description
+                actionUid="f7db942a-f754-4a6d-bf42-99daa3f9e0e5"
+                color="153,153,0" dashed="false" populationName=""
+                scale="1.0" selected="false"
+                statisticName="result.average.duration"
+                virtualUserUid="Ushahidi" zoneName=""/>
+            <action-curve-description
+                actionUid="991b33ef-f39c-49b9-9f18-3718e67db2c5"
+                color="20,106,203" dashed="false" populationName=""
+                scale="1.0" selected="false"
+                statisticName="result.average.duration"
+                virtualUserUid="Ushahidi" zoneName=""/>
+        </chart-description>
+    </charts-model-description>
+    <!--****** END DASHBOARDS  ******-->
+    <!--****** START DATA FILTERS  ******-->
+    <!--****** END DATA FILTERS  ******-->
+    <!--****** START RENDEZ-VOUS POLICIES  ******-->
+    <!--****** END RENDEZ-VOUS POLICIES  ******-->
+    <!--****** START DEBUG POLICY ******-->
+    <debug-policy mode="0"/>
+    <!--****** END DEBUG POLICY ******-->
+    <!--****** START VU STATES ******-->
+    <!--****** END VU STATES ******-->
+    <request-path-exclusion-filter isEnabled="false">
+        <regexps>
+            <regexp>.*\.jpg</regexp>
+            <regexp>.*\.jpeg</regexp>
+            <regexp>.*\.gif</regexp>
+            <regexp>.*\.png</regexp>
+            <regexp>.*\.bmp</regexp>
+            <regexp>.*\.css</regexp>
+            <regexp>.*\.js</regexp>
+            <regexp>.*\.swf</regexp>
+            <regexp>.*\.ico</regexp>
+            <regexp>.*\.jar</regexp>
+            <regexp>.*\.class</regexp>
+            <regexp>.*\.properties</regexp>
+        </regexps>
+    </request-path-exclusion-filter>
+</scenario>

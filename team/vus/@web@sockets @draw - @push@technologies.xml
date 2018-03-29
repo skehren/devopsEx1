@@ -1,0 +1,28 @@
+<virtual-user errorPolicy="DO_NOTHING"
+    failedAssertionPolicy="DO_NOTHING" slaProfileEnabled="false" uid="WebSockets Draw - PushTechnologies">
+    <init-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Eléments exécutés lorsque l'Utilisateur Virtuel démarre.</description>
+    </init-container>
+    <actions-container clearUserIterationDataMode="ON"
+        element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Eléments répétés jusqu'à que l'Utilisateur Virtuel s'arrête.</description>
+        <weighted-embedded-action uid="39882a58-04bb-47cb-a922-874e674798d2"/>
+        <weighted-embedded-action uid="07479f59-0617-41f5-a57e-36b8816aa5b6"/>
+        <weighted-embedded-action uid="0a9d2dc6-e2fa-4419-b906-d5b90e37b7e2"/>
+        <weighted-embedded-action uid="0aafb3a2-2333-487b-8c42-ffca07a293ff"/>
+        <weighted-embedded-action uid="22cb9114-089d-4c1f-b7a8-5302e0b7b4b0"/>
+        <weighted-embedded-action uid="a3f6bd6c-bc6a-4517-a418-48574ab4aa77"/>
+    </actions-container>
+    <end-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Eléments exécutés avant que l'Utilisateur Virtuel s'arrête.</description>
+    </end-container>
+    <thinktime-policy thinkTimeMode="MODE_SIMPLE_THINK_TIME"
+        thinktimeFactorValue="100" thinktimePolicy="0"
+        thinktimeRangeValue="0" thinktimeValue="5000"/>
+</virtual-user>

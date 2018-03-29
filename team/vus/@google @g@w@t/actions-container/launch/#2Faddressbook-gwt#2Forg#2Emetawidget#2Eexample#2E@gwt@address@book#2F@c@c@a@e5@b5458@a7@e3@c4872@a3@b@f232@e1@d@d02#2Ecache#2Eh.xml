@@ -1,0 +1,279 @@
+<http-page executeResourcesDynamically="false"
+    name="/addressbook-gwt/org.metawidget.example.GwtAddressBook/CCAE5B5458A7E3C4872A3BF232E1DD02.cache.h"
+    playRequestsSequentially="true"
+    recordedArtifactZipFileName="team/vus/@google @g@w@t/%resources%/recorded-artifacts/a403cb97-dd4f-44ad-9016-7ee34c111302.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="a403cb97-dd4f-44ad-9016-7ee34c111302">
+    <embedded-action>5a4632de-ea48-4f01-bc09-961af67f4f9b</embedded-action>
+    <embedded-action>760864f7-778e-4361-9157-9d278e772638</embedded-action>
+    <embedded-action>768f4ecf-7ea2-4183-9f17-93ca4181334a</embedded-action>
+    <embedded-action>ec83eabe-81a1-4c25-a537-99b0a1f768ce</embedded-action>
+    <embedded-action>182c0e8d-a4f1-49b9-91eb-738a11abc5b6</embedded-action>
+    <embedded-action>61482579-86c3-456a-a0aa-bd8d3307f73e</embedded-action>
+    <embedded-action>464cba11-8765-4a12-bf0b-6688822b6156</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_b51de088-ebcd-4886-9c02-e32f3bfdb5da.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/addressbook-gwt/org.metawidget.example.GwtAddressBook/CCAE5B5458A7E3C4872A3BF232E1DD02.cache.html"
+    path="/addressbook-gwt/org.metawidget.example.GwtAddressBook/CCAE5B5458A7E3C4872A3BF232E1DD02.cache.html"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@google @g@w@t/%resources%/recorded-artifacts/a403cb97-dd4f-44ad-9016-7ee34c111302.zip"
+    recordedResponseCode="200" recordedResponseTime="1031"
+    responseSize="318852" serverUid="technodemo"
+    slaProfileEnabled="false" uid="5a4632de-ea48-4f01-bc09-961af67f4f9b" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_497b1fe1-b466-4906-b47f-ef686b72ba85.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_497b1fe1-b466-4906-b47f-ef686b72ba85.txt</requestContentFileDescription>
+    <variable-extractor assertionOnNoMatch="true"
+        defaultValue="StrongID_NOT_FOUND" displayMode="1"
+        endsWithSimple="" extractFromVarNameAdv=""
+        extractFromVarNameSimple="" extractType="0" extractTypeAdv="0"
+        extractTypeSimple="0" matchNumber="-1" matchNumberAdv="-1"
+        matchNumberSimple="1" name="StrongID" regExp="'([A-F0-9]{32})'"
+        regExpAdv="'([A-F0-9]{32})'" setDefaultValue="true"
+        startsWithSimple="" template="$1$" templateAdv="$1$"
+        uid="2296239d-9a64-475e-b4ce-dab279dfb33c" xpath=""/>
+    <header name="Host" value="204.236.255.173:8080"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://204.236.255.173:8080/addressbook-gwt/"/>
+    <header name="Cookie" value="JSESSIONID=4710FA96E54EC92B5DAD6EFB7FDBB2FC"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1
+Accept-Ranges: bytes
+ETag: W/"318852-1336996490000"
+Last-Modified: Mon, 14 May 2012 11:54:50 GMT
+Content-Type: text/html
+Content-Length: 318852
+Date: Wed, 14 Aug 2013 07:37:25 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-plugin-action actionType="1"
+    contentType="application/json;charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="/addressbook-gwt/org.metawidget.example.GwtAddressBook/contacts"
+    path="/addressbook-gwt/org.metawidget.example.GwtAddressBook/contacts"
+    plugin="GWT" postType="2"
+    recordedArtifactZipFileName="team/vus/@google @g@w@t/%resources%/recorded-artifacts/a403cb97-dd4f-44ad-9016-7ee34c111302.zip"
+    recordedResponseCode="200" recordedResponseTime="282"
+    responseSize="1229" serverUid="technodemo" slaProfileEnabled="false"
+    uid="760864f7-778e-4361-9157-9d278e772638" useKeepAlive="true">
+    <plugin-handler flags="0" isRequestConversionSuccessful="true"
+        isResponseConversionSuccessful="true"
+        labelBase64="Q29udGFjdHNTZXJ2aWNlLmdldEFsbEJ5RXhhbXBsZQ=="
+        moduleBase="http://204.236.255.173:8080/addressbook-gwt/org.metawidget.example.GwtAddressBook/"
+        networkType="HTTP" plugin="GWT" protocolVersion="7"
+        resultClass="java.util.List" strongId="F6731143EE66DC40B8FCD7B31F16B79A">
+        <requestXMLDataBase64><![CDATA[PEdXVFJlcXVlc3Q+CiAgPHNlcnZpY2U+b3JnLm1ldGF3aWRnZXQuZXhhbXBsZS5nd3QuYWRkcmVzc2Jvb2suY2xpZW50LnJwYy5Db250YWN0c1NlcnZpY2U8L3NlcnZpY2U+CiAgPG1ldGhvZD5nZXRBbGxCeUV4YW1wbGU8L21ldGhvZD4KICA8c3Ryb25nSWQ+JHtTdHJvbmdJRF8zfTwvc3Ryb25nSWQ+CiAgPGVuY29kZWQ+ZmFsc2U8L2VuY29kZWQ+CiAgPHBhcmFtZXRlcnM+CiAgICA8b3JnLm1ldGF3aWRnZXQuZXhhbXBsZS5zaGFyZWQuYWRkcmVzc2Jvb2subW9kZWwuQ29udGFjdFNlYXJjaC8+CiAgPC9wYXJhbWV0ZXJzPgo8L0dXVFJlcXVlc3Q+]]></requestXMLDataBase64>
+        <serviceParameters>
+            <parameterClass>org.metawidget.example.shared.addressbook.model.ContactSearch/3465598833</parameterClass>
+        </serviceParameters>
+    </plugin-handler>
+    <responsePageFileDescription>recorded-responses/res_5fa8480c-49a5-4e57-8274-087c5728ca70</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5fa8480c-49a5-4e57-8274-087c5728ca70.txt</requestContentFileDescription>
+    <header name="Host" value="204.236.255.173:8080"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Content-Type" value="text/x-gwt-rpc; charset=utf-8"/>
+    <header name="X-GWT-Permutation" value="CCAE5B5458A7E3C4872A3BF232E1DD02"/>
+    <header name="X-GWT-Module-Base" value="http://204.236.255.173:8080/addressbook-gwt/org.metawidget.example.GwtAddressBook/"/>
+    <header name="Referer" value="http://204.236.255.173:8080/addressbook-gwt/"/>
+    <header name="Cookie" value="JSESSIONID=4710FA96E54EC92B5DAD6EFB7FDBB2FC"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Pragma" value="no-cache"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1
+Content-Encoding: gzip
+Content-Disposition: attachment
+Content-Type: application/json;charset=utf-8
+Content-Length: 598
+Date: Wed, 14 Aug 2013 07:37:27 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-plugin-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/addressbook-gwt/media/background-button.gif"
+    path="/addressbook-gwt/media/background-button.gif" postType="1"
+    recordedArtifactZipFileName="team/vus/@google @g@w@t/%resources%/recorded-artifacts/a403cb97-dd4f-44ad-9016-7ee34c111302.zip"
+    recordedResponseCode="200" recordedResponseTime="159"
+    responseSize="0" serverUid="technodemo" slaProfileEnabled="false"
+    uid="768f4ecf-7ea2-4183-9f17-93ca4181334a" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_d18c4d44-6eb1-4562-8b66-a0405536be01.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d18c4d44-6eb1-4562-8b66-a0405536be01.txt</requestContentFileDescription>
+    <header name="Host" value="204.236.255.173:8080"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0"/>
+    <header name="Accept" value="image/png,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://204.236.255.173:8080/addressbook-gwt/css/addressbook.css"/>
+    <header name="Cookie" value="JSESSIONID=4710FA96E54EC92B5DAD6EFB7FDBB2FC"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1
+Accept-Ranges: bytes
+ETag: W/"825-1336996408000"
+Last-Modified: Mon, 14 May 2012 11:53:28 GMT
+Content-Type: image/gif
+Content-Length: 825
+Date: Wed, 14 Aug 2013 07:37:27 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-plugin-action actionType="1"
+    contentType="application/json;charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="/addressbook-gwt/org.metawidget.example.GwtAddressBook/metawidget-inspector"
+    path="/addressbook-gwt/org.metawidget.example.GwtAddressBook/metawidget-inspector"
+    plugin="GWT" postType="2"
+    recordedArtifactZipFileName="team/vus/@google @g@w@t/%resources%/recorded-artifacts/a403cb97-dd4f-44ad-9016-7ee34c111302.zip"
+    recordedResponseCode="200" recordedResponseTime="182"
+    responseSize="528" serverUid="technodemo" slaProfileEnabled="false"
+    uid="ec83eabe-81a1-4c25-a537-99b0a1f768ce" useKeepAlive="true">
+    <plugin-handler flags="0" isRequestConversionSuccessful="true"
+        isResponseConversionSuccessful="true"
+        labelBase64="R3d0UmVtb3RlSW5zcGVjdG9yLmluc3BlY3Q="
+        moduleBase="http://204.236.255.173:8080/addressbook-gwt/org.metawidget.example.GwtAddressBook/"
+        networkType="HTTP" plugin="GWT" protocolVersion="7"
+        resultClass="java.lang.String" strongId="2357A7CC2057270690CCD39D7DC08FC6">
+        <requestXMLDataBase64><![CDATA[PEdXVFJlcXVlc3Q+CiAgPHNlcnZpY2U+b3JnLm1ldGF3aWRnZXQuaW5zcGVjdG9yLmd3dC5yZW1vdGUuaWZhY2UuR3d0UmVtb3RlSW5zcGVjdG9yPC9zZXJ2aWNlPgogIDxtZXRob2Q+aW5zcGVjdDwvbWV0aG9kPgogIDxzdHJvbmdJZD4ke1N0cm9uZ0lEXzJ9PC9zdHJvbmdJZD4KICA8ZW5jb2RlZD5mYWxzZTwvZW5jb2RlZD4KICA8cGFyYW1ldGVycz4KICAgIDxvcmcubWV0YXdpZGdldC5leGFtcGxlLnNoYXJlZC5hZGRyZXNzYm9vay5tb2RlbC5Db250YWN0U2VhcmNoLz4KICAgIDxTdHJpbmc+b3JnLm1ldGF3aWRnZXQuZXhhbXBsZS5zaGFyZWQuYWRkcmVzc2Jvb2subW9kZWwuQ29udGFjdFNlYXJjaDwvU3RyaW5nPgogICAgPFN0cmluZy1hcnJheS8+CiAgPC9wYXJhbWV0ZXJzPgo8L0dXVFJlcXVlc3Q+]]></requestXMLDataBase64>
+        <serviceParameters>
+            <parameterClass>java.io.Serializable</parameterClass>
+            <parameterClass>java.lang.String/2004016611</parameterClass>
+            <parameterClass>[Ljava.lang.String;/2600011424</parameterClass>
+        </serviceParameters>
+    </plugin-handler>
+    <responsePageFileDescription>recorded-responses/res_434a1a34-f80f-4b19-b267-b489ad36f5ca</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_434a1a34-f80f-4b19-b267-b489ad36f5ca.txt</requestContentFileDescription>
+    <header name="Host" value="204.236.255.173:8080"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Content-Type" value="text/x-gwt-rpc; charset=utf-8"/>
+    <header name="X-GWT-Permutation" value="CCAE5B5458A7E3C4872A3BF232E1DD02"/>
+    <header name="X-GWT-Module-Base" value="http://204.236.255.173:8080/addressbook-gwt/org.metawidget.example.GwtAddressBook/"/>
+    <header name="Referer" value="http://204.236.255.173:8080/addressbook-gwt/"/>
+    <header name="Cookie" value="JSESSIONID=4710FA96E54EC92B5DAD6EFB7FDBB2FC"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Pragma" value="no-cache"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1
+Content-Encoding: gzip
+Content-Disposition: attachment
+Content-Type: application/json;charset=utf-8
+Content-Length: 278
+Date: Wed, 14 Aug 2013 07:37:27 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-plugin-action>
+<http-action actionType="1" contentType="image/x-icon"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/favicon.ico" path="/favicon.ico" postType="1"
+    recordedArtifactZipFileName="team/vus/@google @g@w@t/%resources%/recorded-artifacts/a403cb97-dd4f-44ad-9016-7ee34c111302.zip"
+    recordedResponseCode="200" recordedResponseTime="187"
+    responseSize="0" serverUid="technodemo" slaProfileEnabled="false"
+    uid="182c0e8d-a4f1-49b9-91eb-738a11abc5b6" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_752006bb-e296-4c42-980d-1c19e7e5ee79</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_752006bb-e296-4c42-980d-1c19e7e5ee79.txt</requestContentFileDescription>
+    <header name="Host" value="204.236.255.173:8080"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1
+Accept-Ranges: bytes
+ETag: W/"21630-1372288114000"
+Last-Modified: Wed, 26 Jun 2013 23:08:34 GMT
+Content-Type: image/x-icon
+Content-Length: 21630
+Date: Wed, 14 Aug 2013 07:37:27 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/addressbook-gwt/media/business-small.gif"
+    path="/addressbook-gwt/media/business-small.gif" postType="1"
+    recordedArtifactZipFileName="team/vus/@google @g@w@t/%resources%/recorded-artifacts/a403cb97-dd4f-44ad-9016-7ee34c111302.zip"
+    recordedResponseCode="200" recordedResponseTime="137"
+    responseSize="0" serverUid="technodemo" slaProfileEnabled="false"
+    uid="61482579-86c3-456a-a0aa-bd8d3307f73e" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_120846cd-6e46-4b55-b2ca-2bf22f41d0d5.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_120846cd-6e46-4b55-b2ca-2bf22f41d0d5.txt</requestContentFileDescription>
+    <header name="Host" value="204.236.255.173:8080"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0"/>
+    <header name="Accept" value="image/png,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://204.236.255.173:8080/addressbook-gwt/"/>
+    <header name="Cookie" value="JSESSIONID=4710FA96E54EC92B5DAD6EFB7FDBB2FC"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1
+Accept-Ranges: bytes
+ETag: W/"1433-1336996408000"
+Last-Modified: Mon, 14 May 2012 11:53:28 GMT
+Content-Type: image/gif
+Content-Length: 1433
+Date: Wed, 14 Aug 2013 07:37:27 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/addressbook-gwt/media/personal-small.gif"
+    path="/addressbook-gwt/media/personal-small.gif" postType="1"
+    recordedArtifactZipFileName="team/vus/@google @g@w@t/%resources%/recorded-artifacts/a403cb97-dd4f-44ad-9016-7ee34c111302.zip"
+    recordedResponseCode="200" recordedResponseTime="184"
+    responseSize="0" serverUid="technodemo" slaProfileEnabled="false"
+    uid="464cba11-8765-4a12-bf0b-6688822b6156" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_4bae3609-6563-4d9d-ad3a-b45138b7472e.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4bae3609-6563-4d9d-ad3a-b45138b7472e.txt</requestContentFileDescription>
+    <header name="Host" value="204.236.255.173:8080"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0"/>
+    <header name="Accept" value="image/png,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://204.236.255.173:8080/addressbook-gwt/"/>
+    <header name="Cookie" value="JSESSIONID=4710FA96E54EC92B5DAD6EFB7FDBB2FC"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1
+Accept-Ranges: bytes
+ETag: W/"1441-1336996408000"
+Last-Modified: Mon, 14 May 2012 11:53:28 GMT
+Content-Type: image/gif
+Content-Length: 1441
+Date: Wed, 14 Aug 2013 07:37:27 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

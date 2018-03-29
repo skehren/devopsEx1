@@ -1,0 +1,157 @@
+<http-page executeResourcesDynamically="false"
+    name="imported_69:value=t101hh" playRequestsSequentially="true"
+    recordedArtifactZipFileName="team/vus/@oracle @f@o@r@m@s e-business/%resources%/recorded-artifacts/0f866740-bd3c-40f1-9cda-5265b3a315f4.zip"
+    slaProfileEnabled="false" thinkTime="18580"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="0f866740-bd3c-40f1-9cda-5265b3a315f4">
+    <embedded-action>a08f7783-0009-46b8-8228-4b80537d557c</embedded-action>
+    <embedded-action>e7dd8c65-4dc9-4072-bf82-87bc400ec4ed</embedded-action>
+    <embedded-action>b9a9872c-bae0-4532-9fed-1273be5cea36</embedded-action>
+    <embedded-action>0013f077-014b-4f70-8736-e80bdcd044f9</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_7b8bc9b0-358d-4597-9386-355d560a193d.jpg</screenshotFileDescription>
+</http-page>
+<http-plugin-action actionType="1"
+    contentType="application/octet-stream" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" extractorServerUid="technodemo"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="imported_/forms/lservlet;jsessionid=vpShQtTYLJgF9qxzj9GhqXRLyyR4zqmz0K2gbhTmQ5yK99jQGkFT!1668827078"
+    path="/forms/lservlet;jsessionid=vpShQtTYLJgF9qxzj9GhqXRLyyR4zqmz0K2gbhTmQ5yK99jQGkFT!1668827078"
+    plugin="FORMS" postType="2"
+    recordedArtifactZipFileName="team/vus/@oracle @f@o@r@m@s e-business/%resources%/recorded-artifacts/0f866740-bd3c-40f1-9cda-5265b3a315f4.zip"
+    recordedResponseCode="200" recordedResponseTime="31"
+    responseSize="370" serverUid="technodemo" slaProfileEnabled="false"
+    uid="a08f7783-0009-46b8-8228-4b80537d557c" useKeepAlive="true">
+    <plugin-handler isRequestConversionSuccessful="true"
+        isResponseConversionSuccessful="true"
+        labelBase64="Njk6dmFsdWU9dDEwMWho" networkType="HTTP" plugin="FORMS">
+        <requestXMLDataBase64><![CDATA[PERpYWxvZz4KICA8bWVzc2FnZXM+CiAgICA8RGF0YU1lc3NhZ2U+CiAgICAgIDxhY3Rpb25Db2RlPlVQREFURTwvYWN0aW9uQ29kZT4KICAgICAgPGhhbmRsZXJJZD42OTwvaGFuZGxlcklkPgogICAgICA8cHJvcGVydGllcz4KICAgICAgICA8UHJvcGVydHk+CiAgICAgICAgICA8aWQ+VkFMVUU8L2lkPgogICAgICAgICAgPHR5cGU+U1RSSU5HPC90eXBlPgogICAgICAgICAgPHZhbHVlIG9iamVjdENsYXNzPSJTdHJpbmciPiR7aW1wb3J0ZWRfdXNlcmRhdGEuZGF0YWJhc2V9PC92YWx1ZT4KICAgICAgICA8L1Byb3BlcnR5PgogICAgICAgIDxQcm9wZXJ0eT4KICAgICAgICAgIDxpZD5TRUxFQ1RJT048L2lkPgogICAgICAgICAgPHR5cGU+UE9JTlQ8L3R5cGU+CiAgICAgICAgICA8dmFsdWUgb2JqZWN0Q2xhc3M9IlBvaW50Ij4KICAgICAgICAgICAgPHg+NjwveD4KICAgICAgICAgICAgPHk+NjwveT4KICAgICAgICAgIDwvdmFsdWU+CiAgICAgICAgPC9Qcm9wZXJ0eT4KICAgICAgICA8UHJvcGVydHk+CiAgICAgICAgICA8aWQ+Q1VSU09SX1BPU0lUSU9OPC9pZD4KICAgICAgICAgIDx0eXBlPklOVEVHRVI8L3R5cGU+CiAgICAgICAgICA8dmFsdWUgb2JqZWN0Q2xhc3M9ImludCI+NjwvdmFsdWU+CiAgICAgICAgPC9Qcm9wZXJ0eT4KICAgICAgPC9wcm9wZXJ0aWVzPgogICAgPC9EYXRhTWVzc2FnZT4KICAgIDxEYXRhTWVzc2FnZT4KICAgICAgPGFjdGlvbkNvZGU+VVBEQVRFPC9hY3Rpb25Db2RlPgogICAgICA8aGFuZGxlcklkPjIzPC9oYW5kbGVySWQ+CiAgICAgIDxwcm9wZXJ0aWVzPgogICAgICAgIDxQcm9wZXJ0eT4KICAgICAgICAgIDxpZD5NT1VTRURPV048L2lkPgogICAgICAgICAgPHR5cGU+U1VCX01FU1NBR0U8L3R5cGU+CiAgICAgICAgICA8dmFsdWUgb2JqZWN0Q2xhc3M9IkRhdGFNZXNzYWdlIj4KICAgICAgICAgICAgPGFjdGlvbkNvZGU+VVBEQVRFPC9hY3Rpb25Db2RlPgogICAgICAgICAgICA8aGFuZGxlcklkPjIzPC9oYW5kbGVySWQ+CiAgICAgICAgICAgIDxwcm9wZXJ0aWVzPgogICAgICAgICAgICAgIDxQcm9wZXJ0eT4KICAgICAgICAgICAgICAgIDxpZD5NT1VTRURPV05fUE9TPC9pZD4KICAgICAgICAgICAgICAgIDx0eXBlPlBPSU5UPC90eXBlPgogICAgICAgICAgICAgICAgPHZhbHVlIG9iamVjdENsYXNzPSJQb2ludCI+CiAgICAgICAgICAgICAgICAgIDx4PjQzPC94PgogICAgICAgICAgICAgICAgICA8eT4yMDwveT4KICAgICAgICAgICAgICAgIDwvdmFsdWU+CiAgICAgICAgICAgICAgPC9Qcm9wZXJ0eT4KICAgICAgICAgICAgICA8UHJvcGVydHk+CiAgICAgICAgICAgICAgICA8aWQ+TU9VU0VET1dOX01PRDwvaWQ+CiAgICAgICAgICAgICAgICA8dHlwZT5CWVRFPC90eXBlPgogICAgICAgICAgICAgICAgPHZhbHVlIG9iamVjdENsYXNzPSJieXRlIj4xNjwvdmFsdWU+CiAgICAgICAgICAgICAgPC9Qcm9wZXJ0eT4KICAgICAgICAgICAgPC9wcm9wZXJ0aWVzPgogICAgICAgICAgPC92YWx1ZT4KICAgICAgICA8L1Byb3BlcnR5PgogICAgICA8L3Byb3BlcnRpZXM+CiAgICA8L0RhdGFNZXNzYWdlPgogICAgPERhdGFNZXNzYWdlPgogICAgICA8YWN0aW9uQ29kZT5VUERBVEU8L2FjdGlvbkNvZGU+CiAgICAgIDxoYW5kbGVySWQ+Njk8L2hhbmRsZXJJZD4KICAgICAgPHByb3BlcnRpZXM+CiAgICAgICAgPFByb3BlcnR5PgogICAgICAgICAgPGlkPkZPQ1VTPC9pZD4KICAgICAgICAgIDx0eXBlPkJPT0xFQU48L3R5cGU+CiAgICAgICAgICA8dmFsdWUgb2JqZWN0Q2xhc3M9ImJvb2xlYW4iPmZhbHNlPC92YWx1ZT4KICAgICAgICA8L1Byb3BlcnR5PgogICAgICA8L3Byb3BlcnRpZXM+CiAgICA8L0RhdGFNZXNzYWdlPgogICAgPERhdGFNZXNzYWdlPgogICAgICA8YWN0aW9uQ29kZT5VUERBVEU8L2FjdGlvbkNvZGU+CiAgICAgIDxoYW5kbGVySWQ+MjM8L2hhbmRsZXJJZD4KICAgICAgPHByb3BlcnRpZXM+CiAgICAgICAgPFByb3BlcnR5PgogICAgICAgICAgPGlkPkZPQ1VTPC9pZD4KICAgICAgICAgIDx0eXBlPkJPT0xFQU48L3R5cGU+CiAgICAgICAgICA8dmFsdWUgb2JqZWN0Q2xhc3M9ImJvb2xlYW4iPnRydWU8L3ZhbHVlPgogICAgICAgIDwvUHJvcGVydHk+CiAgICAgIDwvcHJvcGVydGllcz4KICAgIDwvRGF0YU1lc3NhZ2U+CiAgICA8VGVybWluYWxNZXNzYWdlPgogICAgICA8cmVzcG9uc2VDb2RlPjE8L3Jlc3BvbnNlQ29kZT4KICAgIDwvVGVybWluYWxNZXNzYWdlPgogIDwvbWVzc2FnZXM+CjwvRGlhbG9nPg==]]></requestXMLDataBase64>
+    </plugin-handler>
+    <responsePageFileDescription>recorded-responses/res_6c670871-433c-4f1b-937b-de3919622011</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6c670871-433c-4f1b-937b-de3919622011.txt</requestContentFileDescription>
+    <header name="Pragma" value="12"/>
+    <header name="Content-type" value="application/octet-stream"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="User-Agent" value="Mozilla/4.0 (Windows 7 6.1) Java/1.6.0_29"/>
+    <header name="Host" value="10.159.60.202:9001"/>
+    <header name="Accept" value="text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Thu, 04 Oct 2012 08:54:29 GMT
+Content-Length: 7
+Content-Type: application/octet-stream
+X-ORACLE-DMS-ECID: 0000Jceyv782RPx_S9_Aic1GR2uS0000M3
+X-Powered-By: Servlet/2.5 JSP/2.1</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-plugin-action>
+<http-plugin-action actionType="1"
+    contentType="application/octet-stream" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" extractorServerUid="technodemo"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="imported_/forms/lservlet;jsessionid=vpShQtTYLJgF9qxzj9GhqXRLyyR4zqmz0K2gbhTmQ5yK99jQGkFT!1668827078"
+    path="/forms/lservlet;jsessionid=vpShQtTYLJgF9qxzj9GhqXRLyyR4zqmz0K2gbhTmQ5yK99jQGkFT!1668827078"
+    plugin="FORMS" postType="2"
+    recordedArtifactZipFileName="team/vus/@oracle @f@o@r@m@s e-business/%resources%/recorded-artifacts/0f866740-bd3c-40f1-9cda-5265b3a315f4.zip"
+    recordedResponseCode="200" recordedResponseTime="31"
+    responseSize="368" serverUid="technodemo" slaProfileEnabled="false"
+    uid="e7dd8c65-4dc9-4072-bf82-87bc400ec4ed" useKeepAlive="true">
+    <plugin-handler isRequestConversionSuccessful="true"
+        isResponseConversionSuccessful="true"
+        labelBase64="MjM6cHJlc3NlZA==" networkType="HTTP" plugin="FORMS">
+        <requestXMLDataBase64><![CDATA[PERpYWxvZz4KICA8bWVzc2FnZXM+CiAgICA8RGF0YU1lc3NhZ2U+CiAgICAgIDxhY3Rpb25Db2RlPlVQREFURTwvYWN0aW9uQ29kZT4KICAgICAgPGhhbmRsZXJJZD4yMzwvaGFuZGxlcklkPgogICAgICA8cHJvcGVydGllcz4KICAgICAgICA8UHJvcGVydHk+CiAgICAgICAgICA8aWQ+TU9VU0VVUDwvaWQ+CiAgICAgICAgICA8dHlwZT5TVUJfTUVTU0FHRTwvdHlwZT4KICAgICAgICAgIDx2YWx1ZSBvYmplY3RDbGFzcz0iRGF0YU1lc3NhZ2UiPgogICAgICAgICAgICA8YWN0aW9uQ29kZT5VUERBVEU8L2FjdGlvbkNvZGU+CiAgICAgICAgICAgIDxoYW5kbGVySWQ+MjM8L2hhbmRsZXJJZD4KICAgICAgICAgICAgPHByb3BlcnRpZXM+CiAgICAgICAgICAgICAgPFByb3BlcnR5PgogICAgICAgICAgICAgICAgPGlkPk1PVVNFRE9XTl9QT1M8L2lkPgogICAgICAgICAgICAgICAgPHR5cGU+UE9JTlQ8L3R5cGU+CiAgICAgICAgICAgICAgICA8dmFsdWUgb2JqZWN0Q2xhc3M9IlBvaW50Ij4KICAgICAgICAgICAgICAgICAgPHg+NDM8L3g+CiAgICAgICAgICAgICAgICAgIDx5PjIwPC95PgogICAgICAgICAgICAgICAgPC92YWx1ZT4KICAgICAgICAgICAgICA8L1Byb3BlcnR5PgogICAgICAgICAgICAgIDxQcm9wZXJ0eT4KICAgICAgICAgICAgICAgIDxpZD5NT1VTRURPV05fTU9EPC9pZD4KICAgICAgICAgICAgICAgIDx0eXBlPkJZVEU8L3R5cGU+CiAgICAgICAgICAgICAgICA8dmFsdWUgb2JqZWN0Q2xhc3M9ImJ5dGUiPjE2PC92YWx1ZT4KICAgICAgICAgICAgICA8L1Byb3BlcnR5PgogICAgICAgICAgICA8L3Byb3BlcnRpZXM+CiAgICAgICAgICA8L3ZhbHVlPgogICAgICAgIDwvUHJvcGVydHk+CiAgICAgIDwvcHJvcGVydGllcz4KICAgIDwvRGF0YU1lc3NhZ2U+CiAgICA8RGF0YU1lc3NhZ2U+CiAgICAgIDxhY3Rpb25Db2RlPlVQREFURTwvYWN0aW9uQ29kZT4KICAgICAgPGhhbmRsZXJJZD4yMzwvaGFuZGxlcklkPgogICAgICA8cHJvcGVydGllcz4KICAgICAgICA8UHJvcGVydHk+CiAgICAgICAgICA8aWQ+UFJFU1NFRDwvaWQ+CiAgICAgICAgICA8dHlwZT5WT0lEPC90eXBlPgogICAgICAgIDwvUHJvcGVydHk+CiAgICAgIDwvcHJvcGVydGllcz4KICAgIDwvRGF0YU1lc3NhZ2U+CiAgICA8VGVybWluYWxNZXNzYWdlPgogICAgICA8cmVzcG9uc2VDb2RlPjE8L3Jlc3BvbnNlQ29kZT4KICAgIDwvVGVybWluYWxNZXNzYWdlPgogIDwvbWVzc2FnZXM+CjwvRGlhbG9nPg==]]></requestXMLDataBase64>
+    </plugin-handler>
+    <responsePageFileDescription>recorded-responses/res_bf3f026d-f94d-448e-9d31-c9fc8f394285</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_bf3f026d-f94d-448e-9d31-c9fc8f394285.txt</requestContentFileDescription>
+    <header name="Pragma" value="13"/>
+    <header name="Content-type" value="application/octet-stream"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="User-Agent" value="Mozilla/4.0 (Windows 7 6.1) Java/1.6.0_29"/>
+    <header name="Host" value="10.159.60.202:9001"/>
+    <header name="Accept" value="text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Thu, 04 Oct 2012 08:54:29 GMT
+Content-Length: 8
+Content-Type: application/octet-stream
+X-ORACLE-DMS-ECID: 0000Jceyv862RPx_S9_Aic1GR2uS0000M4
+X-Powered-By: Servlet/2.5 JSP/2.1</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-plugin-action>
+<http-plugin-action actionType="1"
+    contentType="application/octet-stream" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" extractorServerUid="technodemo"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="imported_/forms/lservlet;jsessionid=vpShQtTYLJgF9qxzj9GhqXRLyyR4zqmz0K2gbhTmQ5yK99jQGkFT!1668827078"
+    path="/forms/lservlet;jsessionid=vpShQtTYLJgF9qxzj9GhqXRLyyR4zqmz0K2gbhTmQ5yK99jQGkFT!1668827078"
+    plugin="FORMS" postType="2"
+    recordedArtifactZipFileName="team/vus/@oracle @f@o@r@m@s e-business/%resources%/recorded-artifacts/0f866740-bd3c-40f1-9cda-5265b3a315f4.zip"
+    recordedResponseCode="200" recordedResponseTime="219"
+    responseSize="8063" serverUid="technodemo" slaProfileEnabled="false"
+    uid="b9a9872c-bae0-4532-9fed-1273be5cea36" useKeepAlive="true">
+    <plugin-handler isRequestConversionSuccessful="true"
+        isResponseConversionSuccessful="true"
+        labelBase64="MjM6dmlzaWJsZXJlY3Q9eD0wLHk9MCxoZWlnaHQ9Mjksd2lkdGg9ODc="
+        networkType="HTTP" plugin="FORMS">
+        <requestXMLDataBase64><![CDATA[PERpYWxvZz4KICA8bWVzc2FnZXM+CiAgICA8RGF0YU1lc3NhZ2U+CiAgICAgIDxhY3Rpb25Db2RlPkdFVDwvYWN0aW9uQ29kZT4KICAgICAgPGhhbmRsZXJJZD4yMzwvaGFuZGxlcklkPgogICAgICA8cHJvcGVydGllcz4KICAgICAgICA8UHJvcGVydHk+CiAgICAgICAgICA8aWQ+VklTSUJMRVJFQ1Q8L2lkPgogICAgICAgICAgPHR5cGU+UkVDVEFOR0xFPC90eXBlPgogICAgICAgICAgPHZhbHVlIG9iamVjdENsYXNzPSJSZWN0YW5nbGUiPgogICAgICAgICAgICA8eD4wPC94PgogICAgICAgICAgICA8eT4wPC95PgogICAgICAgICAgICA8d2lkdGg+ODc8L3dpZHRoPgogICAgICAgICAgICA8aGVpZ2h0PjI5PC9oZWlnaHQ+CiAgICAgICAgICA8L3ZhbHVlPgogICAgICAgIDwvUHJvcGVydHk+CiAgICAgIDwvcHJvcGVydGllcz4KICAgIDwvRGF0YU1lc3NhZ2U+CiAgICA8VGVybWluYWxNZXNzYWdlPgogICAgICA8cmVzcG9uc2VDb2RlPjM8L3Jlc3BvbnNlQ29kZT4KICAgIDwvVGVybWluYWxNZXNzYWdlPgogIDwvbWVzc2FnZXM+CjwvRGlhbG9nPg==]]></requestXMLDataBase64>
+    </plugin-handler>
+    <responsePageFileDescription>recorded-responses/res_af5b4454-d4ba-4dd6-b292-04f20171c91b</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_af5b4454-d4ba-4dd6-b292-04f20171c91b.txt</requestContentFileDescription>
+    <header name="Pragma" value="14"/>
+    <header name="Content-type" value="application/octet-stream"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="User-Agent" value="Mozilla/4.0 (Windows 7 6.1) Java/1.6.0_29"/>
+    <header name="Host" value="10.159.60.202:9001"/>
+    <header name="Accept" value="text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Thu, 04 Oct 2012 08:54:29 GMT
+Content-Length: 219
+Content-Type: application/octet-stream
+X-ORACLE-DMS-ECID: 0000Jceyv8Q2RPx_S9_Aic1GR2uS0000M5
+X-Powered-By: Servlet/2.5 JSP/2.1</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-plugin-action>
+<http-plugin-action actionType="1"
+    contentType="application/octet-stream" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" extractorServerUid="technodemo"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="imported_/forms/lservlet;jsessionid=vpShQtTYLJgF9qxzj9GhqXRLyyR4zqmz0K2gbhTmQ5yK99jQGkFT!1668827078"
+    path="/forms/lservlet;jsessionid=vpShQtTYLJgF9qxzj9GhqXRLyyR4zqmz0K2gbhTmQ5yK99jQGkFT!1668827078"
+    plugin="FORMS" postType="2"
+    recordedArtifactZipFileName="team/vus/@oracle @f@o@r@m@s e-business/%resources%/recorded-artifacts/0f866740-bd3c-40f1-9cda-5265b3a315f4.zip"
+    recordedResponseCode="200" recordedResponseTime="16"
+    responseSize="127" serverUid="technodemo" slaProfileEnabled="false"
+    uid="0013f077-014b-4f70-8736-e80bdcd044f9" useKeepAlive="true">
+    <plugin-handler isRequestConversionSuccessful="true"
+        isResponseConversionSuccessful="true"
+        labelBase64="MjY6Zm9jdXM9dHJ1ZQ==" networkType="HTTP" plugin="FORMS">
+        <requestXMLDataBase64><![CDATA[PERpYWxvZz4KICA8bWVzc2FnZXM+CiAgICA8RGF0YU1lc3NhZ2U+CiAgICAgIDxhY3Rpb25Db2RlPlVQREFURTwvYWN0aW9uQ29kZT4KICAgICAgPGhhbmRsZXJJZD4yMzwvaGFuZGxlcklkPgogICAgICA8cHJvcGVydGllcz4KICAgICAgICA8UHJvcGVydHk+CiAgICAgICAgICA8aWQ+Rk9DVVM8L2lkPgogICAgICAgICAgPHR5cGU+Qk9PTEVBTjwvdHlwZT4KICAgICAgICAgIDx2YWx1ZSBvYmplY3RDbGFzcz0iYm9vbGVhbiI+ZmFsc2U8L3ZhbHVlPgogICAgICAgIDwvUHJvcGVydHk+CiAgICAgIDwvcHJvcGVydGllcz4KICAgIDwvRGF0YU1lc3NhZ2U+CiAgICA8RGF0YU1lc3NhZ2U+CiAgICAgIDxhY3Rpb25Db2RlPlVQREFURTwvYWN0aW9uQ29kZT4KICAgICAgPGhhbmRsZXJJZD4yNjwvaGFuZGxlcklkPgogICAgICA8cHJvcGVydGllcz4KICAgICAgICA8UHJvcGVydHk+CiAgICAgICAgICA8aWQ+Rk9DVVM8L2lkPgogICAgICAgICAgPHR5cGU+Qk9PTEVBTjwvdHlwZT4KICAgICAgICAgIDx2YWx1ZSBvYmplY3RDbGFzcz0iYm9vbGVhbiI+dHJ1ZTwvdmFsdWU+CiAgICAgICAgPC9Qcm9wZXJ0eT4KICAgICAgPC9wcm9wZXJ0aWVzPgogICAgPC9EYXRhTWVzc2FnZT4KICAgIDxUZXJtaW5hbE1lc3NhZ2U+CiAgICAgIDxyZXNwb25zZUNvZGU+MTwvcmVzcG9uc2VDb2RlPgogICAgPC9UZXJtaW5hbE1lc3NhZ2U+CiAgPC9tZXNzYWdlcz4KPC9EaWFsb2c+]]></requestXMLDataBase64>
+    </plugin-handler>
+    <responsePageFileDescription>recorded-responses/res_07bd54ff-3226-432c-8422-1d8640b2a90b</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_07bd54ff-3226-432c-8422-1d8640b2a90b.txt</requestContentFileDescription>
+    <header name="Pragma" value="15"/>
+    <header name="Content-type" value="application/octet-stream"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="User-Agent" value="Mozilla/4.0 (Windows 7 6.1) Java/1.6.0_29"/>
+    <header name="Host" value="10.159.60.202:9001"/>
+    <header name="Accept" value="text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Thu, 04 Oct 2012 08:54:29 GMT
+Content-Length: 2
+Content-Type: application/octet-stream
+X-ORACLE-DMS-ECID: 0000JceyvBz2RPx_S9_Aic1GR2uS0000M6
+X-Powered-By: Servlet/2.5 JSP/2.1</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-plugin-action>

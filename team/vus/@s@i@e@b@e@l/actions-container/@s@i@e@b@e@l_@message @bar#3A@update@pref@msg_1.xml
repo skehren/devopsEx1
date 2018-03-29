@@ -1,0 +1,48 @@
+<http-page executeResourcesDynamically="false"
+    name="SIEBEL_Message Bar:UpdatePrefMsg_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@s@i@e@b@e@l/%resources%/recorded-artifacts/0f3325ed-30e8-43b2-a989-dfe2882e12d9.zip"
+    slaProfileEnabled="false" thinkTime="11237"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="0f3325ed-30e8-43b2-a989-dfe2882e12d9">
+    <embedded-action>3372d3b5-7419-42f9-a9c2-7ed0f851d9d2</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_925e51de-3bd2-487f-be38-3dd0c346df4b.jpg</screenshotFileDescription>
+</http-page>
+<http-plugin-action actionType="1" contentType="text/html;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    extractorServerUid="technodemo" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="SIEBEL_/sales_enu/start.swe"
+    path="/sales_enu/start.swe" plugin="SIEBEL" postCharset="UTF-8"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@s@i@e@b@e@l/%resources%/recorded-artifacts/0f3325ed-30e8-43b2-a989-dfe2882e12d9.zip"
+    recordedResponseCode="200" recordedResponseTime="39"
+    responseSize="2307" serverUid="technodemo" slaProfileEnabled="false"
+    uid="3372d3b5-7419-42f9-a9c2-7ed0f851d9d2" useKeepAlive="true">
+    <plugin-handler isRequestConversionSuccessful="true"
+        isResponseConversionSuccessful="true"
+        labelBase64="TWVzc2FnZSBCYXI6VXBkYXRlUHJlZk1zZw=="
+        networkType="HTTP" plugin="SIEBEL">
+        <requestXMLDataBase64><![CDATA[PFNpZWJlbFJlcXVlc3Q+CiAgPHBvc3RQYXJhbWV0ZXJzPgogICAgPHBhcmFtZXRlciBuYW1lPSJTV0VDIj4ke1NXRUNfeG1sfTwvcGFyYW1ldGVyPgogICAgPHBhcmFtZXRlciBuYW1lPSJTV0VNZXRob2QiPlVwZGF0ZVByZWZNc2c8L3BhcmFtZXRlcj4KICAgIDxwYXJhbWV0ZXIgbmFtZT0iU1dFUlBDIj4xPC9wYXJhbWV0ZXI+CiAgICA8cGFyYW1ldGVyIG5hbWU9IlNXRUNtZCI+SW52b2tlTWV0aG9kPC9wYXJhbWV0ZXI+CiAgICA8cGFyYW1ldGVyIG5hbWU9IlNXRUlQUyI+CiAgICAgIDxTaWViZWxBcnJheT4KICAgICAgICA8UHJvcGVydHlTZXQ+CiAgICAgICAgICA8cHJvcGVydHkgbmFtZT0iU1dFQlMiPjE8L3Byb3BlcnR5PgogICAgICAgIDwvUHJvcGVydHlTZXQ+CiAgICAgIDwvU2llYmVsQXJyYXk+CiAgICA8L3BhcmFtZXRlcj4KICAgIDxwYXJhbWV0ZXIgbmFtZT0iU1dFQlMiPjE8L3BhcmFtZXRlcj4KICAgIDxwYXJhbWV0ZXIgbmFtZT0iU1dFU2VydmljZSI+TWVzc2FnZSBCYXI8L3BhcmFtZXRlcj4KICA8L3Bvc3RQYXJhbWV0ZXJzPgogIDxnZXRQYXJhbWV0ZXJzLz4KPC9TaWViZWxSZXF1ZXN0Pg==]]></requestXMLDataBase64>
+    </plugin-handler>
+    <responsePageFileDescription>recorded-responses/res_a48f78f5-35fd-4726-b3b7-f1ad02262a2e.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a48f78f5-35fd-4726-b3b7-f1ad02262a2e.txt</requestContentFileDescription>
+    <header name="Content-Type" value="application/x-www-form-urlencoded"/>
+    <header name="Accept-Encoding" value="deflate"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; AskTbARS2/5.15.4.23821; .NET4.0C)"/>
+    <header name="Host" value="maguk"/>
+    <header name="DNT" value="1"/>
+    <header name="Pragma" value="no-cache"/>
+    <header name="Cookie" value="SWEUAID=none; _sn=8TGlHwJB.t.O2EUUGQf8mXjUHBJvERN.erESSmDHC40OhovyGdViCmMSL0R6tINM"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 22 May 2013 08:12:47 GMT
+Server: Microsoft-IIS/6.0
+content-language: en
+cache-control: no-cache
+swerpc: true
+content-type: text/html;charset=UTF-8
+content-length: 498</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-plugin-action>

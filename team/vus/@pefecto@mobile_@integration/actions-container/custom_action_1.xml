@@ -1,0 +1,26 @@
+<custom-action actionType="Perfecto Mobile" isHit="false"
+    name="custom_action_1" uid="8eec7c98-a948-43aa-b1db-a596bb04bd80">
+    <description>Argument           : Description&#xd;
+&#xd;
+perfectoURL        : (required) The URL to use for API calls. For example, https://demo.perfectomobile.com/services/ (Default value: https://&lt;accountName&gt;.perfectomobile.com/services/)&#xd;
+username           : (required) The Perfecto username (Default value: &lt;username&gt;)&#xd;
+password           : (required)&#xd;
+script             : (required) The name of the Perfecto script to run. (Default value: &lt;Perfecto_Script_Name.xml&gt;)&#xd;
+DataExchangeAPIURL : (required) Where the DataExchange server is located. Typically the NeoLoad controller. For example, http://localhost:7400/DataExchange/v1/Service.svc/ (Default value: http://localhost:7400/DataExchange/v1/Service.svc/)&#xd;
+instanceID         : (optional) This value is appended to the script name when displaying data in NeoLoad.&#xd;
+DataExchangeAPIKey : (optional) Identification key specified in NeoLoad.&#xd;
+httpsProxyHost     : (optional) Specifies the proxy to use from the LG in order to access the Perfecto API (via HTTPS calls).&#xd;
+httpsProxyPort     : (optional)&#xd;
+httpsProxyLogin    : (optional)&#xd;
+httpsProxyPassword : (optional)&#xd;
+pollingDelay       : (optional) NeoLoad will poll an executing script every X seconds to see if it has completed or not. Max 300 and minimum 10.&#xd;
+param.DUT          : (optional) Specify the device ID. param.DUT	86F341B428B31BA1B6BB2900AEBC09089192A349</description>
+    <custom-action-parameter name="perfectoURL" type="TEXT" value="https://partners.perfectomobile.com/services/"/>
+    <custom-action-parameter name="username" type="TEXT" value="integration@neotys.com"/>
+    <custom-action-parameter name="password" type="PASSWORD" value="demo123"/>
+    <custom-action-parameter name="script" type="TEXT" value="ushahidi_weekly.xml"/>
+    <custom-action-parameter name="DataExchangeAPIURL" type="TEXT" value="http://${NLIP}:7400/DataExchange/v1/Service.svc/"/>
+    <custom-action-parameter name="instanceID" type="TEXT" value=""/>
+    <custom-action-parameter name="param.DUT" type="TEXT" value="0815F883325E0704"/>
+    <responsePageFileDescription>recorded-responses/res_87999e72-fb70-4bb7-8ebc-19141c7c2fd1</responsePageFileDescription>
+</custom-action>

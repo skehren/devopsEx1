@@ -1,0 +1,12 @@
+<custom-action actionType="MQTT subscribe to topic" isHit="false"
+    name="subscribe" uid="3b0bc5bd-b2fb-4a5a-83f7-26cb420373f0">
+    <description>Subscribe to a topic on an MQTT broker.
+
+Possible parameters are:&#xd;
+- BrokerAlias (optional): Alias identifying the broker to subscribe to.Assumes and requires that, for the current User Path, a connection (using the ConnectAction) has been established and associated to the specified BrokerAlias. If User Path connects to one broker only, this parameter can be left out.&#xd;
+- Topic (required): The topic on which to subscribe.&#xd;
+- QoS (optional): A Quality of Service Level (QoS) for this message, the level (0,1 or 2) determines the maximum quality of service at which to subscribe. Default value is "0".</description>
+    <custom-action-parameter name="Topic" type="TEXT" value="topic_manager"/>
+    <custom-action-parameter name="QoS" type="TEXT" value="0"/>
+    <responsePageFileDescription>recorded-responses/res_d1802a53-46cf-4846-9fa8-377e81342219</responsePageFileDescription>
+</custom-action>

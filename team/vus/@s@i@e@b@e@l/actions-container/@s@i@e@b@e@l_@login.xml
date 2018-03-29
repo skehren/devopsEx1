@@ -1,0 +1,46 @@
+<http-page executeResourcesDynamically="false" name="SIEBEL_Login"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@s@i@e@b@e@l/%resources%/recorded-artifacts/adf40e87-fd20-4477-bdc2-169908016641.zip"
+    slaProfileEnabled="false" thinkTime="48"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="adf40e87-fd20-4477-bdc2-169908016641">
+    <embedded-action>4ae179e2-c297-42ff-952b-9d735606c732</embedded-action>
+</http-page>
+<http-plugin-action actionType="1" contentType="text/html;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    extractorServerUid="technodemo" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="SIEBEL_/sales_enu/start.swe"
+    path="/sales_enu/start.swe" plugin="SIEBEL" postType="2"
+    recordedArtifactZipFileName="team/vus/@s@i@e@b@e@l/%resources%/recorded-artifacts/adf40e87-fd20-4477-bdc2-169908016641.zip"
+    recordedResponseCode="200" recordedResponseTime="217"
+    responseSize="4676" serverUid="technodemo" slaProfileEnabled="false"
+    uid="4ae179e2-c297-42ff-952b-9d735606c732" useKeepAlive="true">
+    <plugin-handler isRequestConversionSuccessful="true"
+        isResponseConversionSuccessful="true" labelBase64="TG9naW4="
+        networkType="HTTP" plugin="SIEBEL">
+        <requestXMLDataBase64><![CDATA[PFNpZWJlbFJlcXVlc3Q+CiAgPHBvc3RQYXJhbWV0ZXJzLz4KICA8Z2V0UGFyYW1ldGVycz4KICAgIDxwYXJhbWV0ZXIgbmFtZT0iU1dFQ21kIj5Mb2dpbjwvcGFyYW1ldGVyPgogICAgPHBhcmFtZXRlciBuYW1lPSJfc24iPiR7X3NuX2hlYWRlcnN9PC9wYXJhbWV0ZXI+CiAgICA8cGFyYW1ldGVyIG5hbWU9IlNXRUhvIj5tYWd1azwvcGFyYW1ldGVyPgogICAgPHBhcmFtZXRlciBuYW1lPSJTV0VUUyI+JHtTV0VUU194bWx9PC9wYXJhbWV0ZXI+CiAgPC9nZXRQYXJhbWV0ZXJzPgo8L1NpZWJlbFJlcXVlc3Q+]]></requestXMLDataBase64>
+    </plugin-handler>
+    <responsePageFileDescription>recorded-responses/res_f20ecf8e-d1b1-43a4-9246-63d1e8c1f7fd.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f20ecf8e-d1b1-43a4-9246-63d1e8c1f7fd.txt</requestContentFileDescription>
+    <header name="Accept" value="application/x-ms-application, image/jpeg, application/xaml+xml, image/gif, image/pjpeg, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*"/>
+    <header name="Referer" value="http://maguk/sales_enu/start.swe"/>
+    <header name="Accept-Language" value="fr-FR"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; AskTbARS2/5.15.4.23821; .NET4.0C)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="maguk"/>
+    <header name="Cookie" value="_sn=8TGlHwJB.t.O2EUUGQf8mXjUHBJvERN.erESSmDHC40OhovyGdViCmMSL0R6tINM"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 22 May 2013 08:12:17 GMT
+Server: Microsoft-IIS/6.0
+content-language: en
+cache-control: no-cache, must-revalidate, max-age=0
+pragma: no-cache
+content-encoding: deflate
+content-type: text/html;charset=UTF-8
+content-length: 1638</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-plugin-action>

@@ -1,0 +1,175 @@
+<http-page executeResourcesDynamically="false" name="/Offer.html"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/c53c0772-72e8-4869-a06e-27c29ddeea7f.zip"
+    slaProfileEnabled="false" thinkTime="22336"
+    thinkTimeMode="MODE_RANGE_THINK_TIME" thinkTimeRangeEnd="7000"
+    thinkTimeRangeStart="5000" uid="c53c0772-72e8-4869-a06e-27c29ddeea7f">
+    <embedded-action>045de785-c0c3-4993-81bb-8f544a62eda7</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    eTag="&quot;29e8-50d568640ce14&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 23 Jan 2015 19:09:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/Offer.html" path="/Offer.html"
+    postCharset="utf-8" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/c53c0772-72e8-4869-a06e-27c29ddeea7f.zip"
+    recordedResponseCode="200" recordedResponseTime="29"
+    refererUid="d4230bd8-9bce-457d-97d4-ec5235ed318c"
+    responseSize="10728" serverUid="10.0.0.100"
+    slaProfileEnabled="false" uid="045de785-c0c3-4993-81bb-8f544a62eda7" useKeepAlive="true">
+    <binaryPostContentBase64><![CDATA[SW5zdXJhbmNlQmVnaW49MSUyRjMlMkYyMDE2Jkluc3VyYW5jZVN1bT03MDAwMDAwJlByZW1pdW09U2VtZXN0cmlhbCZQaHlzaWNhbERhbWFnZUluc3VyYW5jZT1QYXJ0aWFsQ29tcHJlaGVuc2l2ZUNvdmVyJkV1cm9Qcm90ZWN0aW9uPUV1cm9Qcm90ZWN0aW9uJkRlZmVuc2VJbnN1cmFuY2U9RGVmZW5zZUluc3VyYW5jZSZDb3VydGVzeUNhcj13aXRob3V0Q291cnRlc3lDYXImY2FuY2VsX0RhdGFPZlZlaGljbGU9QmFjaw==]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_70054580-f50c-47bf-8691-e4309e6f57d0.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_70054580-f50c-47bf-8691-e4309e6f57d0.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="false"
+        name="InsuranceBegin" recordRawValue="1%2F3%2F2016"
+        separator="=" value="${DateAssurance}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="InsuranceSum"
+        recordRawValue="7000000" separator="=" value="7000000" valueMode="USE_VALUE">
+        <record-variable-extractor assertionOnNoMatch="true"
+            defaultValue="&lt;NOT FOUND>" displayMode="1"
+            endsWithSimple="" extractFromVarNameAdv=""
+            extractFromVarNameSimple="" extractType="0"
+            extractTypeAdv="0" extractTypeSimple="0" matchNumber="3"
+            matchNumberAdv="3" matchNumberSimple="1" name=""
+            refererUid="d4230bd8-9bce-457d-97d4-ec5235ed318c"
+            regExp="value=&quot;([^&amp;]*?)&quot;"
+            regExpAdv="value=&quot;([^&amp;]*?)&quot;"
+            setDefaultValue="true" startsWithSimple="" template="$1$"
+            templateAdv="$1$" uid="d34e660d-744f-48ee-90b0-df4aff91ca43" xpath="">
+            <variable-extractor-group extract="true" occurs="1"
+                pattern="" type="4"/>
+        </record-variable-extractor>
+    </parameter>
+    <parameter encodeName="true" encodeValue="true" name="Premium"
+        recordRawValue="Semestrial" separator="=" value="Semestrial" valueMode="USE_VALUE">
+        <record-variable-extractor assertionOnNoMatch="true"
+            defaultValue="&lt;NOT FOUND>" displayMode="1"
+            endsWithSimple="" extractFromVarNameAdv=""
+            extractFromVarNameSimple="" extractType="0"
+            extractTypeAdv="0" extractTypeSimple="0" matchNumber="11"
+            matchNumberAdv="11" matchNumberSimple="1" name=""
+            refererUid="d4230bd8-9bce-457d-97d4-ec5235ed318c"
+            regExp="value=&quot;([^&amp;]*?)&quot;"
+            regExpAdv="value=&quot;([^&amp;]*?)&quot;"
+            setDefaultValue="true" startsWithSimple="" template="$1$"
+            templateAdv="$1$" uid="94fadd3f-f9b6-4fd6-81aa-cfdf1a81fa22" xpath="">
+            <variable-extractor-group extract="true" occurs="1"
+                pattern="" type="4"/>
+        </record-variable-extractor>
+    </parameter>
+    <parameter encodeName="true" encodeValue="true"
+        name="PhysicalDamageInsurance"
+        recordRawValue="PartialComprehensiveCover" separator="="
+        value="PartialComprehensiveCover" valueMode="USE_VALUE">
+        <record-variable-extractor assertionOnNoMatch="true"
+            defaultValue="&lt;NOT FOUND>" displayMode="1"
+            endsWithSimple="" extractFromVarNameAdv=""
+            extractFromVarNameSimple="" extractType="0"
+            extractTypeAdv="0" extractTypeSimple="0" matchNumber="2"
+            matchNumberAdv="2" matchNumberSimple="1" name=""
+            refererUid="d4230bd8-9bce-457d-97d4-ec5235ed318c"
+            regExp="\s[Nn][Aa][Mm][Ee]\s*=\s*[\&quot;']PhysicalDamageInsurance[\&quot;'][^>]*\s[vV][Aa][Ll][Uu][Ee]\s*=\s*[\&quot;'](.*?)[\&quot;']"
+            regExpAdv="\s[Nn][Aa][Mm][Ee]\s*=\s*[\&quot;']PhysicalDamageInsurance[\&quot;'][^>]*\s[vV][Aa][Ll][Uu][Ee]\s*=\s*[\&quot;'](.*?)[\&quot;']"
+            setDefaultValue="true" startsWithSimple="" template="$1$"
+            templateAdv="$1$" uid="86e6de85-a4c7-449e-8402-a2ec80691bcf" xpath="">
+            <variable-extractor-group extract="true" occurs="1"
+                pattern="" type="4"/>
+        </record-variable-extractor>
+    </parameter>
+    <parameter encodeName="true" encodeValue="true"
+        name="EuroProtection" recordRawValue="EuroProtection"
+        separator="=" value="EuroProtection" valueMode="USE_VALUE">
+        <record-variable-extractor assertionOnNoMatch="true"
+            defaultValue="&lt;NOT FOUND>" displayMode="1"
+            endsWithSimple="" extractFromVarNameAdv=""
+            extractFromVarNameSimple="" extractType="0"
+            extractTypeAdv="0" extractTypeSimple="0" matchNumber="1"
+            matchNumberAdv="1" matchNumberSimple="1" name=""
+            refererUid="d4230bd8-9bce-457d-97d4-ec5235ed318c"
+            regExp="\s[Nn][Aa][Mm][Ee]\s*=\s*[\&quot;']EuroProtection[\&quot;'][^>]*\s[vV][Aa][Ll][Uu][Ee]\s*=\s*[\&quot;'](.*?)[\&quot;']"
+            regExpAdv="\s[Nn][Aa][Mm][Ee]\s*=\s*[\&quot;']EuroProtection[\&quot;'][^>]*\s[vV][Aa][Ll][Uu][Ee]\s*=\s*[\&quot;'](.*?)[\&quot;']"
+            setDefaultValue="true" startsWithSimple="" template="$1$"
+            templateAdv="$1$" uid="69ce192f-17a6-43bf-99cd-ab8037de4232" xpath="">
+            <variable-extractor-group extract="true" occurs="1"
+                pattern="" type="4"/>
+        </record-variable-extractor>
+    </parameter>
+    <parameter encodeName="true" encodeValue="true"
+        name="DefenseInsurance" recordRawValue="DefenseInsurance"
+        separator="=" value="DefenseInsurance" valueMode="USE_VALUE">
+        <record-variable-extractor assertionOnNoMatch="true"
+            defaultValue="&lt;NOT FOUND>" displayMode="1"
+            endsWithSimple="" extractFromVarNameAdv=""
+            extractFromVarNameSimple="" extractType="0"
+            extractTypeAdv="0" extractTypeSimple="0" matchNumber="1"
+            matchNumberAdv="1" matchNumberSimple="1" name=""
+            refererUid="d4230bd8-9bce-457d-97d4-ec5235ed318c"
+            regExp="\s[Nn][Aa][Mm][Ee]\s*=\s*[\&quot;']DefenseInsurance[\&quot;'][^>]*\s[vV][Aa][Ll][Uu][Ee]\s*=\s*[\&quot;'](.*?)[\&quot;']"
+            regExpAdv="\s[Nn][Aa][Mm][Ee]\s*=\s*[\&quot;']DefenseInsurance[\&quot;'][^>]*\s[vV][Aa][Ll][Uu][Ee]\s*=\s*[\&quot;'](.*?)[\&quot;']"
+            setDefaultValue="true" startsWithSimple="" template="$1$"
+            templateAdv="$1$" uid="131510bd-194f-489b-b395-3ea19ffb5946" xpath="">
+            <variable-extractor-group extract="true" occurs="1"
+                pattern="" type="4"/>
+        </record-variable-extractor>
+    </parameter>
+    <parameter encodeName="true" encodeValue="true" name="CourtesyCar"
+        recordRawValue="withoutCourtesyCar" separator="="
+        value="withoutCourtesyCar" valueMode="USE_VALUE">
+        <record-variable-extractor assertionOnNoMatch="true"
+            defaultValue="&lt;NOT FOUND>" displayMode="1"
+            endsWithSimple="" extractFromVarNameAdv=""
+            extractFromVarNameSimple="" extractType="0"
+            extractTypeAdv="0" extractTypeSimple="0" matchNumber="35"
+            matchNumberAdv="35" matchNumberSimple="1" name=""
+            refererUid="d4230bd8-9bce-457d-97d4-ec5235ed318c"
+            regExp="value=([^&amp;]*?)>" regExpAdv="value=([^&amp;]*?)>"
+            setDefaultValue="true" startsWithSimple="" template="$1$"
+            templateAdv="$1$" uid="1a6b6ed7-cea1-4ff0-84b6-44a4a31f96d9" xpath="">
+            <variable-extractor-group extract="true" occurs="1"
+                pattern="" type="4"/>
+        </record-variable-extractor>
+    </parameter>
+    <parameter encodeName="true" encodeValue="true"
+        name="cancel_DataOfVehicle" recordRawValue="Back" separator="="
+        value="Back" valueMode="USE_VALUE">
+        <record-variable-extractor assertionOnNoMatch="true"
+            defaultValue="&lt;NOT FOUND>" displayMode="1"
+            endsWithSimple="" extractFromVarNameAdv=""
+            extractFromVarNameSimple="" extractType="0"
+            extractTypeAdv="0" extractTypeSimple="0" matchNumber="39"
+            matchNumberAdv="39" matchNumberSimple="1" name=""
+            refererUid="d4230bd8-9bce-457d-97d4-ec5235ed318c"
+            regExp="id=([^&amp;]*?) " regExpAdv="id=([^&amp;]*?) "
+            setDefaultValue="true" startsWithSimple="" template="$1$"
+            templateAdv="$1$" uid="0b8edc1f-ee9b-486b-882f-1ef48355d605" xpath="">
+            <variable-extractor-group extract="true" occurs="1"
+                pattern="" type="4"/>
+        </record-variable-extractor>
+    </parameter>
+    <header name="Accept" value="image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*"/>
+    <header name="Referer" value="http://10.0.0.100/ProductChoice.html"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Content-Type" value="application/x-www-form-urlencoded"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Pragma" value="no-cache"/>
+    <header name="Cookie" value="TypeOfVehicle=Automobile; isDateVerified=true; Make=volvo; Performance=100; YearOfConstruction=2016; NrOfSeats=4; Fuel=Gas; ListPrice=50000; LicensePlateNumber=6855RRR; Usage=Private; MileageYear=35000; FirstName=Neotzs; LastName=NeoLoad; DateOfBirth=01/01/1980; Gender=male; Occupation=freelance; Street=dewdwedwed; HouseNr=2; Country=Cuba; ZipCode=118412; City=dwedwed; TelephoneNr=; EMail=; YoungOld=Old; DateOfBirthYoung=; MeritRating=Step 9; PhysicalDamageInsurance=PartialComprehensiveCover; InsuranceBegin=1/3/2016; AutomobileLiability=True; InsuranceSum=7000000; EuroProtection=True; DefenseInsurance=True; Premium=Semestrial"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:52:49 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Fri, 23 Jan 2015 19:09:14 GMT
+ETag: "29e8-50d568640ce14"
+Accept-Ranges: bytes
+Content-Length: 10728
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html</responseHeaders>
+    <record-html-infos extractorName="ProductChoice"
+        extractorOccurence="1" extractorRegExp="false" htmlType="2"/>
+</http-action>

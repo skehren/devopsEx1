@@ -1,0 +1,6 @@
+<loop-action loop="${random}" name="loop" uid="5240e9bb-a579-4d80-a8df-35bee66089cd">
+    <embedded-action>4d88dd47-f178-4da0-b6ac-58a7dbbff3cc</embedded-action>
+    <embedded-action>f99c045d-ab86-47c3-bfdd-6e492b54bdad</embedded-action>
+    <embedded-action>1b8fbe65-e3ec-45d9-97a4-5d216887412f</embedded-action>
+    <embedded-action>a33bbf77-e3b0-4d16-abb3-568ff7c83391</embedded-action>
+</loop-action>

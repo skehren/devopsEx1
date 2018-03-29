@@ -1,0 +1,8 @@
+<websocket-action name="Enter Room" slaProfileEnabled="false"
+    synchronous-type="ASYNCHRONOUS"
+    uid="07479f59-0617-41f5-a57e-36b8816aa5b6"
+    websocket-body-type="TEXT" websocket-channel-uid="39882a58-04bb-47cb-a922-874e674798d2">
+    <binaryPostContentBase64><![CDATA[FmRyYXdpbmdib2FyZC9yb29tcy8ke1Jvb21OYW1lfQ==]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_abf52524-18e3-444c-bb47-c87616ef44c9</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_abf52524-18e3-444c-bb47-c87616ef44c9.txt</requestContentFileDescription>
+</websocket-action>

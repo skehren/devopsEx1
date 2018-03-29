@@ -1,0 +1,13 @@
+<custom-action actionType="MQTT publish" isHit="false" name="publish" uid="4d50cca2-1e5e-4dc5-b4b4-f8cbf528a442">
+    <description>Publish a message to an MQTT broker.
+
+Possible parameters are:&#xd;
+- BrokerAlias (optional): Alias identifying the broker.Assumes and requires that, for the current User Path, a connection (using the ConnectAction) has been established and associated to the specified BrokerAlias. If User Path connects to one broker only, this parameter can be left out.&#xd;
+- Topic (optional): The name of the topic on which to publish the message.&#xd;
+- Message (required): Content of the message to publish.&#xd;
+- QoS (optional): A Quality of Service Level (QoS) for this message, the level (0,1 or 2) determines the level of guarantee of a message reaching the other end. Default value is "0".</description>
+    <custom-action-parameter name="Topic" type="TEXT" value="topic_${random}"/>
+    <custom-action-parameter name="Message" type="TEXT" value="Message sent by Admin [${TS}]"/>
+    <custom-action-parameter name="QoS" type="TEXT" value="0"/>
+    <responsePageFileDescription>recorded-responses/res_1f4870f7-2bfc-4c17-a42c-8e9ca2aad8b7</responsePageFileDescription>
+</custom-action>

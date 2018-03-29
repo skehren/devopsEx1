@@ -1,0 +1,20 @@
+<custom-action actionType="Command line Action" isHit="false"
+    name="custom_action_1" uid="fc6913a7-c03f-41ef-8dbc-4b52837c2320">
+    <description>Launch a program on the load generator machine.
+Possible parameters are:
+- command: the command to launch or program executable file
+- argX: the program argument number X
+- shell: under Linux, the shell to use. Bash is used by default.
+- charset: the charset used by the console. Default platform charset is used if not set.</description>
+    <custom-action-parameter name="command" type="TEXT" value="/home/neoload/webpagetest.sh"/>
+    <custom-action-parameter name="arg1" type="TEXT" value="${Webpagetest.URL}"/>
+    <custom-action-parameter name="arg2" type="TEXT" value="Dulles:Chrome"/>
+    <custom-action-parameter name="arg3" type="TEXT" value="Ushahidi"/>
+    <custom-action-parameter name="arg4" type="TEXT" value="${WebPageTestKEY}"/>
+    <custom-action-parameter name="arg5" type="TEXT" value="http://${NLIP}:7400/DataExchange/v1/Service.svc/"/>
+    <custom-action-parameter name="arg6" type="TEXT" value="Chrome"/>
+    <custom-action-parameter name="arg7" type="TEXT" value="${Webpagetest.ActionName}"/>
+    <custom-action-parameter name="arg8" type="TEXT" value="&quot;&quot;"/>
+    <custom-action-parameter name="arg9" type="TEXT" value="http://www.webpagetest.org"/>
+    <responsePageFileDescription>recorded-responses/res_8b03bb0d-894f-489e-8e89-d06a26a7c4d9</responsePageFileDescription>
+</custom-action>

@@ -1,0 +1,5 @@
+<http-server hostname="2.umps1-c3-lon.salesforce.com" port="443"
+    ssl="true" uid="2.umps1-c3-lon.salesforce.com"
+    urlrewriting-argument-name="" urlrewriting-enabled="false"
+    urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

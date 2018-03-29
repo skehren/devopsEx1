@@ -1,0 +1,4 @@
+<loop-action loop="20" name="Loop" uid="a5b17340-4189-4577-9124-610e0136f074">
+    <embedded-action>c3607147-beb5-4c2c-9d17-3d329916c31b</embedded-action>
+    <embedded-action>69fa7033-5fb8-4e8a-9e4b-59d93bfb9a0d</embedded-action>
+</loop-action>

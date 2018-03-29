@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="imported_04_kor_button" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="3fca554f-cc13-48ec-8d4b-5aa9fd4fc9af" weightsEnabled="false">
+    <weighted-embedded-action uid="2f5d6e9a-0566-4b28-aa1d-cbbc74257655"/>
+    <weighted-embedded-action uid="a368ac3b-7c52-46e5-8cf5-5c121e948568"/>
+</basic-logical-action-container>

@@ -1,0 +1,107 @@
+<http-page executeResourcesDynamically="false"
+    name="ContactsService.save" playRequestsSequentially="true"
+    recordedArtifactZipFileName="team/vus/@google @g@w@t/%resources%/recorded-artifacts/b8730382-c11a-48f6-83fb-803e9884fa8d.zip"
+    slaProfileEnabled="false" thinkTime="15964"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="b8730382-c11a-48f6-83fb-803e9884fa8d">
+    <embedded-action>f974996b-3635-45c4-8f2c-a72534cf7001</embedded-action>
+    <embedded-action>bfe4fab1-3abf-4b0d-b7b6-6837c08915f1</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_d8f58086-924d-4c66-918d-1e69da3279d8.jpg</screenshotFileDescription>
+</http-page>
+<http-plugin-action actionType="1"
+    contentType="application/json;charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="/addressbook-gwt/org.metawidget.example.GwtAddressBook/contacts"
+    path="/addressbook-gwt/org.metawidget.example.GwtAddressBook/contacts"
+    plugin="GWT" postType="2"
+    recordedArtifactZipFileName="team/vus/@google @g@w@t/%resources%/recorded-artifacts/b8730382-c11a-48f6-83fb-803e9884fa8d.zip"
+    recordedResponseCode="200" recordedResponseTime="132"
+    responseSize="12" serverUid="technodemo" slaProfileEnabled="false"
+    uid="f974996b-3635-45c4-8f2c-a72534cf7001" useKeepAlive="true">
+    <plugin-handler flags="0" isRequestConversionSuccessful="true"
+        isResponseConversionSuccessful="true"
+        labelBase64="Q29udGFjdHNTZXJ2aWNlLnNhdmU="
+        moduleBase="http://204.236.255.173:8080/addressbook-gwt/org.metawidget.example.GwtAddressBook/"
+        networkType="HTTP" plugin="GWT" protocolVersion="7"
+        resultClass="void" strongId="F6731143EE66DC40B8FCD7B31F16B79A">
+        <requestXMLDataBase64><![CDATA[PEdXVFJlcXVlc3Q+CiAgPHNlcnZpY2U+b3JnLm1ldGF3aWRnZXQuZXhhbXBsZS5nd3QuYWRkcmVzc2Jvb2suY2xpZW50LnJwYy5Db250YWN0c1NlcnZpY2U8L3NlcnZpY2U+CiAgPG1ldGhvZD5zYXZlPC9tZXRob2Q+CiAgPHN0cm9uZ0lkPiR7U3Ryb25nSURfM308L3N0cm9uZ0lkPgogIDxlbmNvZGVkPmZhbHNlPC9lbmNvZGVkPgogIDxwYXJhbWV0ZXJzPgogICAgPG9yZy5tZXRhd2lkZ2V0LmV4YW1wbGUuc2hhcmVkLmFkZHJlc3Nib29rLm1vZGVsLlBlcnNvbmFsQ29udGFjdD4KICAgICAgPG1JZD4wPC9tSWQ+CiAgICAgIDxtVGl0bGU+TXI8L21UaXRsZT4KICAgICAgPG1GaXJzdG5hbWU+c2Vydnk8L21GaXJzdG5hbWU+CiAgICAgIDxtU3VybmFtZT5oZXJ2ZTwvbVN1cm5hbWU+CiAgICAgIDxtQWRkcmVzcz4KICAgICAgICA8bU93bmVyIGNsYXNzPSJvcmcubWV0YXdpZGdldC5leGFtcGxlLnNoYXJlZC5hZGRyZXNzYm9vay5tb2RlbC5QZXJzb25hbENvbnRhY3QiIHJlZmVyZW5jZT0iLi4vLi4iLz4KICAgICAgICA8bVN0cmVldD48L21TdHJlZXQ+CiAgICAgICAgPG1DaXR5PjwvbUNpdHk+CiAgICAgICAgPG1TdGF0ZT48L21TdGF0ZT4KICAgICAgICA8bVBvc3Rjb2RlPjwvbVBvc3Rjb2RlPgogICAgICA8L21BZGRyZXNzPgogICAgICA8bU5vdGVzPnRoaXMgaXMgbXkgbm90ZSB0aGF0IEkgYWRkPC9tTm90ZXM+CiAgICA8L29yZy5tZXRhd2lkZ2V0LmV4YW1wbGUuc2hhcmVkLmFkZHJlc3Nib29rLm1vZGVsLlBlcnNvbmFsQ29udGFjdD4KICA8L3BhcmFtZXRlcnM+CjwvR1dUUmVxdWVzdD4=]]></requestXMLDataBase64>
+        <serviceParameters>
+            <parameterClass>org.metawidget.example.shared.addressbook.model.Contact/4049703967</parameterClass>
+        </serviceParameters>
+    </plugin-handler>
+    <responsePageFileDescription>recorded-responses/res_e37eca40-1e6c-4b8e-828f-3666dd5f03b5</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e37eca40-1e6c-4b8e-828f-3666dd5f03b5.txt</requestContentFileDescription>
+    <header name="Host" value="204.236.255.173:8080"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Content-Type" value="text/x-gwt-rpc; charset=utf-8"/>
+    <header name="X-GWT-Permutation" value="CCAE5B5458A7E3C4872A3BF232E1DD02"/>
+    <header name="X-GWT-Module-Base" value="http://204.236.255.173:8080/addressbook-gwt/org.metawidget.example.GwtAddressBook/"/>
+    <header name="Referer" value="http://204.236.255.173:8080/addressbook-gwt/"/>
+    <header name="Cookie" value="JSESSIONID=4710FA96E54EC92B5DAD6EFB7FDBB2FC"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Pragma" value="no-cache"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1
+Content-Disposition: attachment
+Content-Type: application/json;charset=utf-8
+Content-Length: 12
+Date: Wed, 14 Aug 2013 07:37:49 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-plugin-action>
+<http-plugin-action actionType="1"
+    contentType="application/json;charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="/addressbook-gwt/org.metawidget.example.GwtAddressBook/contacts"
+    path="/addressbook-gwt/org.metawidget.example.GwtAddressBook/contacts"
+    plugin="GWT" postType="2"
+    recordedArtifactZipFileName="team/vus/@google @g@w@t/%resources%/recorded-artifacts/b8730382-c11a-48f6-83fb-803e9884fa8d.zip"
+    recordedResponseCode="200" recordedResponseTime="149"
+    responseSize="1316" serverUid="technodemo" slaProfileEnabled="false"
+    uid="bfe4fab1-3abf-4b0d-b7b6-6837c08915f1" useKeepAlive="true">
+    <plugin-handler flags="0" isRequestConversionSuccessful="true"
+        isResponseConversionSuccessful="true"
+        labelBase64="Q29udGFjdHNTZXJ2aWNlLmdldEFsbEJ5RXhhbXBsZQ=="
+        moduleBase="http://204.236.255.173:8080/addressbook-gwt/org.metawidget.example.GwtAddressBook/"
+        networkType="HTTP" plugin="GWT" protocolVersion="7"
+        resultClass="java.util.List" strongId="F6731143EE66DC40B8FCD7B31F16B79A">
+        <requestXMLDataBase64><![CDATA[PEdXVFJlcXVlc3Q+CiAgPHNlcnZpY2U+b3JnLm1ldGF3aWRnZXQuZXhhbXBsZS5nd3QuYWRkcmVzc2Jvb2suY2xpZW50LnJwYy5Db250YWN0c1NlcnZpY2U8L3NlcnZpY2U+CiAgPG1ldGhvZD5nZXRBbGxCeUV4YW1wbGU8L21ldGhvZD4KICA8c3Ryb25nSWQ+JHtTdHJvbmdJRF8zfTwvc3Ryb25nSWQ+CiAgPGVuY29kZWQ+ZmFsc2U8L2VuY29kZWQ+CiAgPHBhcmFtZXRlcnM+CiAgICA8b3JnLm1ldGF3aWRnZXQuZXhhbXBsZS5zaGFyZWQuYWRkcmVzc2Jvb2subW9kZWwuQ29udGFjdFNlYXJjaC8+CiAgPC9wYXJhbWV0ZXJzPgo8L0dXVFJlcXVlc3Q+]]></requestXMLDataBase64>
+        <serviceParameters>
+            <parameterClass>org.metawidget.example.shared.addressbook.model.ContactSearch/3465598833</parameterClass>
+        </serviceParameters>
+    </plugin-handler>
+    <responsePageFileDescription>recorded-responses/res_b68eeca5-76b7-42b7-a6d9-ad8ab74b58c8</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b68eeca5-76b7-42b7-a6d9-ad8ab74b58c8.txt</requestContentFileDescription>
+    <header name="Host" value="204.236.255.173:8080"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Content-Type" value="text/x-gwt-rpc; charset=utf-8"/>
+    <header name="X-GWT-Permutation" value="CCAE5B5458A7E3C4872A3BF232E1DD02"/>
+    <header name="X-GWT-Module-Base" value="http://204.236.255.173:8080/addressbook-gwt/org.metawidget.example.GwtAddressBook/"/>
+    <header name="Referer" value="http://204.236.255.173:8080/addressbook-gwt/"/>
+    <header name="Cookie" value="JSESSIONID=4710FA96E54EC92B5DAD6EFB7FDBB2FC"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Pragma" value="no-cache"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1
+Content-Encoding: gzip
+Content-Disposition: attachment
+Content-Type: application/json;charset=utf-8
+Content-Length: 648
+Date: Wed, 14 Aug 2013 07:37:49 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-plugin-action>

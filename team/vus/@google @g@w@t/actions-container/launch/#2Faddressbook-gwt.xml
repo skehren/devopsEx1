@@ -1,0 +1,230 @@
+<http-page executeResourcesDynamically="false" name="/addressbook-gwt"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@google @g@w@t/%resources%/recorded-artifacts/ea8f5140-80b9-48c8-a017-cc8ae06b6f44.zip"
+    slaProfileEnabled="false" thinkTime="5833"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="ea8f5140-80b9-48c8-a017-cc8ae06b6f44">
+    <embedded-action>1bb1d77f-3857-4958-8d6d-79053f9d71d3</embedded-action>
+    <embedded-action>200e63f6-13f0-4c02-8c53-8ba45cca4ded</embedded-action>
+    <embedded-action>14e717ba-1765-4f65-a370-d7f3001b4041</embedded-action>
+    <embedded-action>f1d0a305-b31a-4588-8f8c-cc648b69551d</embedded-action>
+    <embedded-action>6505389e-88d0-4203-84f3-45c6de840b2e</embedded-action>
+    <embedded-action>9823080c-f7af-4861-ab2c-c8ddd2ccde1e</embedded-action>
+    <embedded-action>aa9c96bf-69ee-4b05-b648-75538a2d3f40</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_68fefa37-9562-403d-8dd4-52625f82b26c.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/addressbook-gwt" path="/addressbook-gwt"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@google @g@w@t/%resources%/recorded-artifacts/ea8f5140-80b9-48c8-a017-cc8ae06b6f44.zip"
+    recordedResponseCode="302" recordedResponseTime="128"
+    responseSize="0" serverUid="technodemo" slaProfileEnabled="false"
+    uid="1bb1d77f-3857-4958-8d6d-79053f9d71d3" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_3e22909e-3569-423a-b02b-757f86c02fc9</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3e22909e-3569-423a-b02b-757f86c02fc9.txt</requestContentFileDescription>
+    <header name="Host" value="204.236.255.173:8080"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://204.236.255.173:8080/"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 302 Found&#xd;
+Server: Apache-Coyote/1.1
+Location: http://204.236.255.173:8080/addressbook-gwt/
+Date: Wed, 14 Aug 2013 07:37:25 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/addressbook-gwt/" path="/addressbook-gwt/"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@google @g@w@t/%resources%/recorded-artifacts/ea8f5140-80b9-48c8-a017-cc8ae06b6f44.zip"
+    recordedResponseCode="200" recordedResponseTime="127"
+    refererUid="1bb1d77f-3857-4958-8d6d-79053f9d71d3"
+    responseSize="2827" serverUid="technodemo" slaProfileEnabled="false"
+    uid="200e63f6-13f0-4c02-8c53-8ba45cca4ded" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_554dee99-0691-401e-85ac-c779c8617dcc.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_554dee99-0691-401e-85ac-c779c8617dcc.txt</requestContentFileDescription>
+    <header name="Host" value="204.236.255.173:8080"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://204.236.255.173:8080/"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=4710FA96E54EC92B5DAD6EFB7FDBB2FC; Path=/addressbook-gwt
+Content-Type: text/html
+Content-Length: 2827
+Date: Wed, 14 Aug 2013 07:37:25 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/addressbook-gwt/css/framework-specific-addressbook.css"
+    path="/addressbook-gwt/css/framework-specific-addressbook.css"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@google @g@w@t/%resources%/recorded-artifacts/ea8f5140-80b9-48c8-a017-cc8ae06b6f44.zip"
+    recordedResponseCode="200" recordedResponseTime="135"
+    responseSize="1469" serverUid="technodemo" slaProfileEnabled="false"
+    uid="14e717ba-1765-4f65-a370-d7f3001b4041" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_e1969c4e-1f8b-44cf-b93c-565330a09d99.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e1969c4e-1f8b-44cf-b93c-565330a09d99.txt</requestContentFileDescription>
+    <header name="Host" value="204.236.255.173:8080"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0"/>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://204.236.255.173:8080/addressbook-gwt/"/>
+    <header name="Cookie" value="JSESSIONID=4710FA96E54EC92B5DAD6EFB7FDBB2FC"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1
+Accept-Ranges: bytes
+ETag: W/"1469-1336996248000"
+Last-Modified: Mon, 14 May 2012 11:50:48 GMT
+Content-Type: text/css
+Content-Length: 1469
+Date: Wed, 14 Aug 2013 07:37:25 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/addressbook-gwt/css/addressbook.css"
+    path="/addressbook-gwt/css/addressbook.css" postType="1"
+    recordedArtifactZipFileName="team/vus/@google @g@w@t/%resources%/recorded-artifacts/ea8f5140-80b9-48c8-a017-cc8ae06b6f44.zip"
+    recordedResponseCode="200" recordedResponseTime="130"
+    responseSize="2771" serverUid="technodemo" slaProfileEnabled="false"
+    uid="f1d0a305-b31a-4588-8f8c-cc648b69551d" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_bb5347fe-e3d6-419a-8d8f-b18fad964ef0.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_bb5347fe-e3d6-419a-8d8f-b18fad964ef0.txt</requestContentFileDescription>
+    <header name="Host" value="204.236.255.173:8080"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0"/>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://204.236.255.173:8080/addressbook-gwt/"/>
+    <header name="Cookie" value="JSESSIONID=4710FA96E54EC92B5DAD6EFB7FDBB2FC"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1
+Accept-Ranges: bytes
+ETag: W/"2771-1336996248000"
+Last-Modified: Mon, 14 May 2012 11:50:48 GMT
+Content-Type: text/css
+Content-Length: 2771
+Date: Wed, 14 Aug 2013 07:37:25 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/addressbook-gwt/org.metawidget.example.GwtAddressBook/org.metawidget.example.GwtAddressBook.nocache.js"
+    path="/addressbook-gwt/org.metawidget.example.GwtAddressBook/org.metawidget.example.GwtAddressBook.nocache.js"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@google @g@w@t/%resources%/recorded-artifacts/ea8f5140-80b9-48c8-a017-cc8ae06b6f44.zip"
+    recordedResponseCode="200" recordedResponseTime="130"
+    refererUid="200e63f6-13f0-4c02-8c53-8ba45cca4ded"
+    responseSize="5790" serverUid="technodemo" slaProfileEnabled="false"
+    uid="6505389e-88d0-4203-84f3-45c6de840b2e" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_ad5d48e2-21b8-4e9f-a8a4-2a6bb7bdbbf8</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ad5d48e2-21b8-4e9f-a8a4-2a6bb7bdbbf8.txt</requestContentFileDescription>
+    <header name="Host" value="204.236.255.173:8080"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://204.236.255.173:8080/addressbook-gwt/"/>
+    <header name="Cookie" value="JSESSIONID=4710FA96E54EC92B5DAD6EFB7FDBB2FC"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1
+Accept-Ranges: bytes
+ETag: W/"5790-1336996490000"
+Last-Modified: Mon, 14 May 2012 11:54:50 GMT
+Content-Type: application/javascript
+Content-Length: 5790
+Date: Wed, 14 Aug 2013 07:37:25 GMT</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="1"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/addressbook-gwt/media/addressbook.gif"
+    path="/addressbook-gwt/media/addressbook.gif" postType="1"
+    recordedArtifactZipFileName="team/vus/@google @g@w@t/%resources%/recorded-artifacts/ea8f5140-80b9-48c8-a017-cc8ae06b6f44.zip"
+    recordedResponseCode="200" recordedResponseTime="122"
+    responseSize="0" serverUid="technodemo" slaProfileEnabled="false"
+    uid="9823080c-f7af-4861-ab2c-c8ddd2ccde1e" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_f6066bf7-cc12-45d8-819d-336cb95dec9e.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f6066bf7-cc12-45d8-819d-336cb95dec9e.txt</requestContentFileDescription>
+    <header name="Host" value="204.236.255.173:8080"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0"/>
+    <header name="Accept" value="image/png,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://204.236.255.173:8080/addressbook-gwt/"/>
+    <header name="Cookie" value="JSESSIONID=4710FA96E54EC92B5DAD6EFB7FDBB2FC"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1
+Accept-Ranges: bytes
+ETag: W/"6468-1336996408000"
+Last-Modified: Mon, 14 May 2012 11:53:28 GMT
+Content-Type: image/gif
+Content-Length: 6468
+Date: Wed, 14 Aug 2013 07:37:25 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/addressbook-gwt/media/background.jpg"
+    path="/addressbook-gwt/media/background.jpg" postType="1"
+    recordedArtifactZipFileName="team/vus/@google @g@w@t/%resources%/recorded-artifacts/ea8f5140-80b9-48c8-a017-cc8ae06b6f44.zip"
+    recordedResponseCode="200" recordedResponseTime="242"
+    responseSize="0" serverUid="technodemo" slaProfileEnabled="false"
+    uid="aa9c96bf-69ee-4b05-b648-75538a2d3f40" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_9ad41705-bba7-40c3-a892-83772eba9203</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9ad41705-bba7-40c3-a892-83772eba9203.txt</requestContentFileDescription>
+    <header name="Host" value="204.236.255.173:8080"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0"/>
+    <header name="Accept" value="image/png,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://204.236.255.173:8080/addressbook-gwt/css/addressbook.css"/>
+    <header name="Cookie" value="JSESSIONID=4710FA96E54EC92B5DAD6EFB7FDBB2FC"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1
+Accept-Ranges: bytes
+ETag: W/"15275-1336996408000"
+Last-Modified: Mon, 14 May 2012 11:53:28 GMT
+Content-Type: image/jpeg
+Content-Length: 15275
+Date: Wed, 14 Aug 2013 07:37:25 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

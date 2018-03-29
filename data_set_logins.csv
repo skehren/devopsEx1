@@ -1,0 +1,5 @@
+login;password;cardtype;card number;expiration;firstname;lastname;address1;address2;City;State;Zip;Country
+user1;pass1;American Express;699 999 999 999 999;12-janv;mike;delfino;2315 Miami Blvd;;Santa Clara;CA;94303;USA
+user3;pass3;American Express;699 999 999 999 999;12-janv;mike;delfino;2315 Miami Blvd;;Santa Clara;CA;94303;USA
+user4;pass4;American Express;699 999 999 999 999;12-janv;mike;delfino;2315 Miami Blvd;;Santa Clara;CA;94303;USA
+user5;pass5;MasterCard;999 973 299 999 999;12-juil;susan;mayer;458  San Antonio Road;;Palo Alto;CA;94303;USA

@@ -1,0 +1,38 @@
+<http-page executeResourcesDynamically="false" name="/favicon.ico"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@switch/%resources%/recorded-artifacts/65122d61-0999-43eb-9444-c482d3c2359c.zip"
+    slaProfileEnabled="false" thinkTime="13695"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="65122d61-0999-43eb-9444-c482d3c2359c">
+    <embedded-action>6430fd64-2d22-437e-a871-5c01482aae0e</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/x-icon"
+    eTag="&quot;120fc9-47e-4cee7bb4d1180&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/favicon.ico" path="/favicon.ico" postType="1"
+    recordedArtifactZipFileName="team/vus/@switch/%resources%/recorded-artifacts/65122d61-0999-43eb-9444-c482d3c2359c.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="6430fd64-2d22-437e-a871-5c01482aae0e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6430fd64-2d22-437e-a871-5c01482aae0e</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_33e8eb3b-4797-444f-bc28-cae23597a058.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, sdch"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=qonibnmdt9k5rtopkjp542mil6"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 23 May 2017 09:54:34 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT&#xd;
+ETag: "120fc9-47e-4cee7bb4d1180"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 1150&#xd;
+Content-Type: image/x-icon</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

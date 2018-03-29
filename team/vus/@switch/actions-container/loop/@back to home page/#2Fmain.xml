@@ -1,0 +1,75 @@
+<http-page executeResourcesDynamically="false" name="/main"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@switch/%resources%/recorded-artifacts/bf007d56-6e1e-4de3-b775-05da2fbb93d7.zip"
+    slaProfileEnabled="false" thinkTime="108"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="bf007d56-6e1e-4de3-b775-05da2fbb93d7">
+    <embedded-action>984f140f-4d7a-4e3a-ad09-e1685834a5b9</embedded-action>
+    <embedded-action>a391dbfe-b9d9-46a3-bf23-0820e7b6855f</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/main" path="/main" postType="1"
+    recordedArtifactZipFileName="team/vus/@switch/%resources%/recorded-artifacts/bf007d56-6e1e-4de3-b775-05da2fbb93d7.zip"
+    recordedResponseCode="200"
+    refererUid="3e23bf09-b94c-4b1f-ae2b-b31e9ccca079"
+    responseSize="26637" serverUid="ushahidi.demo.neotys.com"
+    slaProfileEnabled="false" uid="984f140f-4d7a-4e3a-ad09-e1685834a5b9" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a1cbfcc4-836f-4e41-98b0-15fd81c550fb.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a1cbfcc4-836f-4e41-98b0-15fd81c550fb.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, sdch"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="__utmt=1; __utma=254652684.1076005495.1495533419.1495533419.1495533419.1; __utmb=254652684.2.10.1495533419; __utmc=254652684; __utmz=254652684.1495533419.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); ushahidi=qonibnmdt9k5rtopkjp542mil6"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 23 May 2017 09:54:39 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+X-Powered-By: PHP/5.3.3-7+squeeze19&#xd;
+Expires: Thu, 19 Nov 1981 08:52:00 GMT&#xd;
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0&#xd;
+Pragma: no-cache&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Content-Length: 7966&#xd;
+Content-Type: text/html; charset=UTF-8&#xd;
+Set-Cookie: ushahidi=qonibnmdt9k5rtopkjp542mil6; path=/; httponly</responseHeaders>
+    <record-html-infos extractorContent="Home" extractorOccurence="7"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/scheduler" path="/scheduler" postType="1"
+    recordedArtifactZipFileName="team/vus/@switch/%resources%/recorded-artifacts/bf007d56-6e1e-4de3-b775-05da2fbb93d7.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="a391dbfe-b9d9-46a3-bf23-0820e7b6855f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a391dbfe-b9d9-46a3-bf23-0820e7b6855f.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_fe9268b8-ac58-495d-9857-7bc05cba4f42.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, sdch"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="__utmt=1; __utma=254652684.1076005495.1495533419.1495533419.1495533419.1; __utmb=254652684.2.10.1495533419; __utmc=254652684; __utmz=254652684.1495533419.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); ushahidi=qonibnmdt9k5rtopkjp542mil6"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/main"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 23 May 2017 09:54:40 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+X-Powered-By: PHP/5.3.3-7+squeeze19&#xd;
+Expires: Wed, 11 Nov 1998 11:11:11 GMT&#xd;
+Cache-Control: must-revalidate&#xd;
+Pragma: no-cache&#xd;
+Content-Length: 49&#xd;
+Content-Type: image/gif&#xd;
+Set-Cookie: ushahidi=qonibnmdt9k5rtopkjp542mil6; path=/; httponly</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

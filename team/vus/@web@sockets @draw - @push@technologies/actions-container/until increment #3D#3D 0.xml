@@ -1,0 +1,6 @@
+<wait-until-action name="until increment == 0"
+    uid="0a9d2dc6-e2fa-4419-b906-d5b90e37b7e2" wait-timeout="60000">
+    <conditions match-type="1">
+        <condition operand1="${increment}" operand2="1" operator="EQUALS"/>
+    </conditions>
+</wait-until-action>

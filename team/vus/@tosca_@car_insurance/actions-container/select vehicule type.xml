@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="select vehicule type" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="ee818090-4364-47c3-ab71-727713eb1af8" weightsEnabled="false">
+    <weighted-embedded-action uid="981945e9-c265-43f5-baf1-984ece9e3ee5"/>
+</basic-logical-action-container>

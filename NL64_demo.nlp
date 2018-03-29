@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=NL64_demo
+project.version=6.2
+project.original.version=4.2
+product.name=NeoLoad
+product.original.name=
+product.original.version=
+project.id=4e060ec5-dab8-441c-b4ad-922fbf036d99
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=skehren/devopsEx1

@@ -1,0 +1,89 @@
+<http-page executeResourcesDynamically="false" name="/VehicleData.html"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/b6507e4f-1649-4ee0-a8fc-1a449d12f4ea.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="b6507e4f-1649-4ee0-a8fc-1a449d12f4ea">
+    <embedded-action>a22e18fc-73b1-4d11-b057-77f2983ee780</embedded-action>
+    <embedded-action>3de5296c-df2f-4045-a23a-665edd74a1e0</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_398b0374-99fe-4f1e-bd54-9a542237f7a9.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    eTag="&quot;19ae-50b5d84000fa4&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Mon, 29 Dec 2014 16:39:18 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/VehicleData.html" path="/VehicleData.html"
+    postCharset="utf-8" postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/b6507e4f-1649-4ee0-a8fc-1a449d12f4ea.zip"
+    recordedResponseCode="200" recordedResponseTime="24"
+    refererUid="e35c4876-7a6f-4b3a-9606-13599364e03d"
+    responseSize="6574" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="a22e18fc-73b1-4d11-b057-77f2983ee780" useKeepAlive="true">
+    <binaryPostContentBase64><![CDATA[VHlwZU9mVmVoaWNsZT1BdXRvbW9iaWxl]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_6d657536-18db-424b-9176-ff7b9588045a.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6d657536-18db-424b-9176-ff7b9588045a.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="TypeOfVehicle"
+        recordRawValue="Automobile" separator="=" value="Automobile" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*"/>
+    <header name="Referer" value="http://10.0.0.100/TypeOfVehicle.html"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Content-Type" value="application/x-www-form-urlencoded"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Pragma" value="no-cache"/>
+    <header name="Cookie" value="TypeOfVehicle=Automobile; isDateVerified=true"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:59 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Mon, 29 Dec 2014 16:39:18 GMT
+ETag: "19ae-50b5d84000fa4"
+Accept-Ranges: bytes
+Content-Length: 6574
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html</responseHeaders>
+    <record-html-infos extractorName="form_Versicherungsart"
+        extractorOccurence="1" extractorRegExp="false" htmlType="2"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;1f9-4e4a0da3a5980&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 23 Aug 2013 17:36:54 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pics/info.jpg" path="/pics/info.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@tosca_@car_insurance/%resources%/recorded-artifacts/b6507e4f-1649-4ee0-a8fc-1a449d12f4ea.zip"
+    recordedResponseCode="200" recordedResponseTime="29"
+    responseSize="0" serverUid="10.0.0.100" slaProfileEnabled="false"
+    uid="3de5296c-df2f-4045-a23a-665edd74a1e0" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_f56580c1-e248-4f1d-bf22-1cc64ba499d6</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f56580c1-e248-4f1d-bf22-1cc64ba499d6.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Referer" value="http://10.0.0.100/VehicleData.html"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="10.0.0.100"/>
+    <header name="Cookie" value="TypeOfVehicle=Automobile; isDateVerified=true"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 19 Feb 2016 14:50:59 GMT
+Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.15
+Last-Modified: Fri, 23 Aug 2013 17:36:54 GMT
+ETag: "1f9-4e4a0da3a5980"
+Accept-Ranges: bytes
+Content-Length: 505
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: image/jpeg</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

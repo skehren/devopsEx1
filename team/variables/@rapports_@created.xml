@@ -1,0 +1,1 @@
+<variable-shared-queue consTimeout="5000" delimiter=";" name="Rapports_Created" order="1" policy="1" queueSize="10000" range="1" swapActivated="false" swapDumpEnabled="true" swapFile="" swapLoadedEnabled="false" uid="9213c8ba-dc60-4d43-8e7b-f87054da479f" whenOutOfValues="CYCLE_VALUES"/>

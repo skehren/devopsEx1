@@ -1,0 +1,145 @@
+<http-page executeResourcesDynamically="false" name="/csi"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/b054a377-dc41-42b4-843b-5f7a92cbac52.zip"
+    slaProfileEnabled="false" thinkTime="572"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="b054a377-dc41-42b4-843b-5f7a92cbac52">
+    <embedded-action>61a9f6cb-df97-403a-a99f-a65123267520</embedded-action>
+    <embedded-action>1dde8017-1ded-4d44-9fa7-189ab587e29b</embedded-action>
+    <embedded-action>42e95da8-10db-4a90-abdb-33ceb5946593</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 21 Jan 2004 19:51:30 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/csi" path="/csi" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/b054a377-dc41-42b4-843b-5f7a92cbac52.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="csi.gstatic.com" slaProfileEnabled="false"
+    uid="61a9f6cb-df97-403a-a99f-a65123267520" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6e456d24-c754-4bc6-80a2-2b1b6dc4c9a5.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6e456d24-c754-4bc6-80a2-2b1b6dc4c9a5.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="s"
+        recordRawValue="mapsapi3" separator="=" value="mapsapi3" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="v3v"
+        recordRawValue="28.19" separator="=" value="28.19" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="action"
+        recordRawValue="apiboot2" separator="=" value="apiboot2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="rt"
+        recordRawValue="main.21" separator="=" value="main.21" valueMode="USE_VALUE"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="accept-language" value="en-US, en;q=0.8"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+access-control-allow-origin: *&#xd;
+date: Tue, 10 Oct 2017 09:11:42 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, no-store, must-revalidate&#xd;
+last-modified: Wed, 21 Jan 2004 19:51:30 GMT&#xd;
+content-type: image/gif&#xd;
+server: Golfe2&#xd;
+Content-Length: 0&#xd;
+alt-svc: quic=":443"; ma=2592000; v="39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 21 Jan 2004 19:51:30 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/csi" path="/csi" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/b054a377-dc41-42b4-843b-5f7a92cbac52.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="csi.gstatic.com" slaProfileEnabled="false"
+    uid="1dde8017-1ded-4d44-9fa7-189ab587e29b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f0ef7c77-1e9a-41be-8fd2-f97e4f3ab5b5.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f0ef7c77-1e9a-41be-8fd2-f97e4f3ab5b5.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="s"
+        recordRawValue="mapsapi3" separator="=" value="mapsapi3" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="v3v"
+        recordRawValue="28.19" separator="=" value="28.19" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="action"
+        recordRawValue="apiboot2" separator="=" value="apiboot2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="rt"
+        recordRawValue="firstmap.395" separator="=" value="firstmap.395" valueMode="USE_VALUE"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="accept-language" value="en-US, en;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="referer" value="http://ushahidi.demo.neotys.com/"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+access-control-allow-origin: *&#xd;
+date: Tue, 10 Oct 2017 09:11:42 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, no-store, must-revalidate&#xd;
+last-modified: Wed, 21 Jan 2004 19:51:30 GMT&#xd;
+content-type: image/gif&#xd;
+server: Golfe2&#xd;
+Content-Length: 0&#xd;
+alt-svc: quic=":443"; ma=2592000; v="39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 21 Jan 2004 19:51:30 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/csi" path="/csi" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/b054a377-dc41-42b4-843b-5f7a92cbac52.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="csi.gstatic.com" slaProfileEnabled="false"
+    uid="42e95da8-10db-4a90-abdb-33ceb5946593" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c8cc60a0-a551-48b0-8f8e-810627e1a7f8.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c8cc60a0-a551-48b0-8f8e-810627e1a7f8.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="s"
+        recordRawValue="mapsapi3" separator="=" value="mapsapi3" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="v3v"
+        recordRawValue="28.19" separator="=" value="28.19" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="action"
+        recordRawValue="map2" separator="=" value="map2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="firstmap"
+        recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="hdpi"
+        recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="mob"
+        recordRawValue="false" separator="=" value="false" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="staticmap"
+        recordRawValue="false" separator="=" value="false" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="size"
+        recordRawValue="938x366" separator="=" value="938x366" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="hadviewport"
+        recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="rt"
+        recordRawValue="visreq.701" separator="=" value="visreq.701" valueMode="USE_VALUE"/>
+    <header name="referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="accept-language" value="en-US, en;q=0.8"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+access-control-allow-origin: *&#xd;
+date: Tue, 10 Oct 2017 09:11:42 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, no-store, must-revalidate&#xd;
+last-modified: Wed, 21 Jan 2004 19:51:30 GMT&#xd;
+content-type: image/gif&#xd;
+server: Golfe2&#xd;
+Content-Length: 0&#xd;
+alt-svc: quic=":443"; ma=2592000; v="39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,171 @@
+<scenario postMonitoringTime="-1" preMonitoringTime="-1"
+    slaProfileEnabled="false" uid="WANImpact" virtualUsersStates="true">
+    <description>measure UX and Wan impact on Ushaidi via Cloud</description>
+    <!--****** POPULATION POLICY ******-->
+    <population-policy name="MyPopulationBigCities">
+        <duration-policy-entry iterations="1" time="120" timeUnit="0" type="2"/>
+        <volume-policy-entry>
+            <rampup-volume-policy delayIncrement="10.0"
+                delayTypeIncrement="1" initialUserNumber="2"
+                iterationNumber="1" maxUserNumber="0" userIncrement="2"/>
+        </volume-policy-entry>
+        <start-stop-policy-entry start-delay="0" start-type="0"
+            stop-delay="60000" stop-type="0"/>
+        <runtime-policy continueOnError="true" thinktimePolicy="0"
+            thinktimeValue="5000" vuStartDelay="0" vuStartMode="0"/>
+        <!--****** POPULATION LG HOSTS ******-->
+        <lg-hosts>
+            <lg-host-entry>$zoneID=Default zone;$lgID=localhost:7150</lg-host-entry>
+        </lg-hosts>
+    </population-policy>
+    <!--****** POPULATION POLICY ******-->
+    <population-policy name="MyPopulationSmallCities">
+        <duration-policy-entry iterations="1" time="120" timeUnit="0" type="2"/>
+        <volume-policy-entry>
+            <constant-volume-policy iterationNumber="1" userNumber="10"/>
+        </volume-policy-entry>
+        <start-stop-policy-entry start-delay="0" start-type="0"
+            stop-delay="60000" stop-type="0"/>
+        <runtime-policy continueOnError="true" thinktimePolicy="0"
+            thinktimeValue="5000" vuStartDelay="0" vuStartMode="0"/>
+        <!--****** POPULATION LG HOSTS ******-->
+        <lg-hosts>
+            <lg-host-entry>$zoneID=Default zone;$lgID=localhost:7150</lg-host-entry>
+        </lg-hosts>
+    </population-policy>
+    <dashboards defaultDashboardUid="response Time"/>
+    <!--****** DASHBOARDS  ******-->
+    <charts-model-description name="response Time">
+        <chart-description autoRange="true"
+            chart-description-type="chart-description-type"
+            domainMarkerVisible="true" granularityLevel="0"
+            historyState="XMIN" includeInReport="false"
+            rangeMarkerVisible="true"
+            title="submit - Duration (scatter)" typeName="CLASSIC">
+            <monitor-curve-description color="191,0,189"
+                connectionName="windows" dashed="false"
+                monitorName="Memory/Pages/sec"
+                monitoredHostName="localhost" scale="0.01" selected="true"/>
+        </chart-description>
+        <chart-description autoRange="true"
+            chart-description-type="chart-description-type"
+            domainMarkerVisible="true" granularityLevel="0"
+            historyState="XMIN" includeInReport="false"
+            rangeMarkerVisible="true" title="Controller/CPU Load" typeName="CLASSIC">
+            <monitor-curve-description color="0,255,0"
+                connectionName="NeoLoad" dashed="false"
+                monitorName="cpu" monitoredHostName="NeoLoad"
+                scale="1.0" selected="true"/>
+        </chart-description>
+        <chart-description autoRange="true"
+            chart-description-type="chart-description-type"
+            domainMarkerVisible="true" granularityLevel="0"
+            historyState="XMIN" includeInReport="false"
+            rangeMarkerVisible="true"
+            title="SampleServerNode01/http-apache/All/%BusyWorkers" typeName="CLASSIC">
+            <monitor-curve-description color="20,106,203"
+                connectionName="http-apache" dashed="false"
+                monitorName="All/%BusyWorkers"
+                monitoredHostName="SampleServerNode01" scale="1.0" selected="false"/>
+            <monitor-curve-description color="88,183,55"
+                connectionName="http-apache" dashed="false"
+                monitorName="All/%BusyWorkers"
+                monitoredHostName="SampleServerNode02" scale="1.0" selected="true"/>
+        </chart-description>
+        <chart-description autoRange="true"
+            chart-description-type="chart-description-type"
+            domainMarkerVisible="true" granularityLevel="0"
+            historyState="XMIN" includeInReport="false"
+            rangeMarkerVisible="true"
+            title="&lt;all transactions> - Average duration" typeName="CLASSIC">
+            <action-curve-description
+                actionUid="7ed8daca-007e-3d9e-b273-7a92d22bf638"
+                color="153,153,0" dashed="false" populationName=""
+                scale="1.0" selected="true"
+                statisticName="result.average.duration" zoneName=""/>
+        </chart-description>
+        <chart-description autoRange="true"
+            chart-description-type="chart-description-type"
+            domainMarkerVisible="true" granularityLevel="0"
+            historyState="XMIN" includeInReport="false"
+            rangeMarkerVisible="true"
+            title="Submit report Mobil - Average duration" typeName="CLASSIC">
+            <action-curve-description
+                actionUid="053d1f29-a4fe-45bd-903a-79a356d6b77f"
+                color="153,153,0" dashed="false" populationName=""
+                scale="1.0" selected="true"
+                statisticName="result.average.duration"
+                virtualUserUid="MyiPhoneUser_Create_report" zoneName=""/>
+        </chart-description>
+        <chart-description autoRange="true"
+            chart-description-type="chart-description-type"
+            domainMarkerVisible="true" granularityLevel="0"
+            historyState="XMIN" includeInReport="false"
+            rangeMarkerVisible="true"
+            title="submit Report Browser- Average duration" typeName="CLASSIC">
+            <action-curve-description
+                actionUid="ce4a0166-d165-4c66-9019-61f7fc286bff"
+                color="153,153,0" dashed="false" populationName=""
+                scale="1.0" selected="false"
+                statisticName="result.average.duration"
+                virtualUserUid="BrowserUser_Create_report" zoneName=""/>
+            <action-curve-description
+                actionUid="78938f8a-f129-41de-9d9a-5294f3eaad57"
+                color="20,106,203" dashed="false" populationName=""
+                scale="1.0" selected="false"
+                statisticName="result.average.duration"
+                virtualUserUid="BrowserUser_Create_report" zoneName=""/>
+            <action-curve-description
+                actionUid="dfba4470-e293-4f93-9cc9-fef5c5ea0323"
+                color="88,183,55" dashed="false" populationName=""
+                scale="1.0" selected="false"
+                statisticName="result.average.duration"
+                virtualUserUid="BrowserUser_Create_report" zoneName=""/>
+            <action-curve-description
+                actionUid="e39946af-e0cb-4da8-ac33-82ada524d6dd"
+                color="200,0,0" dashed="false" populationName=""
+                scale="1.0" selected="false"
+                statisticName="result.average.duration"
+                virtualUserUid="BrowserUser_Create_report" zoneName=""/>
+            <action-curve-description
+                actionUid="1395b132-f970-43b0-a461-a618b438a188"
+                color="191,0,189" dashed="false" populationName=""
+                scale="1.0" selected="false"
+                statisticName="result.average.duration"
+                virtualUserUid="BrowserUser_Create_report" zoneName=""/>
+            <action-curve-description
+                actionUid="376a259e-1b1b-4383-a04e-d1f334e0367d"
+                color="20,210,210" dashed="false" populationName=""
+                scale="1.0" selected="true"
+                statisticName="result.average.duration"
+                virtualUserUid="BrowserUser_Create_report" zoneName=""/>
+        </chart-description>
+    </charts-model-description>
+    <charts-model-description name="Monitoring"/>
+    <!--****** END DASHBOARDS  ******-->
+    <!--****** START DATA FILTERS  ******-->
+    <!--****** END DATA FILTERS  ******-->
+    <!--****** START RENDEZ-VOUS POLICIES  ******-->
+    <!--****** END RENDEZ-VOUS POLICIES  ******-->
+    <!--****** START DEBUG POLICY ******-->
+    <debug-policy mode="1"/>
+    <!--****** END DEBUG POLICY ******-->
+    <!--****** START VU STATES ******-->
+    <!--****** END VU STATES ******-->
+    <request-path-exclusion-filter isEnabled="false">
+        <regexps>
+            <regexp>.*\.jpg</regexp>
+            <regexp>.*\.jpeg</regexp>
+            <regexp>.*\.gif</regexp>
+            <regexp>.*\.png</regexp>
+            <regexp>.*\.bmp</regexp>
+            <regexp>.*\.css</regexp>
+            <regexp>.*\.js</regexp>
+            <regexp>.*\.swf</regexp>
+            <regexp>.*\.ico</regexp>
+            <regexp>.*\.jar</regexp>
+            <regexp>.*\.class</regexp>
+            <regexp>.*\.properties</regexp>
+        </regexps>
+    </request-path-exclusion-filter>
+</scenario>

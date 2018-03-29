@@ -1,0 +1,58 @@
+<http-page executeResourcesDynamically="false"
+    name="SIEBEL_GotoPageTab:Accounts Screen"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@s@i@e@b@e@l/%resources%/recorded-artifacts/e3b98318-1a70-484c-8630-66af2603454b.zip"
+    slaProfileEnabled="false" thinkTime="3133"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="e3b98318-1a70-484c-8630-66af2603454b">
+    <embedded-action>56dabae2-7be9-458e-90fd-46528bc8bacd</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_2fe11af5-e37b-4502-a64f-11fb828a4018.jpg</screenshotFileDescription>
+</http-page>
+<http-plugin-action actionType="1" contentType="text/html;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    extractorServerUid="technodemo" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="SIEBEL_/sales_enu/start.swe"
+    path="/sales_enu/start.swe" plugin="SIEBEL" postCharset="UTF-8"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@s@i@e@b@e@l/%resources%/recorded-artifacts/e3b98318-1a70-484c-8630-66af2603454b.zip"
+    recordedResponseCode="200" recordedResponseTime="54"
+    responseSize="15647" serverUid="technodemo"
+    slaProfileEnabled="false" uid="56dabae2-7be9-458e-90fd-46528bc8bacd" useKeepAlive="true">
+    <plugin-handler isRequestConversionSuccessful="true"
+        isResponseConversionSuccessful="true"
+        labelBase64="R290b1BhZ2VUYWI6QWNjb3VudHMgU2NyZWVu"
+        networkType="HTTP" plugin="SIEBEL">
+        <requestXMLDataBase64><![CDATA[PFNpZWJlbFJlcXVlc3Q+CiAgPHBvc3RQYXJhbWV0ZXJzPgogICAgPHBhcmFtZXRlciBuYW1lPSJTV0VDIj4ke1NXRUNfeG1sfTwvcGFyYW1ldGVyPgogICAgPHBhcmFtZXRlciBuYW1lPSJTV0VSUEMiPjE8L3BhcmFtZXRlcj4KICAgIDxwYXJhbWV0ZXIgbmFtZT0iU1dFQWN0aXZlQXBwbGV0Ij5MYXlvdXQgQ29udHJvbHMgQXBwbGV0PC9wYXJhbWV0ZXI+CiAgICA8cGFyYW1ldGVyIG5hbWU9IlNXRUNtZCI+R290b1BhZ2VUYWI8L3BhcmFtZXRlcj4KICAgIDxwYXJhbWV0ZXIgbmFtZT0iU1dFU2NyZWVuIj5BY2NvdW50cyBTY3JlZW48L3BhcmFtZXRlcj4KICAgIDxwYXJhbWV0ZXIgbmFtZT0iU1dFQWN0aXZlVmlldyI+U2FsZXMgSG9tZSBQYWdlIFZpZXc8L3BhcmFtZXRlcj4KICA8L3Bvc3RQYXJhbWV0ZXJzPgogIDxnZXRQYXJhbWV0ZXJzLz4KPC9TaWViZWxSZXF1ZXN0Pg==]]></requestXMLDataBase64>
+    </plugin-handler>
+    <responsePageFileDescription>recorded-responses/res_ede3e260-60a5-4d4c-bab4-3fc692e7ea13.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ede3e260-60a5-4d4c-bab4-3fc692e7ea13.txt</requestContentFileDescription>
+    <variable-extractor assertionOnNoMatch="true"
+        defaultValue="SWEC_xml_NOT_FOUND" displayMode="1"
+        endsWithSimple="" extractFromVarNameAdv=""
+        extractFromVarNameSimple="" extractType="0" extractTypeAdv="0"
+        extractTypeSimple="0" matchNumber="1" matchNumberAdv="1"
+        matchNumberSimple="1" name="SWEC_xml"
+        regExp="&lt;property name=&quot;SWEC&quot;>(\d*?)&lt;/property>"
+        regExpAdv="&lt;property name=&quot;SWEC&quot;>(\d*?)&lt;/property>"
+        setDefaultValue="true" startsWithSimple="" template="$1$"
+        templateAdv="$1$" uid="8bbd03a0-b4d4-4ba1-965b-80c72b0a17b8" xpath=""/>
+    <header name="Content-Type" value="application/x-www-form-urlencoded"/>
+    <header name="Accept-Encoding" value="deflate"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; AskTbARS2/5.15.4.23821; .NET4.0C)"/>
+    <header name="Host" value="maguk"/>
+    <header name="DNT" value="1"/>
+    <header name="Pragma" value="no-cache"/>
+    <header name="Cookie" value="SWEUAID=1; _sn=8TGlHwJB.t.O2EUUGQf8mXjUHBJvERN.erESSmDHC40OhovyGdViCmMSL0R6tINM"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 22 May 2013 08:12:51 GMT
+Server: Microsoft-IIS/6.0
+content-language: en
+cache-control: no-cache
+swerpc: true
+content-type: text/html;charset=UTF-8
+content-length: 3869</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-plugin-action>

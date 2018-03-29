@@ -1,0 +1,14 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Home Page" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="fdcf92b0-766f-4b31-bb34-b77109d3fc11" weightsEnabled="false">
+    <weighted-embedded-action uid="2b7ed2eb-4a7c-4c1e-897d-270665d704f5"/>
+    <weighted-embedded-action uid="405d5fe6-67ae-47e0-9db7-68a6db9604cd"/>
+    <weighted-embedded-action uid="9aee7754-c3fb-499e-ae52-87155cebf053"/>
+    <weighted-embedded-action uid="b054a377-dc41-42b4-843b-5f7a92cbac52"/>
+    <weighted-embedded-action uid="c9b1848e-b079-490c-830c-aaf2088c371b"/>
+    <weighted-embedded-action uid="91fa77dc-4fbd-4a02-a859-eaff6364a788"/>
+    <weighted-embedded-action uid="b7048533-279f-4618-908a-06f6936887c3"/>
+    <weighted-embedded-action uid="bae0192e-fe7f-43eb-ace8-665127408bbd"/>
+    <weighted-embedded-action uid="131712f4-a4b5-4f38-900a-08f8c1fe254a"/>
+</basic-logical-action-container>

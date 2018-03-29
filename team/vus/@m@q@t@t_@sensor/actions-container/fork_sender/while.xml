@@ -1,0 +1,7 @@
+<while-action name="while" uid="582aa866-a526-44ab-a9e1-e023c598e0ee">
+    <embedded-action>a2b5ceac-dfaa-48d1-b9d3-02a7c1fee504</embedded-action>
+    <embedded-action>dbb022e9-f429-4937-bda5-7a9cb4cb2041</embedded-action>
+    <conditions match-type="1">
+        <condition operand1="" operand2="" operator="EQUALS"/>
+    </conditions>
+</while-action>

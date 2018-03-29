@@ -1,0 +1,15 @@
+<custom-action actionType="MQTT receive messages on a topic"
+    isHit="false" name="receive" uid="05decaa2-a8ff-4d51-9cfe-7792a7964e36">
+    <description>Receive messages on a topic from an MQTT broker.
+
+Possible parameters are:&#xd;
+- BrokerAlias (optional): Alias identifying the broker.If User Path connects to one broker only, this parameter can be left out.&#xd;
+- Topic (required): The name of the topic on which to receive messages.&#xd;
+- MessageCount (optional): Number of messages expected to be received during the 'timeout' duration. Default value is "1".&#xd;
+- Timeout (optional): Maximum duration in milliseconds to wait for the specified number of messages. Default value is "2000".&#xd;
+- FailOnTimeout (optional): Set to 'true' this action will fail if at least 'MessageCount' messages have not been received during 'Timeout' ms. Default value is "true".</description>
+    <custom-action-parameter name="Topic" type="TEXT" value="topic_${Counter}"/>
+    <custom-action-parameter name="Timeout" type="TEXT" value="3000"/>
+    <custom-action-parameter name="FailOnTimeout" type="TEXT" value="true"/>
+    <responsePageFileDescription>recorded-responses/res_566cf3bd-46b0-444a-895f-b0591d3e4546</responsePageFileDescription>
+</custom-action>

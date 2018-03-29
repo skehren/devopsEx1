@@ -1,0 +1,4 @@
+<variable-file delimiters=";" filename="WebpageTestURL.csv" name="Webpagetest" offset="1" order="1" policy="5" range="1" uid="c150e82a-f92c-4a6f-af44-71dc79a2d8d4" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<column name="ActionName" number="1"/>
+<column name="URL" number="0"/>
+</variable-file>

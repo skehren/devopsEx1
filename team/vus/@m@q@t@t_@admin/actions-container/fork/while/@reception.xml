@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Reception" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="a3b0f899-36b8-4850-8ffd-8ea68e741ff6" weightsEnabled="false">
+    <weighted-embedded-action uid="645f13c1-74ee-4ddc-80ae-1a6e86e1586d"/>
+    <weighted-embedded-action uid="2af9153d-690a-4538-8d86-8fbc35913732"/>
+    <weighted-embedded-action uid="8fc26d44-8310-4824-96ce-3aa4edaa4021"/>
+</basic-logical-action-container>

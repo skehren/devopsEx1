@@ -1,0 +1,1 @@
+<variable-constant constantValue="270000" name="MaxWaitTimeForMQTTSensor" order="1" policy="4" range="2" uid="12077902-bde2-48a2-8d95-1936d822d6eb" whenOutOfValues="CYCLE_VALUES"/>

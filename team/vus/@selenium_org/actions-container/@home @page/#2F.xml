@@ -1,0 +1,1307 @@
+<http-page executeResourcesDynamically="false" name="/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="2b7ed2eb-4a7c-4c1e-897d-270665d704f5">
+    <embedded-action>6c43f951-3730-49e4-a90b-622cad9a8587</embedded-action>
+    <embedded-action>49e3ff6b-017e-4d48-a115-b4cc25c0564e</embedded-action>
+    <embedded-action>5b3406e0-bb20-4fa0-ae10-d046ebe7080e</embedded-action>
+    <embedded-action>c38db8fb-7598-4396-a791-a5242335047a</embedded-action>
+    <embedded-action>fe5431f0-c098-4637-8eae-a2c3a4ed8f1a</embedded-action>
+    <embedded-action>dc58ac56-6d0d-452e-b2c0-dbd9f1d3285e</embedded-action>
+    <embedded-action>23785a20-094a-4700-a2a8-908317f880a6</embedded-action>
+    <embedded-action>138c14e6-b8e5-4146-baca-c875b8ecf60e</embedded-action>
+    <embedded-action>b44a25a8-823c-4538-8702-658c250c1dfd</embedded-action>
+    <embedded-action>9802a2dc-c294-4749-9805-57aba467e897</embedded-action>
+    <embedded-action>b1a121f0-ed1f-45d7-9ca2-4d50f5a9c116</embedded-action>
+    <embedded-action>da1f069a-1db8-4d5f-a4c5-1871095e0515</embedded-action>
+    <embedded-action>f1fc59ff-d5f4-4c0a-8b3d-375242ad1314</embedded-action>
+    <embedded-action>881ee2eb-c267-42a1-b174-b060db7a54ef</embedded-action>
+    <embedded-action>9a683575-244e-4f09-a833-65032e6f84d1</embedded-action>
+    <embedded-action>fb139a5e-05ec-4e3e-8597-628cedfb4347</embedded-action>
+    <embedded-action>9436a1ee-efac-4c13-8d2f-0da7fec04ba5</embedded-action>
+    <embedded-action>9b3356a7-5fa9-4fae-b8b8-937d018899a1</embedded-action>
+    <embedded-action>153af598-e63e-4186-a813-b894a78b73df</embedded-action>
+    <embedded-action>e22547d6-7c51-4562-a4a7-9132d4faabeb</embedded-action>
+    <embedded-action>0e2ab739-957b-4fa8-a4ef-a2b5fe8665ad</embedded-action>
+    <embedded-action>c813fef1-813e-4a12-993e-f03e0e429663</embedded-action>
+    <embedded-action>01177ac9-3a42-4dba-bddd-b1848ce15a58</embedded-action>
+    <embedded-action>e868e1c9-4150-4385-9213-f253d9c90e9a</embedded-action>
+    <embedded-action>c01f396f-c7f3-46a5-96a8-aef93cdd2b98</embedded-action>
+    <embedded-action>51832b9a-9f77-4fc3-9227-f72d9ec0ec70</embedded-action>
+    <embedded-action>bee7738a-a8b4-41a5-b619-1fc8a22c3f3c</embedded-action>
+    <embedded-action>d33ddb04-3b49-4ffd-8f79-53eb2fec317a</embedded-action>
+    <embedded-action>85b3b5a4-258a-47a7-a17f-5b422d45a45e</embedded-action>
+    <embedded-action>aa0632b8-e7ae-43e3-8907-853c486466a0</embedded-action>
+    <embedded-action>9dd1f925-ec5f-4ae6-a2ac-0cb00cb19a78</embedded-action>
+    <embedded-action>e89a9319-b0e9-4272-ba97-ec755032e8fe</embedded-action>
+    <embedded-action>9707c1cf-bf8e-40a8-904c-9cd5c8b4e53b</embedded-action>
+    <embedded-action>77d8d1b9-e890-4e9b-89f3-9c3d225dabd6</embedded-action>
+    <embedded-action>d53799ab-852d-4b33-8d53-21a12dd3b3a6</embedded-action>
+    <embedded-action>10c638c7-9d27-44ca-81cd-b9afcbb3cb53</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/" path="/" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="26192"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="6c43f951-3730-49e4-a90b-622cad9a8587" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_18944c67-2915-4f01-bd2c-82256e58da82.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_18944c67-2915-4f01-bd2c-82256e58da82.txt</requestContentFileDescription>
+    <variable-extractor assertionOnNoMatch="true"
+        defaultValue="&lt;NOT FOUND>" displayMode="1" endsWithSimple=""
+        extractFromVarNameAdv="" extractFromVarNameSimple=""
+        extractType="0" extractTypeAdv="0" extractTypeSimple="0"
+        matchNumber="1" matchNumberAdv="1" matchNumberSimple="1"
+        name="Ext_Demo_Token"
+        regExp="hidden&quot; name=&quot;form_auth_token&quot; value=&quot;(.*?)&quot;  />"
+        regExpAdv="hidden&quot; name=&quot;form_auth_token&quot; value=&quot;(.*?)&quot;  />"
+        setDefaultValue="true" startsWithSimple="" template="$1$"
+        templateAdv="$1$" uid="244a663d-477e-4e2b-8a32-b9781cda4a24" xpath=""/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:24 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+X-Powered-By: PHP/5.3.3-7+squeeze19&#xd;
+Expires: Thu, 19 Nov 1981 08:52:00 GMT&#xd;
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0&#xd;
+Pragma: no-cache&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Content-Length: 7871&#xd;
+Content-Type: text/html; charset=UTF-8&#xd;
+Set-Cookie: ushahidi=nb6kru76qs84pjlakms2pdr944; path=/; HttpOnly&#xd;
+Set-Cookie: ushahidi=nb6kru76qs84pjlakms2pdr944; path=/; httponly</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;12175a-6bbd-4cee7bb4d1180&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/css/jquery-ui-themeroller.css"
+    path="/media/css/jquery-ui-themeroller.css" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="27581"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="49e3ff6b-017e-4d48-a115-b4cc25c0564e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_4d83f66b-9b0d-485e-a781-656fb847398a.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4d83f66b-9b0d-485e-a781-656fb847398a.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:24 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT&#xd;
+ETag: "12175a-6bbd-4cee7bb4d1180"&#xd;
+Accept-Ranges: bytes&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Content-Length: 4990&#xd;
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;121caa-d79d-503438aec7e00&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 17 Sep 2014 14:18:32 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/themes/default/css/style.css"
+    path="/themes/default/css/style.css" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="55197"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="5b3406e0-bb20-4fa0-ae10-d046ebe7080e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f344e2c3-308e-4df8-aae2-fecbdd849a5d.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f344e2c3-308e-4df8-aae2-fecbdd849a5d.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:24 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Wed, 17 Sep 2014 14:18:32 GMT&#xd;
+ETag: "121caa-d79d-503438aec7e00"&#xd;
+Accept-Ranges: bytes&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Content-Length: 11212&#xd;
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;121d26-27e5-503438acdf980&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 17 Sep 2014 14:18:30 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/themes/unicorn/css/_default.css"
+    path="/themes/unicorn/css/_default.css" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="10213"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="c38db8fb-7598-4396-a791-a5242335047a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_96fadb31-037c-4906-842d-53472f8933ca.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_96fadb31-037c-4906-842d-53472f8933ca.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:24 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Wed, 17 Sep 2014 14:18:30 GMT&#xd;
+ETag: "121d26-27e5-503438acdf980"&#xd;
+Accept-Ranges: bytes&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Content-Length: 2894&#xd;
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;121754-b4a-4cee7bb4d1180&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/css/global.css"
+    path="/media/css/global.css" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="2890"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="fe5431f0-c098-4637-8eae-a2c3a4ed8f1a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2a7ff357-13ec-46ae-8282-995cfd91b030.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2a7ff357-13ec-46ae-8282-995cfd91b030.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:24 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT&#xd;
+ETag: "121754-b4a-4cee7bb4d1180"&#xd;
+Accept-Ranges: bytes&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Content-Length: 831&#xd;
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;12175d-de9-4cee7bb4d1180&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/css/jquery.jqplot.min.css"
+    path="/media/css/jquery.jqplot.min.css" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="3561"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="dc58ac56-6d0d-452e-b2c0-dbd9f1d3285e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_862c42b8-14f6-485b-a1b7-03c3535178a0.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_862c42b8-14f6-485b-a1b7-03c3535178a0.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:25 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT&#xd;
+ETag: "12175d-de9-4cee7bb4d1180"&#xd;
+Accept-Ranges: bytes&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Content-Length: 935&#xd;
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;121761-2e81-4cee7bb4d1180&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/css/openlayers.css"
+    path="/media/css/openlayers.css" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="11905"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="23785a20-094a-4700-a2a8-908317f880a6" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3fbcfc84-7cec-4340-9df8-eac4d5084571.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3fbcfc84-7cec-4340-9df8-eac4d5084571.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:24 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT&#xd;
+ETag: "121761-2e81-4cee7bb4d1180"&#xd;
+Accept-Ranges: bytes&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Content-Length: 2782&#xd;
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;12190b-56700-4cee7bb4d1180&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/OpenLayers.js"
+    path="/media/js/OpenLayers.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200"
+    refererUid="6c43f951-3730-49e4-a90b-622cad9a8587"
+    responseSize="354048" serverUid="ushahidi.demo.neotys.com"
+    slaProfileEnabled="false" uid="138c14e6-b8e5-4146-baca-c875b8ecf60e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_eb865090-6bfd-486f-b38a-73077fe84606</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_eb865090-6bfd-486f-b38a-73077fe84606.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:24 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT&#xd;
+ETag: "12190b-56700-4cee7bb4d1180"&#xd;
+Accept-Ranges: bytes&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Content-Type: application/javascript&#xd;
+Transfer-Encoding: chunked</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="1"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;12192a-868e-4cee7bb4d1180&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/ushahidi.js"
+    path="/media/js/ushahidi.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200"
+    refererUid="6c43f951-3730-49e4-a90b-622cad9a8587"
+    responseSize="34446" serverUid="ushahidi.demo.neotys.com"
+    slaProfileEnabled="false" uid="b44a25a8-823c-4538-8702-658c250c1dfd" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f94b9547-4432-44ec-8831-baa101a23cbb</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f94b9547-4432-44ec-8831-baa101a23cbb.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:24 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT&#xd;
+ETag: "12192a-868e-4cee7bb4d1180"&#xd;
+Accept-Ranges: bytes&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Content-Length: 9196&#xd;
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="3"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;12191c-17277-4cee7bb4d1180&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/jquery.js" path="/media/js/jquery.js"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200"
+    refererUid="6c43f951-3730-49e4-a90b-622cad9a8587"
+    responseSize="94839" serverUid="ushahidi.demo.neotys.com"
+    slaProfileEnabled="false" uid="9802a2dc-c294-4749-9805-57aba467e897" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d3dd6208-78c8-4e96-bfa8-3892b1083822</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d3dd6208-78c8-4e96-bfa8-3892b1083822.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:24 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT&#xd;
+ETag: "12191c-17277-4cee7bb4d1180"&#xd;
+Accept-Ranges: bytes&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Content-Length: 33616&#xd;
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="4"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;12191d-9bf-4cee7bb4d1180&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/jquery.pngFix.pack.js"
+    path="/media/js/jquery.pngFix.pack.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200"
+    refererUid="6c43f951-3730-49e4-a90b-622cad9a8587"
+    responseSize="2495" serverUid="ushahidi.demo.neotys.com"
+    slaProfileEnabled="false" uid="b1a121f0-ed1f-45d7-9ca2-4d50f5a9c116" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3edb7ff9-9908-429a-9eac-d0cfe6221fcb</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3edb7ff9-9908-429a-9eac-d0cfe6221fcb.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:24 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT&#xd;
+ETag: "12191d-9bf-4cee7bb4d1180"&#xd;
+Accept-Ranges: bytes&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Content-Length: 1297&#xd;
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="6"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;12191f-11bf-4cee7bb4d1180&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/jquery.timeago.js"
+    path="/media/js/jquery.timeago.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200"
+    refererUid="6c43f951-3730-49e4-a90b-622cad9a8587"
+    responseSize="4543" serverUid="ushahidi.demo.neotys.com"
+    slaProfileEnabled="false" uid="da1f069a-1db8-4d5f-a4c5-1871095e0515" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3c59749a-8412-4d47-8a4c-990c381e1e97</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3c59749a-8412-4d47-8a4c-990c381e1e97.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:25 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT&#xd;
+ETag: "12191f-11bf-4cee7bb4d1180"&#xd;
+Accept-Ranges: bytes&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Content-Length: 1630&#xd;
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="7"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;121929-2170-4cee7bb4d1180&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/selectToUISlider.jQuery.js"
+    path="/media/js/selectToUISlider.jQuery.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200"
+    refererUid="6c43f951-3730-49e4-a90b-622cad9a8587"
+    responseSize="8560" serverUid="ushahidi.demo.neotys.com"
+    slaProfileEnabled="false" uid="f1fc59ff-d5f4-4c0a-8b3d-375242ad1314" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7503f14c-23ed-475d-a715-903f7f455f5b</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7503f14c-23ed-475d-a715-903f7f455f5b.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:25 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT&#xd;
+ETag: "121929-2170-4cee7bb4d1180"&#xd;
+Accept-Ranges: bytes&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Content-Length: 2836&#xd;
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="9"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;12191b-286ed-4cee7bb4d1180&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/jquery.jqplot.min.js"
+    path="/media/js/jquery.jqplot.min.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200"
+    refererUid="6c43f951-3730-49e4-a90b-622cad9a8587"
+    responseSize="165613" serverUid="ushahidi.demo.neotys.com"
+    slaProfileEnabled="false" uid="881ee2eb-c267-42a1-b174-b060db7a54ef" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_195aeb08-bb51-4300-89ce-7a625475fed5</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_195aeb08-bb51-4300-89ce-7a625475fed5.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:25 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT&#xd;
+ETag: "12191b-286ed-4cee7bb4d1180"&#xd;
+Accept-Ranges: bytes&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Content-Length: 41084&#xd;
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="10"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;121913-2d22-4cee7bb4d1180&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/jqplot.dateAxisRenderer.min.js"
+    path="/media/js/jqplot.dateAxisRenderer.min.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200"
+    refererUid="6c43f951-3730-49e4-a90b-622cad9a8587"
+    responseSize="11554" serverUid="ushahidi.demo.neotys.com"
+    slaProfileEnabled="false" uid="9a683575-244e-4f09-a833-65032e6f84d1" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_8f9e0cca-0a4c-4b6b-97b1-928b058e9830</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8f9e0cca-0a4c-4b6b-97b1-928b058e9830.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:25 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT&#xd;
+ETag: "121913-2d22-4cee7bb4d1180"&#xd;
+Accept-Ranges: bytes&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Content-Length: 3551&#xd;
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="11"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;121912-490-4cee7bb4d1180&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/global.js" path="/media/js/global.js"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200"
+    refererUid="6c43f951-3730-49e4-a90b-622cad9a8587"
+    responseSize="1168" serverUid="ushahidi.demo.neotys.com"
+    slaProfileEnabled="false" uid="fb139a5e-05ec-4e3e-8597-628cedfb4347" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b6e89323-990d-4c38-91e5-6a5cf4406a52</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b6e89323-990d-4c38-91e5-6a5cf4406a52.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:25 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT&#xd;
+ETag: "121912-490-4cee7bb4d1180"&#xd;
+Accept-Ranges: bytes&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Content-Length: 474&#xd;
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="12"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="text/css; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 10 Oct 2017 09:12:27 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/css" path="/css" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="550"
+    serverUid="fonts.googleapis.com" slaProfileEnabled="false"
+    uid="9436a1ee-efac-4c13-8d2f-0da7fec04ba5" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5ec967fd-328f-4471-8b4e-e11f5b4f72cf.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5ec967fd-328f-4471-8b4e-e11f5b4f72cf.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="false" name="family"
+        recordRawValue="PT+Sans+Narrow:400,700" separator="="
+        value="PT+Sans+Narrow:400,700" valueMode="USE_VALUE"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept-language" value="en-US, en;q=0.8"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept" value="text/css, */*;q=0.1"/>
+    <header name="referer" value="http://ushahidi.demo.neotys.com/"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/css; charset=utf-8&#xd;
+access-control-allow-origin: *&#xd;
+timing-allow-origin: *&#xd;
+link: &lt;https://fonts.gstatic.com&gt;; rel=preconnect; crossorigin&#xd;
+expires: Tue, 10 Oct 2017 09:11:37 GMT&#xd;
+date: Tue, 10 Oct 2017 09:11:37 GMT&#xd;
+cache-control: private, max-age=86400, stale-while-revalidate=604800&#xd;
+last-modified: Tue, 10 Oct 2017 09:11:37 GMT&#xd;
+content-encoding: br&#xd;
+server: ESF&#xd;
+x-xss-protection: 1; mode=block&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+alt-svc: quic=":443"; ma=2592000; v="39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;121789-5d0-4cee7bb4d1180&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/img/footer-logo.png"
+    path="/media/img/footer-logo.png" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="9b3356a7-5fa9-4fae-b8b8-937d018899a1" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d9e2f85b-f17a-4596-9244-5643196b604f.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d9e2f85b-f17a-4596-9244-5643196b604f.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:28 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT&#xd;
+ETag: "121789-5d0-4cee7bb4d1180"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 1488&#xd;
+Age: 508&#xd;
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Dec 2016 18:17:03 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js"
+    path="/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200"
+    refererUid="6c43f951-3730-49e4-a90b-622cad9a8587"
+    responseSize="200104" serverUid="ajax.googleapis.com"
+    slaProfileEnabled="false" uid="153af598-e63e-4186-a813-b894a78b73df" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2b342f43-e344-4bc6-adb5-1742cb358a1a</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2b342f43-e344-4bc6-adb5-1742cb358a1a.txt</requestContentFileDescription>
+    <header name="accept-language" value="en-US, en;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept" value="*/*"/>
+    <header name="referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+content-type: text/javascript; charset=UTF-8&#xd;
+access-control-allow-origin: *&#xd;
+timing-allow-origin: *&#xd;
+content-length: 51711&#xd;
+date: Mon, 11 Sep 2017 20:23:15 GMT&#xd;
+expires: Tue, 11 Sep 2018 20:23:15 GMT&#xd;
+last-modified: Tue, 20 Dec 2016 18:17:03 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 1; mode=block&#xd;
+cache-control: public, max-age=31536000, stale-while-revalidate=2592000&#xd;
+age: 2465304&#xd;
+alt-svc: quic=":443"; ma=2592000; v="39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="5"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;121d2a-b7-503438aaf7500&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 17 Sep 2014 14:18:28 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/themes/unicorn/images/bg_transparent-lines.png"
+    path="/themes/unicorn/images/bg_transparent-lines.png" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="e22547d6-7c51-4562-a4a7-9132d4faabeb" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a0d909cd-ff5f-4b04-9938-198c055fff8e.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a0d909cd-ff5f-4b04-9938-198c055fff8e.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/themes/unicorn/css/_default.css"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:30 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Wed, 17 Sep 2014 14:18:28 GMT&#xd;
+ETag: "121d2a-b7-503438aaf7500"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 183&#xd;
+Age: 510&#xd;
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;121cc2-15e-503438acdf980&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 17 Sep 2014 14:18:30 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/themes/default/images/submit-incident.png"
+    path="/themes/default/images/submit-incident.png" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="0e2ab739-957b-4fa8-a4ef-a2b5fe8665ad" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_9f589455-bbd3-4ee9-8afd-483991103e95.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9f589455-bbd3-4ee9-8afd-483991103e95.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/themes/default/css/style.css"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:30 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Wed, 17 Sep 2014 14:18:30 GMT&#xd;
+ETag: "121cc2-15e-503438acdf980"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 350&#xd;
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;121d29-20d-503438aaf7500&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 17 Sep 2014 14:18:28 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/themes/unicorn/images/bg_top-cap.png"
+    path="/themes/unicorn/images/bg_top-cap.png" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="c813fef1-813e-4a12-993e-f03e0e429663" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_725e4196-5f38-4d32-a6d2-20163e8455d3.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_725e4196-5f38-4d32-a6d2-20163e8455d3.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/themes/unicorn/css/_default.css"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:30 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Wed, 17 Sep 2014 14:18:28 GMT&#xd;
+ETag: "121d29-20d-503438aaf7500"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 525&#xd;
+Age: 332&#xd;
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;121d27-4a2-503438aaf7500&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 17 Sep 2014 14:18:28 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/themes/unicorn/images/bg_category-filter-controls.png"
+    path="/themes/unicorn/images/bg_category-filter-controls.png"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="01177ac9-3a42-4dba-bddd-b1848ce15a58" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_39903067-a92e-4301-981f-0bd12da03c8b.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_39903067-a92e-4301-981f-0bd12da03c8b.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/themes/unicorn/css/_default.css"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:30 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Wed, 17 Sep 2014 14:18:28 GMT&#xd;
+ETag: "121d27-4a2-503438aaf7500"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 1186&#xd;
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Fri, 07 Jul 2017 03:47:16 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/maps-api-v3/api/js/28/19/common.js"
+    path="/maps-api-v3/api/js/28/19/common.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="115596"
+    serverUid="maps.google.com" slaProfileEnabled="false"
+    uid="e868e1c9-4150-4385-9213-f253d9c90e9a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_86f7a806-3b00-4c9d-99d7-8b4b4bfddddb</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_86f7a806-3b00-4c9d-99d7-8b4b4bfddddb.txt</requestContentFileDescription>
+    <header name="accept-language" value="en-US, en;q=0.8"/>
+    <header name="accept" value="*/*"/>
+    <header name="referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+content-type: text/javascript&#xd;
+content-length: 39935&#xd;
+date: Mon, 11 Sep 2017 19:32:05 GMT&#xd;
+expires: Tue, 11 Sep 2018 19:32:05 GMT&#xd;
+last-modified: Fri, 07 Jul 2017 03:47:16 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 1; mode=block&#xd;
+cache-control: public, max-age=31536000&#xd;
+age: 2468375&#xd;
+alt-svc: quic=":443"; ma=2592000; v="39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Fri, 07 Jul 2017 03:47:16 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/maps-api-v3/api/js/28/19/map.js"
+    path="/maps-api-v3/api/js/28/19/map.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="32863"
+    serverUid="maps.google.com" slaProfileEnabled="false"
+    uid="c01f396f-c7f3-46a5-96a8-aef93cdd2b98" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c1ac6acc-51c7-4cfd-a417-fb55a900f7ab</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c1ac6acc-51c7-4cfd-a417-fb55a900f7ab.txt</requestContentFileDescription>
+    <header name="accept" value="*/*"/>
+    <header name="accept-language" value="en-US, en;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="referer" value="http://ushahidi.demo.neotys.com/"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+content-type: text/javascript&#xd;
+content-length: 12133&#xd;
+date: Fri, 15 Sep 2017 15:19:46 GMT&#xd;
+expires: Sat, 15 Sep 2018 15:19:46 GMT&#xd;
+last-modified: Fri, 07 Jul 2017 03:47:16 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 1; mode=block&#xd;
+cache-control: public, max-age=31536000&#xd;
+age: 2137914&#xd;
+alt-svc: quic=":443"; ma=2592000; v="39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;1218ff-b2-4cee7bb4d1180&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/media/img/themeroller/ui-bg_flat_75_ffffff_40x100.png"
+    path="/media/img/themeroller/ui-bg_flat_75_ffffff_40x100.png"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="51832b9a-9f77-4fc3-9227-f72d9ec0ec70" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7371b167-c526-47f7-82ef-8c08dfe3ad3b.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7371b167-c526-47f7-82ef-8c08dfe3ad3b.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/media/css/jquery-ui-themeroller.css"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:30 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT&#xd;
+ETag: "1218ff-b2-4cee7bb4d1180"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 178&#xd;
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;121903-6e-4cee7bb4d1180&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/media/img/themeroller/ui-bg_glass_75_e6e6e6_1x400.png"
+    path="/media/img/themeroller/ui-bg_glass_75_e6e6e6_1x400.png"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="bee7738a-a8b4-41a5-b619-1fc8a22c3f3c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b55f9ca5-06c6-42ce-bb1a-e69ceb7b9266.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b55f9ca5-06c6-42ce-bb1a-e69ceb7b9266.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/media/css/jquery-ui-themeroller.css"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:30 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT&#xd;
+ETag: "121903-6e-4cee7bb4d1180"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 110&#xd;
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;1218d8-12f-4cee7bb4d1180&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/media/img/openlayers/layer-switcher-maximize.png"
+    path="/media/img/openlayers/layer-switcher-maximize.png"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="d33ddb04-3b49-4ffd-8f79-53eb2fec317a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c442c4e4-4549-453f-a3bb-b201c6c733bb.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c442c4e4-4549-453f-a3bb-b201c6c733bb.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:30 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT&#xd;
+ETag: "1218d8-12f-4cee7bb4d1180"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 303&#xd;
+Age: 503&#xd;
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;1218cc-1d20-4cee7bb4d1180&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/img/openlayers/cloud-popup-relative.png"
+    path="/media/img/openlayers/cloud-popup-relative.png" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="85b3b5a4-258a-47a7-a17f-5b422d45a45e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_498f72c8-42a3-470f-862f-4fe50831f53a.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_498f72c8-42a3-470f-862f-4fe50831f53a.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:30 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT&#xd;
+ETag: "1218cc-1d20-4cee7bb4d1180"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 7456&#xd;
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/scheduler" path="/scheduler" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="aa0632b8-e7ae-43e3-8907-853c486466a0" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_53cb3352-95b3-42d2-9754-146c2f9f6aeb.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_53cb3352-95b3-42d2-9754-146c2f9f6aeb.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:30 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+X-Powered-By: PHP/5.3.3-7+squeeze19&#xd;
+Expires: Wed, 11 Nov 1998 11:11:11 GMT&#xd;
+Cache-Control: must-revalidate&#xd;
+Pragma: no-cache&#xd;
+Content-Length: 49&#xd;
+Content-Type: image/gif&#xd;
+Set-Cookie: ushahidi=nb6kru76qs84pjlakms2pdr944; path=/; httponly</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;1218d9-16f-4cee7bb4d1180&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/media/img/openlayers/layer-switcher-minimize.png"
+    path="/media/img/openlayers/layer-switcher-minimize.png"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="9dd1f925-ec5f-4ae6-a2ac-0cb00cb19a78" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_25fe7261-3753-4083-9fc1-ff2d65de98cb.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_25fe7261-3753-4083-9fc1-ff2d65de98cb.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:31 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT&#xd;
+ETag: "1218d9-16f-4cee7bb4d1180"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 367&#xd;
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/json/cluster" path="/json/cluster" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="25988"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="e89a9319-b0e9-4272-ba97-ec755032e8fe" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_8a85eafe-d260-4a58-9ddc-31b52cb1a08b</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8a85eafe-d260-4a58-9ddc-31b52cb1a08b.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="z"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="ushahidi=nb6kru76qs84pjlakms2pdr944"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="User-Agent" value=""/>
+    <header name="X-Requested-With" value="XMLHttpRequest"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 10 Oct 2017 09:08:31 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+X-Powered-By: PHP/5.3.3-7+squeeze19&#xd;
+Expires: Thu, 19 Nov 1981 08:52:00 GMT&#xd;
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0&#xd;
+Pragma: no-cache&#xd;
+Content-Type: application/json; charset=utf-8&#xd;
+Set-Cookie: ushahidi=nb6kru76qs84pjlakms2pdr944; path=/; httponly&#xd;
+Transfer-Encoding: chunked</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Fri, 07 Jul 2017 03:47:16 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/maps-api-v3/api/js/28/19/util.js"
+    path="/maps-api-v3/api/js/28/19/util.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="127236"
+    serverUid="maps.google.com" slaProfileEnabled="false"
+    uid="9707c1cf-bf8e-40a8-904c-9cd5c8b4e53b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0d068305-6d78-49d3-ac8a-491d8e03f41a</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0d068305-6d78-49d3-ac8a-491d8e03f41a.txt</requestContentFileDescription>
+    <header name="accept-language" value="en-US, en;q=0.8"/>
+    <header name="referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="accept" value="*/*"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+content-type: text/javascript&#xd;
+content-length: 48015&#xd;
+date: Mon, 11 Sep 2017 12:22:41 GMT&#xd;
+expires: Tue, 11 Sep 2018 12:22:41 GMT&#xd;
+last-modified: Fri, 07 Jul 2017 03:47:16 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 1; mode=block&#xd;
+cache-control: public, max-age=31536000&#xd;
+age: 2494140&#xd;
+alt-svc: quic=":443"; ma=2592000; v="39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Fri, 07 Jul 2017 03:47:16 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/maps-api-v3/api/js/28/19/onion.js"
+    path="/maps-api-v3/api/js/28/19/onion.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="39753"
+    serverUid="maps.google.com" slaProfileEnabled="false"
+    uid="77d8d1b9-e890-4e9b-89f3-9c3d225dabd6" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_17aff963-483e-4bf2-b496-00f75d422927</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_17aff963-483e-4bf2-b496-00f75d422927.txt</requestContentFileDescription>
+    <header name="referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept-language" value="en-US, en;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+content-type: text/javascript&#xd;
+content-length: 11552&#xd;
+date: Mon, 11 Sep 2017 12:58:25 GMT&#xd;
+expires: Tue, 11 Sep 2018 12:58:25 GMT&#xd;
+last-modified: Fri, 07 Jul 2017 03:47:16 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 1; mode=block&#xd;
+cache-control: public, max-age=31536000&#xd;
+age: 2491996&#xd;
+alt-svc: quic=":443"; ma=2592000; v="39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Fri, 07 Jul 2017 03:47:16 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/maps-api-v3/api/js/28/19/stats.js"
+    path="/maps-api-v3/api/js/28/19/stats.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="3536"
+    serverUid="maps.google.com" slaProfileEnabled="false"
+    uid="d53799ab-852d-4b33-8d53-21a12dd3b3a6" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b8739d3b-bc4c-47ee-abd1-36468b827654</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b8739d3b-bc4c-47ee-abd1-36468b827654.txt</requestContentFileDescription>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept" value="*/*"/>
+    <header name="referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="accept-language" value="en-US, en;q=0.8"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+content-type: text/javascript&#xd;
+content-length: 1548&#xd;
+date: Mon, 11 Sep 2017 20:40:56 GMT&#xd;
+expires: Tue, 11 Sep 2018 20:40:56 GMT&#xd;
+last-modified: Fri, 07 Jul 2017 03:47:16 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 1; mode=block&#xd;
+cache-control: public, max-age=31536000&#xd;
+age: 2464245&#xd;
+alt-svc: quic=":443"; ma=2592000; v="39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Fri, 07 Jul 2017 03:47:16 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/maps-api-v3/api/js/28/19/controls.js"
+    path="/maps-api-v3/api/js/28/19/controls.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/2b7ed2eb-4a7c-4c1e-897d-270665d704f5.zip"
+    recordedResponseCode="200" responseSize="70615"
+    serverUid="maps.google.com" slaProfileEnabled="false"
+    uid="10c638c7-9d27-44ca-81cd-b9afcbb3cb53" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_689d6710-61cc-4241-b4b1-9b8fa083363a</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_689d6710-61cc-4241-b4b1-9b8fa083363a.txt</requestContentFileDescription>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept" value="*/*"/>
+    <header name="accept-language" value="en-US, en;q=0.8"/>
+    <header name="referer" value="http://ushahidi.demo.neotys.com/"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+content-type: text/javascript&#xd;
+content-length: 22899&#xd;
+date: Fri, 15 Sep 2017 15:19:46 GMT&#xd;
+expires: Sat, 15 Sep 2018 15:19:46 GMT&#xd;
+last-modified: Fri, 07 Jul 2017 03:47:16 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 1; mode=block&#xd;
+cache-control: public, max-age=31536000&#xd;
+age: 2137915&#xd;
+alt-svc: quic=":443"; ma=2592000; v="39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

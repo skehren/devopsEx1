@@ -1,0 +1,63 @@
+<http-page executeResourcesDynamically="false"
+    name="SIEBEL_/sales_enu/start.swe" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@s@i@e@b@e@l/%resources%/recorded-artifacts/868208a3-fb1f-4eab-8b16-58b20360bb90.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="868208a3-fb1f-4eab-8b16-58b20360bb90">
+    <embedded-action>b9b44f88-d46b-40a1-b402-4621f292b06e</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    extractorServerUid="technodemo" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="SIEBEL_/sales_enu/start.swe"
+    path="/sales_enu/start.swe" postType="1"
+    recordedArtifactZipFileName="team/vus/@s@i@e@b@e@l/%resources%/recorded-artifacts/868208a3-fb1f-4eab-8b16-58b20360bb90.zip"
+    recordedResponseCode="200" recordedResponseTime="5427"
+    responseSize="517" serverUid="technodemo" slaProfileEnabled="false"
+    uid="b9b44f88-d46b-40a1-b402-4621f292b06e" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_683dd7e7-75de-4376-9ae5-270f26b05ce2.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_683dd7e7-75de-4376-9ae5-270f26b05ce2.txt</requestContentFileDescription>
+    <variable-extractor assertionOnNoMatch="true"
+        defaultValue="SWETS_xml_NOT_FOUND" displayMode="1"
+        endsWithSimple="" extractFromVarNameAdv=""
+        extractFromVarNameSimple="" extractType="0" extractTypeAdv="0"
+        extractTypeSimple="0" matchNumber="1" matchNumberAdv="1"
+        matchNumberSimple="1" name="SWETS_xml"
+        regExp="name=&quot;SWETS&quot; value=&quot;(\d*?)&quot;"
+        regExpAdv="name=&quot;SWETS&quot; value=&quot;(\d*?)&quot;"
+        setDefaultValue="true" startsWithSimple="" template="$1$"
+        templateAdv="$1$" uid="2f662aa4-ddeb-48ba-bbd1-d107dd20ee80" xpath=""/>
+    <variable-extractor assertionOnNoMatch="true"
+        defaultValue="_sn_headers_NOT_FOUND" displayMode="1"
+        endsWithSimple="" extractFromVarNameAdv=""
+        extractFromVarNameSimple="" extractType="1" extractTypeAdv="1"
+        extractTypeSimple="0" matchNumber="1" matchNumberAdv="1"
+        matchNumberSimple="1" name="_sn_headers"
+        regExp="set-cookie: _sn=(.*?);"
+        regExpAdv="set-cookie: _sn=(.*?);" setDefaultValue="true"
+        startsWithSimple="" template="$1$" templateAdv="$1$"
+        uid="e2198547-5174-415d-b43d-a8014c1636cb" xpath=""/>
+    <header name="Accept" value="application/x-ms-application, image/jpeg, application/xaml+xml, image/gif, image/pjpeg, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*"/>
+    <header name="Referer" value="http://neoload/"/>
+    <header name="Accept-Language" value="fr-FR"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; AskTbARS2/5.15.4.23821; .NET4.0C)"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="maguk"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 22 May 2013 08:12:16 GMT
+Server: Microsoft-IIS/6.0
+cache-control: no-cache, must-revalidate
+pragma: no-cache
+content-language: en
+cache-control: no-cache
+pragma: no-cache
+content-encoding: deflate
+content-type: text/html;charset=UTF-8
+content-length: 311
+set-cookie: _sn=8TGlHwJB.t.O2EUUGQf8mXjUHBJvERN.erESSmDHC40OhovyGdViCmMSL0R6tINM; Version=1; Path=/sales_enu</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

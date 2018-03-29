@@ -1,0 +1,8 @@
+<websocket-action name="Clear Board" slaProfileEnabled="false"
+    synchronous-type="ASYNCHRONOUS"
+    uid="22cb9114-089d-4c1f-b7a8-5302e0b7b4b0"
+    websocket-body-type="TEXT" websocket-channel-uid="39882a58-04bb-47cb-a922-874e674798d2">
+    <binaryPostContentBase64><![CDATA[FWRyYXdpbmdib2FyZC9yb29tcy8ke1Jvb21OYW1lfQJDAUM=]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_30720801-3c09-4f27-aaff-b166aab1b601</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_30720801-3c09-4f27-aaff-b166aab1b601.txt</requestContentFileDescription>
+</websocket-action>

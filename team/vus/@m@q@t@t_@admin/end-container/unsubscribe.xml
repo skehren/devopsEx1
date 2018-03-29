@@ -1,0 +1,16 @@
+<custom-action actionType="MQTT unsubscribe" isHit="false"
+    name="unsubscribe" uid="32a68cad-3740-4b1c-8956-fc5c88a3c5b3">
+    <description>MQTTunsubscribe Action allow testers to unsubscribe to a topic of a MQTT broker.
+Parameters are:
+- Domain: MQTT Domain.
+- Topic: MQTT topic to subscribe.
+- Host: Host of the broker.
+- Port: Port of the broker.
+- Protocol: protocol to reach the broker.</description>
+    <custom-action-parameter name="Domain" type="TEXT" value="DemoNeoLoad"/>
+    <custom-action-parameter name="Topic" type="TEXT" value="topic_manager"/>
+    <custom-action-parameter name="Host" type="TEXT" value="localhost"/>
+    <custom-action-parameter name="Port" type="TEXT" value="1883"/>
+    <custom-action-parameter name="Protocol" type="TEXT" value="tcp"/>
+    <responsePageFileDescription>recorded-responses/res_51052d8a-4395-4f00-8747-b54c66c0d4a7</responsePageFileDescription>
+</custom-action>

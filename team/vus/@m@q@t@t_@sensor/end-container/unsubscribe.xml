@@ -1,0 +1,11 @@
+<custom-action actionType="MQTT unsubscribe" isHit="false"
+    name="unsubscribe" uid="15951261-73e5-47fa-8774-d229739f7d54">
+    <description>Unsubscribe from a topic on an MQTT broker.
+
+Possible parameters are:&#xd;
+- BrokerAlias (optional): Alias identifying the broker handling the topic to unsubscribe from.Assumes and requires that, for the current User Path, a connection has been established and associated to the
+specified BrokerAlias. If User Path connects to one broker only, this parameter can be left out.&#xd;
+- Topic (required): The topic to subscribe from.</description>
+    <custom-action-parameter name="Topic" type="TEXT" value="topic_${Counter}"/>
+    <responsePageFileDescription>recorded-responses/res_ae894cea-b9df-4265-8599-455538373022</responsePageFileDescription>
+</custom-action>

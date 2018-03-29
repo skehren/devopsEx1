@@ -1,0 +1,179 @@
+<http-page executeResourcesDynamically="false" name="/reports/submit"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@switch/%resources%/recorded-artifacts/aca19a08-a621-4245-91c1-e4ae002bbcbd.zip"
+    slaProfileEnabled="false" thinkTime="1472"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="aca19a08-a621-4245-91c1-e4ae002bbcbd">
+    <embedded-action>992f27cc-f1c2-49d3-82ce-cd996757e121</embedded-action>
+    <embedded-action>3e23bf09-b94c-4b1f-ae2b-b31e9ccca079</embedded-action>
+    <embedded-action>4f847371-4f88-4cdc-b9ef-c512fa22eb7b</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/reports/submit" path="/reports/submit"
+    postCharset="iso-8859-1" postType="3"
+    recordedArtifactZipFileName="team/vus/@switch/%resources%/recorded-artifacts/aca19a08-a621-4245-91c1-e4ae002bbcbd.zip"
+    recordedResponseCode="302"
+    refererUid="13fa901c-8e5f-4ee8-b054-2506435d51ab" responseSize="134"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="992f27cc-f1c2-49d3-82ce-cd996757e121" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[LS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5bHhlZFhzNTF2QVhKUm4wUg0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJmb3JtX2F1dGhfdG9rZW4iDQoNCiR7RXh0X0F1dGhfVG9rZW59DQotLS0tLS1XZWJLaXRGb3JtQm91bmRhcnlseGVkWHM1MXZBWEpSbjBSDQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9ImxhdGl0dWRlIg0KDQo0My4yOTU3NDkxMTg2NjAzMjUNCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeWx4ZWRYczUxdkFYSlJuMFINCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0ibG9uZ2l0dWRlIg0KDQo1LjYyOTc2NDI0NTQ3NjM3MDYNCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeWx4ZWRYczUxdkFYSlJuMFINCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iY291bnRyeV9uYW1lIg0KDQpGcmFuY2UNCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeWx4ZWRYczUxdkFYSlJuMFINCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iaW5jaWRlbnRfem9vbSINCg0KMw0KLS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5bHhlZFhzNTF2QVhKUm4wUg0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJmb3JtX2lkIg0KDQoNCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeWx4ZWRYczUxdkFYSlJuMFINCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iaW5jaWRlbnRfdGl0bGUiDQoNClNlbGVuaXVtIFRpdGxlDQotLS0tLS1XZWJLaXRGb3JtQm91bmRhcnlseGVkWHM1MXZBWEpSbjBSDQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9ImluY2lkZW50X2Rlc2NyaXB0aW9uIg0KDQpEZXNjDQotLS0tLS1XZWJLaXRGb3JtQm91bmRhcnlseGVkWHM1MXZBWEpSbjBSDQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9ImluY2lkZW50X2RhdGUiDQoNCjA1LzIzLzIwMTcNCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeWx4ZWRYczUxdkFYSlJuMFINCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iaW5jaWRlbnRfaG91ciINCg0KMDENCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeWx4ZWRYczUxdkFYSlJuMFINCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iaW5jaWRlbnRfbWludXRlIg0KDQo1NA0KLS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5bHhlZFhzNTF2QVhKUm4wUg0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJpbmNpZGVudF9hbXBtIg0KDQphbQ0KLS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5bHhlZFhzNTF2QVhKUm4wUg0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJpbmNpZGVudF9jYXRlZ29yeVtdIg0KDQoxDQotLS0tLS1XZWJLaXRGb3JtQm91bmRhcnlseGVkWHM1MXZBWEpSbjBSDQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9InBlcnNvbl9maXJzdCINCg0KDQotLS0tLS1XZWJLaXRGb3JtQm91bmRhcnlseGVkWHM1MXZBWEpSbjBSDQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9InBlcnNvbl9sYXN0Ig0KDQoNCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeWx4ZWRYczUxdkFYSlJuMFINCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0icGVyc29uX2VtYWlsIg0KDQoNCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeWx4ZWRYczUxdkFYSlJuMFINCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iZ2VvbWV0cnlfbGFiZWwiDQoNCg0KLS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5bHhlZFhzNTF2QVhKUm4wUg0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJnZW9tZXRyeV9jb21tZW50Ig0KDQoNCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeWx4ZWRYczUxdkFYSlJuMFINCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iZ2VvbWV0cnlfY29sb3IiDQoNCg0KLS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5bHhlZFhzNTF2QVhKUm4wUg0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJnZW9tZXRyeV9zdHJva2V3aWR0aCINCg0KMC41DQotLS0tLS1XZWJLaXRGb3JtQm91bmRhcnlseGVkWHM1MXZBWEpSbjBSDQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9Imdlb21ldHJ5X2xhdCINCg0KDQotLS0tLS1XZWJLaXRGb3JtQm91bmRhcnlseGVkWHM1MXZBWEpSbjBSDQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9Imdlb21ldHJ5X2xvbiINCg0KDQotLS0tLS1XZWJLaXRGb3JtQm91bmRhcnlseGVkWHM1MXZBWEpSbjBSDQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9Ik9wZW5MYXllcnNfQ29udHJvbF9MYXllclN3aXRjaGVyXzI1X2Jhc2VMYXllcnMiDQoNCkdvb2dsZSBNYXBzIEh5YnJpZA0KLS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5bHhlZFhzNTF2QVhKUm4wUg0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJFZGl0YWJsZSINCg0KRWRpdGFibGUNCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeWx4ZWRYczUxdkFYSlJuMFINCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0ibG9jYXRpb25fZmluZCINCg0KDQotLS0tLS1XZWJLaXRGb3JtQm91bmRhcnlseGVkWHM1MXZBWEpSbjBSDQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9ImxvY2F0aW9uX25hbWUiDQoNCkdlbWVub3MNCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeWx4ZWRYczUxdkFYSlJuMFINCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iaW5jaWRlbnRfbmV3c1tdIg0KDQoNCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeWx4ZWRYczUxdkFYSlJuMFINCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0ibmV3c19pZCINCg0KMQ0KLS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5bHhlZFhzNTF2QVhKUm4wUg0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJpbmNpZGVudF92aWRlb1tdIg0KDQoNCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeWx4ZWRYczUxdkFYSlJuMFINCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0idmlkZW9faWQiDQoNCjENCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeWx4ZWRYczUxdkFYSlJuMFINCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iaW5jaWRlbnRfcGhvdG9bXSI7IGZpbGVuYW1lPSIiDQpDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL29jdGV0LXN0cmVhbQ0KDQoNCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeWx4ZWRYczUxdkFYSlJuMFINCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0icGhvdG9faWQiDQoNCjENCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeWx4ZWRYczUxdkFYSlJuMFINCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0ic3VibWl0Ig0KDQpTdWJtaXQNCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeWx4ZWRYczUxdkFYSlJuMFItLQ0K]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_954c119d-97f1-4446-8059-7bcde2176ffc.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_954c119d-97f1-4446-8059-7bcde2176ffc.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cache-Control" value="max-age=0"/>
+    <header name="Content-Type" value="multipart/form-data; boundary=----WebKitFormBoundarylxedXs51vAXJRn0R"/>
+    <header name="Cookie" value="__utmt=1; __utma=254652684.1076005495.1495533419.1495533419.1495533419.1; __utmb=254652684.1.10.1495533419; __utmc=254652684; __utmz=254652684.1495533419.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); ushahidi=qonibnmdt9k5rtopkjp542mil6"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Origin" value="http://ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/reports/submit"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 302 Found&#xd;
+Date: Tue, 23 May 2017 09:54:38 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+X-Powered-By: PHP/5.3.3-7+squeeze19&#xd;
+Expires: Thu, 19 Nov 1981 08:52:00 GMT&#xd;
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0&#xd;
+Pragma: no-cache&#xd;
+Location: http://ushahidi.demo.neotys.com/reports/thanks&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Content-Length: 105&#xd;
+Content-Type: text/html; charset=UTF-8&#xd;
+Set-Cookie: ushahidi=qonibnmdt9k5rtopkjp542mil6; path=/; httponly</responseHeaders>
+    <record-html-infos extractorOccurence="3" extractorRegExp="false" htmlType="2"/>
+    <multiparts>
+        <multipart-string name="form_auth_token" recordRawValue=""
+            value="${Ext_Auth_Token}" valueMode="USE_VALUE"/>
+        <multipart-string name="latitude" recordRawValue=""
+            value="43.295749118660325" valueMode="USE_VALUE"/>
+        <multipart-string name="longitude" recordRawValue=""
+            value="5.6297642454763706" valueMode="USE_VALUE"/>
+        <multipart-string name="country_name" recordRawValue=""
+            value="France" valueMode="USE_VALUE"/>
+        <multipart-string name="incident_zoom" recordRawValue=""
+            value="3" valueMode="USE_VALUE"/>
+        <multipart-string name="form_id" recordRawValue="" value="" valueMode="USE_VALUE"/>
+        <multipart-string name="incident_title" recordRawValue=""
+            value="Selenium Title" valueMode="USE_VALUE"/>
+        <multipart-string name="incident_description" recordRawValue=""
+            value="Desc" valueMode="USE_VALUE"/>
+        <multipart-string name="incident_date" recordRawValue=""
+            value="05/23/2017" valueMode="USE_VALUE"/>
+        <multipart-string name="incident_hour" recordRawValue=""
+            value="01" valueMode="USE_VALUE"/>
+        <multipart-string name="incident_minute" recordRawValue=""
+            value="54" valueMode="USE_VALUE"/>
+        <multipart-string name="incident_ampm" recordRawValue=""
+            value="am" valueMode="USE_VALUE"/>
+        <multipart-string name="incident_category[]" recordRawValue=""
+            value="1" valueMode="USE_VALUE"/>
+        <multipart-string name="person_first" recordRawValue="" value="" valueMode="USE_VALUE"/>
+        <multipart-string name="person_last" recordRawValue="" value="" valueMode="USE_VALUE"/>
+        <multipart-string name="person_email" recordRawValue="" value="" valueMode="USE_VALUE"/>
+        <multipart-string name="geometry_label" recordRawValue=""
+            value="" valueMode="USE_VALUE"/>
+        <multipart-string name="geometry_comment" recordRawValue=""
+            value="" valueMode="USE_VALUE"/>
+        <multipart-string name="geometry_color" recordRawValue=""
+            value="" valueMode="USE_VALUE"/>
+        <multipart-string name="geometry_strokewidth" recordRawValue=""
+            value="0.5" valueMode="USE_VALUE"/>
+        <multipart-string name="geometry_lat" recordRawValue="" value="" valueMode="USE_VALUE"/>
+        <multipart-string name="geometry_lon" recordRawValue="" value="" valueMode="USE_VALUE"/>
+        <multipart-string
+            name="OpenLayers_Control_LayerSwitcher_25_baseLayers"
+            recordRawValue="" value="Google Maps Hybrid" valueMode="USE_VALUE"/>
+        <multipart-string name="Editable" recordRawValue=""
+            value="Editable" valueMode="USE_VALUE"/>
+        <multipart-string name="location_find" recordRawValue=""
+            value="" valueMode="USE_VALUE"/>
+        <multipart-string name="location_name" recordRawValue=""
+            value="Gemenos" valueMode="USE_VALUE"/>
+        <multipart-string name="incident_news[]" recordRawValue=""
+            value="" valueMode="USE_VALUE"/>
+        <multipart-string name="news_id" recordRawValue="" value="1" valueMode="USE_VALUE"/>
+        <multipart-string name="incident_video[]" recordRawValue=""
+            value="" valueMode="USE_VALUE"/>
+        <multipart-string name="video_id" recordRawValue="" value="1" valueMode="USE_VALUE"/>
+        <multipart-file
+            attachedFilename="recorded-resources/filepart.14"
+            contentType="application/octet-stream" filename="" name="incident_photo[]"/>
+        <multipart-string name="photo_id" recordRawValue="" value="1" valueMode="USE_VALUE"/>
+        <multipart-string name="submit" recordRawValue="" value="Submit" valueMode="USE_VALUE"/>
+    </multiparts>
+</http-action>
+<http-action actionType="2" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/reports/thanks" path="/reports/thanks"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@switch/%resources%/recorded-artifacts/aca19a08-a621-4245-91c1-e4ae002bbcbd.zip"
+    recordedResponseCode="200"
+    refererUid="992f27cc-f1c2-49d3-82ce-cd996757e121"
+    responseSize="11979" serverUid="ushahidi.demo.neotys.com"
+    slaProfileEnabled="false" uid="3e23bf09-b94c-4b1f-ae2b-b31e9ccca079" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3df61fce-cada-498c-a0ee-381235d027ee.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3df61fce-cada-498c-a0ee-381235d027ee.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, sdch"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cache-Control" value="max-age=0"/>
+    <header name="Cookie" value="__utmt=1; __utma=254652684.1076005495.1495533419.1495533419.1495533419.1; __utmb=254652684.1.10.1495533419; __utmc=254652684; __utmz=254652684.1495533419.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); ushahidi=qonibnmdt9k5rtopkjp542mil6"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/reports/submit"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 23 May 2017 09:54:38 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+X-Powered-By: PHP/5.3.3-7+squeeze19&#xd;
+Expires: Thu, 19 Nov 1981 08:52:00 GMT&#xd;
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0&#xd;
+Pragma: no-cache&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Content-Length: 4064&#xd;
+Content-Type: text/html; charset=UTF-8&#xd;
+Set-Cookie: ushahidi=qonibnmdt9k5rtopkjp542mil6; path=/; httponly</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/scheduler" path="/scheduler" postType="1"
+    recordedArtifactZipFileName="team/vus/@switch/%resources%/recorded-artifacts/aca19a08-a621-4245-91c1-e4ae002bbcbd.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ushahidi.demo.neotys.com" slaProfileEnabled="false"
+    uid="4f847371-4f88-4cdc-b9ef-c512fa22eb7b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_4f847371-4f88-4cdc-b9ef-c512fa22eb7b.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3d94a033-4874-4d92-b614-8f63358d2b00.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, sdch"/>
+    <header name="Accept-Language" value="en-US,en;q=0.8"/>
+    <header name="Cookie" value="__utmt=1; ushahidi=qonibnmdt9k5rtopkjp542mil6; __utma=254652684.1076005495.1495533419.1495533419.1495533419.1; __utmb=254652684.2.10.1495533419; __utmc=254652684; __utmz=254652684.1495533419.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"/>
+    <header name="Host" value="ushahidi.demo.neotys.com"/>
+    <header name="Referer" value="http://ushahidi.demo.neotys.com/reports/thanks"/>
+    <header name="User-Agent" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 23 May 2017 09:54:39 GMT&#xd;
+Server: Apache/2.2.16 (Debian)&#xd;
+X-Powered-By: PHP/5.3.3-7+squeeze19&#xd;
+Expires: Wed, 11 Nov 1998 11:11:11 GMT&#xd;
+Cache-Control: must-revalidate&#xd;
+Pragma: no-cache&#xd;
+Content-Length: 49&#xd;
+Content-Type: image/gif&#xd;
+Set-Cookie: ushahidi=qonibnmdt9k5rtopkjp542mil6; path=/; httponly</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

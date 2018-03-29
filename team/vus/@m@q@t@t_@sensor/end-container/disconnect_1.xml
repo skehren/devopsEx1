@@ -1,0 +1,8 @@
+<custom-action actionType="MQTT Disconnect" isHit="false"
+    name="disconnect_1" uid="4371d1a4-3218-4e19-883e-80cb800e8d9b">
+    <description>Disconnect from an MQTT broker.
+
+Possible parameters are:&#xd;
+- BrokerAlias (optional): Alias identifying the broker to disconnect from.Assumes and requires that, for the current User Path, a connection has been established and associated to the specified BrokerAlias. If User Path connects to one broker only, this parameter can be left out.</description>
+    <responsePageFileDescription>recorded-responses/res_a32a100c-8621-41c8-a4c6-b9b0825c9216</responsePageFileDescription>
+</custom-action>

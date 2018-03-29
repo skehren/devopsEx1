@@ -1,0 +1,45 @@
+<http-page executeResourcesDynamically="false"
+    name="imported_empty_request" playRequestsSequentially="true"
+    recordedArtifactZipFileName="team/vus/@oracle @f@o@r@m@s e-business/%resources%/recorded-artifacts/a368ac3b-7c52-46e5-8cf5-5c121e948568.zip"
+    slaProfileEnabled="false" thinkTime="780"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="a368ac3b-7c52-46e5-8cf5-5c121e948568">
+    <embedded-action>c65ba4e9-a8f7-42a0-a8a4-7005a02792fb</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_8662f9f2-4de6-4a6d-9cb2-bd56b310e5c8.jpg</screenshotFileDescription>
+</http-page>
+<http-plugin-action actionType="1"
+    contentType="application/octet-stream" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" extractorServerUid="technodemo"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="imported_/forms/lservlet;jsessionid=vpShQtTYLJgF9qxzj9GhqXRLyyR4zqmz0K2gbhTmQ5yK99jQGkFT!1668827078"
+    path="/forms/lservlet;jsessionid=vpShQtTYLJgF9qxzj9GhqXRLyyR4zqmz0K2gbhTmQ5yK99jQGkFT!1668827078"
+    plugin="FORMS" postType="2"
+    recordedArtifactZipFileName="team/vus/@oracle @f@o@r@m@s e-business/%resources%/recorded-artifacts/a368ac3b-7c52-46e5-8cf5-5c121e948568.zip"
+    recordedResponseCode="200" recordedResponseTime="0"
+    responseSize="127" serverUid="technodemo" slaProfileEnabled="false"
+    uid="c65ba4e9-a8f7-42a0-a8a4-7005a02792fb" useKeepAlive="true">
+    <plugin-handler isRequestConversionSuccessful="true"
+        isResponseConversionSuccessful="true"
+        labelBase64="ZW1wdHlfcmVxdWVzdA==" networkType="HTTP" plugin="FORMS">
+        <requestXMLDataBase64><![CDATA[PERpYWxvZz4KICA8bWVzc2FnZXM+CiAgICA8VGVybWluYWxNZXNzYWdlPgogICAgICA8cmVzcG9uc2VDb2RlPjE8L3Jlc3BvbnNlQ29kZT4KICAgIDwvVGVybWluYWxNZXNzYWdlPgogIDwvbWVzc2FnZXM+CjwvRGlhbG9nPg==]]></requestXMLDataBase64>
+    </plugin-handler>
+    <responsePageFileDescription>recorded-responses/res_c39de469-ac24-4ba0-809c-048a690fe264</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c39de469-ac24-4ba0-809c-048a690fe264.txt</requestContentFileDescription>
+    <header name="Pragma" value="22"/>
+    <header name="Content-type" value="application/octet-stream"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="User-Agent" value="Mozilla/4.0 (Windows 7 6.1) Java/1.6.0_29"/>
+    <header name="Host" value="10.159.60.202:9001"/>
+    <header name="Accept" value="text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Thu, 04 Oct 2012 08:54:44 GMT
+Content-Length: 2
+Content-Type: application/octet-stream
+X-ORACLE-DMS-ECID: 0000Jceyyqx2RPx_S9_Aic1GR2uS0000MD
+X-Powered-By: Servlet/2.5 JSP/2.1</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-plugin-action>

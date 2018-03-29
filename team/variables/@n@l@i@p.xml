@@ -1,0 +1,3 @@
+<variable-constant constantValue="localhost" name="NLIP" order="1" policy="4" range="2" uid="098d5989-53e3-48d5-a46f-713804c16498" whenOutOfValues="CYCLE_VALUES">
+<description>10.0.4.107</description>
+</variable-constant>

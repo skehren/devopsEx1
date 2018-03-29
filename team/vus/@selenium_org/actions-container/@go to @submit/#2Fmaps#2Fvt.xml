@@ -1,0 +1,50 @@
+<http-page executeResourcesDynamically="false" name="/maps/vt"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/0f927f38-c726-4f59-97f9-24870920131b.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="0f927f38-c726-4f59-97f9-24870920131b">
+    <embedded-action>9a6365a2-81d6-477e-b984-0f536c9b9163</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/javascript; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/maps/vt" path="/maps/vt" postType="1"
+    recordedArtifactZipFileName="team/vus/@selenium_org/%resources%/recorded-artifacts/0f927f38-c726-4f59-97f9-24870920131b.zip"
+    recordedResponseCode="200" responseSize="352"
+    serverUid="maps.google.com" slaProfileEnabled="false"
+    uid="9a6365a2-81d6-477e-b984-0f536c9b9163" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_919bef1c-0527-4fe9-8a42-b3f549f4d9e6</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_919bef1c-0527-4fe9-8a42-b3f549f4d9e6.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="false" name="pb"
+        recordRawValue="!1m4!1m3!1i3!2i3!3i2!1m4!1m3!1i3!2i3!3i3!1m4!1m3!1i3!2i4!3i2!1m4!1m3!1i3!2i4!3i3!1m4!1m3!1i3!2i5!3i2!1m4!1m3!1i3!2i5!3i3!2m3!1e0!2sm!3i394091355!3m12!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmapSatellite!12m3!1e37!2m1!1ssmartmaps!4e3!12m1!5b1"
+        separator="="
+        value="!1m4!1m3!1i3!2i3!3i2!1m4!1m3!1i3!2i3!3i3!1m4!1m3!1i3!2i4!3i2!1m4!1m3!1i3!2i4!3i3!1m4!1m3!1i3!2i5!3i2!1m4!1m3!1i3!2i5!3i3!2m3!1e0!2sm!3i394091355!3m12!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmapSatellite!12m3!1e37!2m1!1ssmartmaps!4e3!12m1!5b1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="callback"
+        recordRawValue="_xdc_._ie5dtm" separator="="
+        value="_xdc_._ie5dtm" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="token"
+        recordRawValue="77747" separator="=" value="77747" valueMode="USE_VALUE"/>
+    <header name="accept-language" value="en-US, en;q=0.8"/>
+    <header name="referer" value="http://ushahidi.demo.neotys.com/reports/submit"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/javascript; charset=UTF-8&#xd;
+date: Tue, 10 Oct 2017 09:11:48 GMT&#xd;
+expires: Sun, 24 Jun 2018 14:02:10 GMT&#xd;
+cache-control: public, max-age=22222222&#xd;
+content-security-policy: script-src 'none'; object-src 'none'; base-uri 'none'&#xd;
+x-content-type-options: nosniff&#xd;
+content-disposition: attachment; filename="f.txt"&#xd;
+content-encoding: gzip&#xd;
+server: paintfe&#xd;
+content-length: 131&#xd;
+x-xss-protection: 1; mode=block&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+alt-svc: quic=":443"; ma=2592000; v="39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

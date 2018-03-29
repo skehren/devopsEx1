@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="imported_07_close_applet" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="ef996820-bb53-4d72-a79d-c27e2c711e82" weightsEnabled="false">
+    <weighted-embedded-action uid="86f7a9f4-46ea-4030-8118-884f047689e7"/>
+</basic-logical-action-container>

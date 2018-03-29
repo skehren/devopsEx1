@@ -1,0 +1,39 @@
+<switch-container condition="${random}" name="switch" uid="4d88dd47-f178-4da0-b6ac-58a7dbbff3cc">
+    <case-statement case-break="true"
+        case-uid="048039b7-9e62-4027-aa85-e1d9e23d84bd" case-value="2"
+        element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed when the Case equals the Switch value.</description>
+        <weighted-embedded-action uid="991160fe-7ac2-4b87-a17f-c04a1fba2145"/>
+    </case-statement>
+    <case-statement case-break="true"
+        case-uid="b3386257-7a18-4b6c-98e3-15de9993c19f" case-value="3"
+        element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed when the Case equals the Switch value.</description>
+        <weighted-embedded-action uid="ce96d209-5945-4391-ab16-1b6d6fc88603"/>
+    </case-statement>
+    <case-statement case-break="true"
+        case-uid="c752ae88-59f0-4e0b-9e17-1c3d3c65fd3a" case-value="4"
+        element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed when the Case equals the Switch value.</description>
+        <weighted-embedded-action uid="3878577b-22a1-4209-8d0c-562a49c18f7d"/>
+    </case-statement>
+    <case-statement case-break="true"
+        case-uid="d396edba-14f9-4ea1-95b8-d0c561778d85" case-value="5"
+        element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed when the Case equals the Switch value.</description>
+        <weighted-embedded-action uid="4646ef94-9761-4c62-a262-f40fa948c281"/>
+    </case-statement>
+    <default-statement element-number="1" execution-type="0"
+        pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+        pacingValue="0" slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed by default when no Case equals the Switch value.</description>
+    </default-statement>
+</switch-container>

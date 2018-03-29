@@ -1,0 +1,59 @@
+<http-page executeResourcesDynamically="false"
+    name="SIEBEL_Account List View:Drilldown"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@s@i@e@b@e@l/%resources%/recorded-artifacts/39833c97-8656-4937-8d4e-49606aba16a0.zip"
+    slaProfileEnabled="false" thinkTime="26"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="39833c97-8656-4937-8d4e-49606aba16a0">
+    <embedded-action>0e74049c-b2e3-4871-b310-d4f57b7b9471</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_a396ac2f-6575-429c-8999-615b2bc7a560.jpg</screenshotFileDescription>
+</http-page>
+<http-plugin-action actionType="1" contentType="text/html;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    extractorServerUid="technodemo" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="SIEBEL_/sales_enu/start.swe"
+    path="/sales_enu/start.swe" plugin="SIEBEL" postCharset="UTF-8"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@s@i@e@b@e@l/%resources%/recorded-artifacts/39833c97-8656-4937-8d4e-49606aba16a0.zip"
+    recordedResponseCode="200" recordedResponseTime="173"
+    responseSize="112561" serverUid="technodemo"
+    slaProfileEnabled="false" uid="0e74049c-b2e3-4871-b310-d4f57b7b9471" useKeepAlive="true">
+    <plugin-handler isRequestConversionSuccessful="true"
+        isResponseConversionSuccessful="true"
+        labelBase64="QWNjb3VudCBMaXN0IFZpZXc6RHJpbGxkb3du"
+        networkType="HTTP" plugin="SIEBEL">
+        <requestXMLDataBase64><![CDATA[PFNpZWJlbFJlcXVlc3Q+CiAgPHBvc3RQYXJhbWV0ZXJzPgogICAgPHBhcmFtZXRlciBuYW1lPSJTV0VSIj40PC9wYXJhbWV0ZXI+CiAgICA8cGFyYW1ldGVyIG5hbWU9IlNXRVZJIj48L3BhcmFtZXRlcj4KICAgIDxwYXJhbWV0ZXIgbmFtZT0iU1dFUm93SWQiPjEtJHtTV0VSb3dJZF94bWx9PC9wYXJhbWV0ZXI+CiAgICA8cGFyYW1ldGVyIG5hbWU9IlNXRUMiPiR7U1dFQ194bWx9PC9wYXJhbWV0ZXI+CiAgICA8cGFyYW1ldGVyIG5hbWU9IlNXRU1ldGhvZCI+RHJpbGxkb3duPC9wYXJhbWV0ZXI+CiAgICA8cGFyYW1ldGVyIG5hbWU9InNfMV8yXzM3XzQiPk48L3BhcmFtZXRlcj4KICAgIDxwYXJhbWV0ZXIgbmFtZT0iU1dFUmVxUm93SWQiPjE8L3BhcmFtZXRlcj4KICAgIDxwYXJhbWV0ZXIgbmFtZT0iU1dFUlBDIj4xPC9wYXJhbWV0ZXI+CiAgICA8cGFyYW1ldGVyIG5hbWU9InNfMV8yXzQ5XzQiPjwvcGFyYW1ldGVyPgogICAgPHBhcmFtZXRlciBuYW1lPSJTV0VBcHBsZXQiPlNJUyBBY2NvdW50IExpc3QgQXBwbGV0PC9wYXJhbWV0ZXI+CiAgICA8cGFyYW1ldGVyIG5hbWU9IlNXRUFjdGl2ZUFwcGxldCI+U0lTIEFjY291bnQgTGlzdCBBcHBsZXQ8L3BhcmFtZXRlcj4KICAgIDxwYXJhbWV0ZXIgbmFtZT0iU1dFVmlldyI+QWNjb3VudCBMaXN0IFZpZXc8L3BhcmFtZXRlcj4KICAgIDxwYXJhbWV0ZXIgbmFtZT0iU1dFRmllbGQiPnNfMV8yXzUxXzQ8L3BhcmFtZXRlcj4KICAgIDxwYXJhbWV0ZXIgbmFtZT0iU1dFQ21kIj5JbnZva2VNZXRob2Q8L3BhcmFtZXRlcj4KICAgIDxwYXJhbWV0ZXIgbmFtZT0ic18xXzJfNjFfNCI+PC9wYXJhbWV0ZXI+CiAgICA8cGFyYW1ldGVyIG5hbWU9InNfMV8yXzUxXzQiPk5lb0xvYWQxMDAzPC9wYXJhbWV0ZXI+CiAgICA8cGFyYW1ldGVyIG5hbWU9InNfMV8yXzc0XzQiPkN1c3RvbWVyPC9wYXJhbWV0ZXI+CiAgICA8cGFyYW1ldGVyIG5hbWU9InNfMV8yXzUyXzQiPk5lb3R5czwvcGFyYW1ldGVyPgogICAgPHBhcmFtZXRlciBuYW1lPSJTV0VUUyI+MTM2OTIxMDM3OTA2NzwvcGFyYW1ldGVyPgogICAgPHBhcmFtZXRlciBuYW1lPSJTV0VBY3RpdmVWaWV3Ij5BY2NvdW50IExpc3QgVmlldzwvcGFyYW1ldGVyPgogICAgPHBhcmFtZXRlciBuYW1lPSJTV0VQIj48L3BhcmFtZXRlcj4KICAgIDxwYXJhbWV0ZXIgbmFtZT0ic18xXzJfNTVfNCI+Q3VzdG9tZXI8L3BhcmFtZXRlcj4KICAgIDxwYXJhbWV0ZXIgbmFtZT0ic18xXzJfODhfNCI+QWN0aXZlPC9wYXJhbWV0ZXI+CiAgICA8cGFyYW1ldGVyIG5hbWU9IlNXRVJvd0lkcyI+PC9wYXJhbWV0ZXI+CiAgPC9wb3N0UGFyYW1ldGVycz4KICA8Z2V0UGFyYW1ldGVycy8+CjwvU2llYmVsUmVxdWVzdD4=]]></requestXMLDataBase64>
+    </plugin-handler>
+    <responsePageFileDescription>recorded-responses/res_1e49bf6c-42aa-473a-aa3a-0196d87e4384.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1e49bf6c-42aa-473a-aa3a-0196d87e4384.txt</requestContentFileDescription>
+    <variable-extractor assertionOnNoMatch="true"
+        defaultValue="SWEC_xml_NOT_FOUND" displayMode="1"
+        endsWithSimple="" extractFromVarNameAdv=""
+        extractFromVarNameSimple="" extractType="0" extractTypeAdv="0"
+        extractTypeSimple="0" matchNumber="1" matchNumberAdv="1"
+        matchNumberSimple="1" name="SWEC_xml"
+        regExp="&lt;property name=&quot;SWEC&quot;>(\d*?)&lt;/property>"
+        regExpAdv="&lt;property name=&quot;SWEC&quot;>(\d*?)&lt;/property>"
+        setDefaultValue="true" startsWithSimple="" template="$1$"
+        templateAdv="$1$" uid="ebbbb40d-17b9-4bd7-bfc8-9954a7c70dcc" xpath=""/>
+    <header name="Content-Type" value="application/x-www-form-urlencoded"/>
+    <header name="Accept-Encoding" value="deflate"/>
+    <header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; AskTbARS2/5.15.4.23821; .NET4.0C)"/>
+    <header name="Host" value="maguk"/>
+    <header name="DNT" value="1"/>
+    <header name="Pragma" value="no-cache"/>
+    <header name="Cookie" value="SWEUAID=3; _sn=8TGlHwJB.t.O2EUUGQf8mXjUHBJvERN.erESSmDHC40OhovyGdViCmMSL0R6tINM"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 22 May 2013 08:12:59 GMT
+Server: Microsoft-IIS/6.0
+content-language: en
+cache-control: no-cache
+swerpc: true
+content-encoding: deflate
+content-type: text/html;charset=UTF-8
+content-length: 4786</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-plugin-action>

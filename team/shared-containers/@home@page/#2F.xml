@@ -1,0 +1,1170 @@
+<http-page dynamicAction="38c42244-eeaa-45a6-9ccf-f6827f46b917"
+    executeResourcesDynamically="true" name="/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="4ef06f41-768f-4899-a04c-c635dc53d169">
+    <embedded-action>b14f7558-dad1-4596-8750-c88392723bef</embedded-action>
+    <embedded-action>68c2eb01-41f7-4091-b3dc-0e9bf058c9b9</embedded-action>
+    <embedded-action>085ce453-49e0-41f4-b7cb-59e74953bad9</embedded-action>
+    <embedded-action>bacd5302-3f40-48b4-bad9-d8a4f7f29b0c</embedded-action>
+    <embedded-action>881dc521-a388-42bf-82c3-ac2939b0cd7b</embedded-action>
+    <embedded-action>f11fb8cc-f993-4f8f-8d70-168aa6d1f9ee</embedded-action>
+    <embedded-action>96b5949d-7d70-49c1-9498-d07de748e842</embedded-action>
+    <embedded-action>d96d93e7-a01f-4f6d-af3f-d41191033156</embedded-action>
+    <embedded-action>414b3577-4c6a-4577-8f2c-6ddc52a29564</embedded-action>
+    <embedded-action>6cc0971d-08a9-4999-8e61-61aba9832df6</embedded-action>
+    <embedded-action>9abbb0ec-247c-446c-bb58-e9a064c2b93f</embedded-action>
+    <embedded-action>60dab1b6-3b7c-425a-a5ca-2d7768d32761</embedded-action>
+    <embedded-action>280be099-9fd6-4e4c-beaa-020dea376b56</embedded-action>
+    <embedded-action>d1cfb71d-dc4d-4ec8-890d-4c8a9e63a359</embedded-action>
+    <embedded-action>5bbd2c42-d790-4235-bca9-547ba888ceae</embedded-action>
+    <embedded-action>18e6fb24-c9dc-4b6a-af67-897eda01ed09</embedded-action>
+    <embedded-action>28d34cf6-1308-449a-98c8-ee079437a184</embedded-action>
+    <embedded-action>b762a7ad-bd4a-4dc0-99eb-4e01b24110b8</embedded-action>
+    <embedded-action>8a0c82ec-992b-40a7-ad07-1656129309f9</embedded-action>
+    <embedded-action>cc02972e-ee83-458a-a26d-bd07e9208faf</embedded-action>
+    <embedded-action>3220ad00-a47b-41ff-bc14-347b1ef78b0a</embedded-action>
+    <embedded-action>45daa5d4-a856-487b-ae97-5df0d1a2ebb7</embedded-action>
+    <embedded-action>49ae3ebd-a580-4dea-a44c-bf6deaa1394d</embedded-action>
+    <embedded-action>6e0a9e54-ef1a-490f-b9d2-cd36da5f3633</embedded-action>
+    <embedded-action>75352b76-c217-4f58-9042-7e4de4952457</embedded-action>
+    <embedded-action>97afcfe3-8ae2-4056-89e6-b0568d18b188</embedded-action>
+    <embedded-action>a5787e35-4909-4661-9c9a-37738bc818eb</embedded-action>
+    <embedded-action>d3830e23-545e-4124-8b24-0d698ef771e8</embedded-action>
+    <embedded-action>9d4af863-2a77-43b7-a6f8-ede70ee77d42</embedded-action>
+    <embedded-action>a3e87916-d401-459b-a9e6-4031d134d90f</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_c277cbf8-e6d0-4695-ada0-baa43a92eb3e.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/" path="" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="605"
+    responseSize="23508" serverUid="ushahidi.demo"
+    slaProfileEnabled="false" uid="b14f7558-dad1-4596-8750-c88392723bef" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_2285c72e-c217-464d-a797-c69626a548dc.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2285c72e-c217-464d-a797-c69626a548dc.txt</requestContentFileDescription>
+    <variable-extractor assertionOnNoMatch="true"
+        defaultValue="form_auth_token_NOT_FOUND" displayMode="1"
+        endsWithSimple="" extractFromVarNameAdv=""
+        extractFromVarNameSimple="" extractType="0" extractTypeAdv="0"
+        extractTypeSimple="0" matchNumber="1" matchNumberAdv="1"
+        matchNumberSimple="1" name="form_auth_token"
+        regExp="\s[Nn][Aa][Mm][Ee]\s*=\s*[\&quot;']form_auth_token[\&quot;'][^>]*\s[vV][Aa][Ll][Uu][Ee]\s*=\s*[\&quot;'](.*?)[\&quot;']"
+        regExpAdv="\s[Nn][Aa][Mm][Ee]\s*=\s*[\&quot;']form_auth_token[\&quot;'][^>]*\s[vV][Aa][Ll][Uu][Ee]\s*=\s*[\&quot;'](.*?)[\&quot;']"
+        setDefaultValue="true" startsWithSimple="" template="$1$"
+        templateAdv="$1$" uid="012ed76d-42a1-40da-848a-3aa1ef70c509" xpath=""/>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:41 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze16
+Set-Cookie: ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6; expires=Tue, 14-Jan-2014 13:04:41 GMT; path=/; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6; expires=Tue, 14-Jan-2014 13:04:41 GMT; path=/; httponly
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 7479
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;63942-6bbd-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/css/jquery-ui-themeroller.css"
+    path="/media/css/jquery-ui-themeroller.css" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="45"
+    responseSize="27581" serverUid="ushahidi.demo"
+    slaProfileEnabled="false" uid="68c2eb01-41f7-4091-b3dc-0e9bf058c9b9" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_178ee1f5-1d63-4843-95a9-68c73c5d412d.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_178ee1f5-1d63-4843-95a9-68c73c5d412d.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:41 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "63942-6bbd-4cee7bb4d1180"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 4990
+Keep-Alive: timeout=15, max=96
+Connection: Keep-Alive
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;8194f-d79d-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/themes/default/css/style.css"
+    path="/themes/default/css/style.css" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="54"
+    responseSize="55197" serverUid="ushahidi.demo"
+    slaProfileEnabled="false" uid="085ce453-49e0-41f4-b7cb-59e74953bad9" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_57431cd7-1305-471a-9345-51e1471f2d63.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_57431cd7-1305-471a-9345-51e1471f2d63.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:41 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "8194f-d79d-4cee7bb4d1180"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 11212
+Keep-Alive: timeout=15, max=95
+Connection: Keep-Alive
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;8190d-13c0-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/themes/bueno/css/_default.css"
+    path="/themes/bueno/css/_default.css" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="76"
+    responseSize="5056" serverUid="ushahidi.demo"
+    slaProfileEnabled="false" uid="bacd5302-3f40-48b4-bad9-d8a4f7f29b0c" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_355f2e2a-b0a3-4857-a4cc-b9c2c287ca81.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_355f2e2a-b0a3-4857-a4cc-b9c2c287ca81.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:41 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "8190d-13c0-4cee7bb4d1180"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 1668
+Keep-Alive: timeout=15, max=93
+Connection: Keep-Alive
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;63949-2e81-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/css/openlayers.css"
+    path="/media/css/openlayers.css" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="26"
+    responseSize="11905" serverUid="ushahidi.demo"
+    slaProfileEnabled="false" uid="881dc521-a388-42bf-82c3-ac2939b0cd7b" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_d7b52d6d-f71a-4689-9648-0657c49ed540.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d7b52d6d-f71a-4689-9648-0657c49ed540.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:41 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "63949-2e81-4cee7bb4d1180"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 2782
+Keep-Alive: timeout=15, max=99
+Connection: Keep-Alive
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;6393c-b4a-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/css/global.css"
+    path="/media/css/global.css" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="44"
+    responseSize="2890" serverUid="ushahidi.demo"
+    slaProfileEnabled="false" uid="f11fb8cc-f993-4f8f-8d70-168aa6d1f9ee" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_930245e3-c885-444f-b159-b39613556b4a.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_930245e3-c885-444f-b159-b39613556b4a.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:41 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "6393c-b4a-4cee7bb4d1180"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 831
+Keep-Alive: timeout=15, max=99
+Connection: Keep-Alive
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;63945-de9-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/css/jquery.jqplot.min.css"
+    path="/media/css/jquery.jqplot.min.css" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="36"
+    responseSize="3561" serverUid="ushahidi.demo"
+    slaProfileEnabled="false" uid="96b5949d-7d70-49c1-9498-d07de748e842" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_7c02fcc3-3bf5-4bf6-839c-5268a9e0afb9.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7c02fcc3-3bf5-4bf6-839c-5268a9e0afb9.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:41 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "63945-de9-4cee7bb4d1180"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 935
+Keep-Alive: timeout=15, max=97
+Connection: Keep-Alive
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;63a77-56700-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/OpenLayers.js"
+    path="/media/js/OpenLayers.js" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="95"
+    refererUid="b14f7558-dad1-4596-8750-c88392723bef"
+    responseSize="354048" serverUid="ushahidi.demo"
+    slaProfileEnabled="false" uid="d96d93e7-a01f-4f6d-af3f-d41191033156" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_de9d6e49-4ef8-42a9-92e0-ffe0705e15f0</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_de9d6e49-4ef8-42a9-92e0-ffe0705e15f0.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:41 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "63a77-56700-4cee7bb4d1180"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=15, max=95
+Connection: Keep-Alive
+Content-Length: 93077
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="1"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;63a95-2170-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/selectToUISlider.jQuery.js"
+    path="/media/js/selectToUISlider.jQuery.js" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="43"
+    refererUid="b14f7558-dad1-4596-8750-c88392723bef"
+    responseSize="8560" serverUid="ushahidi.demo"
+    slaProfileEnabled="false" uid="414b3577-4c6a-4577-8f2c-6ddc52a29564" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_69f89863-4b5d-4d3a-979a-cd93439fd5ad</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_69f89863-4b5d-4d3a-979a-cd93439fd5ad.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:41 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "63a95-2170-4cee7bb4d1180"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 2836
+Keep-Alive: timeout=15, max=98
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="9"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;63a88-17277-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/jquery.js" path="/media/js/jquery.js"
+    postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="63"
+    refererUid="b14f7558-dad1-4596-8750-c88392723bef"
+    responseSize="94839" serverUid="ushahidi.demo"
+    slaProfileEnabled="false" uid="6cc0971d-08a9-4999-8e61-61aba9832df6" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_18ffba05-0610-4b08-b0ca-4d3c9386de7a</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_18ffba05-0610-4b08-b0ca-4d3c9386de7a.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:41 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "63a88-17277-4cee7bb4d1180"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 33616
+Keep-Alive: timeout=15, max=94
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="4"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;63a8b-11bf-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/jquery.timeago.js"
+    path="/media/js/jquery.timeago.js" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="31"
+    refererUid="b14f7558-dad1-4596-8750-c88392723bef"
+    responseSize="4543" serverUid="ushahidi.demo"
+    slaProfileEnabled="false" uid="9abbb0ec-247c-446c-bb58-e9a064c2b93f" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_78f81faa-8b57-4715-9536-0c8d985b8bd3</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_78f81faa-8b57-4715-9536-0c8d985b8bd3.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:41 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "63a8b-11bf-4cee7bb4d1180"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 1630
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="7"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;63a87-286ed-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/jquery.jqplot.min.js"
+    path="/media/js/jquery.jqplot.min.js" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="83"
+    refererUid="b14f7558-dad1-4596-8750-c88392723bef"
+    responseSize="165613" serverUid="ushahidi.demo"
+    slaProfileEnabled="false" uid="60dab1b6-3b7c-425a-a5ca-2d7768d32761" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_95a92e76-5a99-419c-ab59-d7d526673d95</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_95a92e76-5a99-419c-ab59-d7d526673d95.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:41 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "63a87-286ed-4cee7bb4d1180"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 41084
+Keep-Alive: timeout=15, max=92
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="10"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;63a96-868e-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/ushahidi.js"
+    path="/media/js/ushahidi.js" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="48"
+    refererUid="b14f7558-dad1-4596-8750-c88392723bef"
+    responseSize="34446" serverUid="ushahidi.demo"
+    slaProfileEnabled="false" uid="280be099-9fd6-4e4c-beaa-020dea376b56" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_b4d3eecb-cc98-4cfc-b55d-20608862a8ab</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b4d3eecb-cc98-4cfc-b55d-20608862a8ab.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:41 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "63a96-868e-4cee7bb4d1180"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 9196
+Keep-Alive: timeout=15, max=96
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="3"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;63a89-9bf-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/jquery.pngFix.pack.js"
+    path="/media/js/jquery.pngFix.pack.js" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="21"
+    refererUid="b14f7558-dad1-4596-8750-c88392723bef"
+    responseSize="2495" serverUid="ushahidi.demo"
+    slaProfileEnabled="false" uid="d1cfb71d-dc4d-4ec8-890d-4c8a9e63a359" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_31a2093f-075d-48b3-adf6-d9adbc904e24</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_31a2093f-075d-48b3-adf6-d9adbc904e24.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:41 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "63a89-9bf-4cee7bb4d1180"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 1297
+Keep-Alive: timeout=15, max=98
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="6"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;63a7e-490-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/global.js" path="/media/js/global.js"
+    postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="81"
+    refererUid="b14f7558-dad1-4596-8750-c88392723bef"
+    responseSize="1168" serverUid="ushahidi.demo"
+    slaProfileEnabled="false" uid="5bbd2c42-d790-4235-bca9-547ba888ceae" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_32ff1370-8a8a-4c6e-9919-5584ba66706c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_32ff1370-8a8a-4c6e-9919-5584ba66706c.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:42 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "63a7e-490-4cee7bb4d1180"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 474
+Keep-Alive: timeout=15, max=91
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="12"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;63a7f-2d22-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/jqplot.dateAxisRenderer.min.js"
+    path="/media/js/jqplot.dateAxisRenderer.min.js" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="42"
+    refererUid="b14f7558-dad1-4596-8750-c88392723bef"
+    responseSize="11554" serverUid="ushahidi.demo"
+    slaProfileEnabled="false" uid="18e6fb24-c9dc-4b6a-af67-897eda01ed09" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_1539d3be-e8c6-46d6-bc65-33a5221e8265</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1539d3be-e8c6-46d6-bc65-33a5221e8265.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:41 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "63a7f-2d22-4cee7bb4d1180"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 3551
+Keep-Alive: timeout=15, max=97
+Connection: Keep-Alive
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="11"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;63971-5d0-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/img/footer-logo.png"
+    path="/media/img/footer-logo.png" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="6" responseSize="0"
+    serverUid="ushahidi.demo" slaProfileEnabled="false"
+    uid="28d34cf6-1308-449a-98c8-ee079437a184" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_c63f8d49-7dbc-4145-8bf1-2892f81c21b3.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c63f8d49-7dbc-4145-8bf1-2892f81c21b3.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="image/png,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:42 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "63971-5d0-4cee7bb4d1180"
+Accept-Ranges: bytes
+Content-Length: 1488
+Keep-Alive: timeout=15, max=90
+Connection: Keep-Alive
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;81914-89c8-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/themes/bueno/images/bodytile.jpg"
+    path="/themes/bueno/images/bodytile.jpg" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="4" responseSize="0"
+    serverUid="ushahidi.demo" slaProfileEnabled="false"
+    uid="b762a7ad-bd4a-4dc0-99eb-4e01b24110b8" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_c4712473-3d86-4493-8ce8-8e24f54d409b</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c4712473-3d86-4493-8ce8-8e24f54d409b.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="image/png,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/themes/bueno/css/_default.css"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:42 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "81914-89c8-4cee7bb4d1180"
+Accept-Ranges: bytes
+Content-Length: 35272
+Keep-Alive: timeout=15, max=94
+Connection: Keep-Alive
+Content-Type: image/jpeg</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;81967-15e-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/themes/default/images/submit-incident.png"
+    path="/themes/default/images/submit-incident.png" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="9" responseSize="0"
+    serverUid="ushahidi.demo" slaProfileEnabled="false"
+    uid="8a0c82ec-992b-40a7-ad07-1656129309f9" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_5ee393b6-eaf3-485d-b4cd-6da9865352b7.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5ee393b6-eaf3-485d-b4cd-6da9865352b7.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="image/png,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/themes/default/css/style.css"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:42 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "81967-15e-4cee7bb4d1180"
+Accept-Ranges: bytes
+Content-Length: 350
+Keep-Alive: timeout=15, max=92
+Connection: Keep-Alive
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;81954-15e-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/themes/default/images/cat-filters-bg.jpg"
+    path="/themes/default/images/cat-filters-bg.jpg" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="5" responseSize="0"
+    serverUid="ushahidi.demo" slaProfileEnabled="false"
+    uid="cc02972e-ee83-458a-a26d-bd07e9208faf" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_def64699-2028-4837-9c57-7c0713af7c53</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_def64699-2028-4837-9c57-7c0713af7c53.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="image/png,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/themes/default/css/style.css"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:42 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "81954-15e-4cee7bb4d1180"
+Accept-Ranges: bytes
+Content-Length: 350
+Keep-Alive: timeout=15, max=89
+Connection: Keep-Alive
+Content-Type: image/jpeg</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;81959-161-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/themes/default/images/filters-bg.jpg"
+    path="/themes/default/images/filters-bg.jpg" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="5" responseSize="0"
+    serverUid="ushahidi.demo" slaProfileEnabled="false"
+    uid="3220ad00-a47b-41ff-bc14-347b1ef78b0a" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_a75f4a74-b9b7-4529-935b-79f59387c44b</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a75f4a74-b9b7-4529-935b-79f59387c44b.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="image/png,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/themes/default/css/style.css"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:42 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "81959-161-4cee7bb4d1180"
+Accept-Ranges: bytes
+Content-Length: 353
+Keep-Alive: timeout=15, max=93
+Connection: Keep-Alive
+Content-Type: image/jpeg</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;63a44-12f-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/media/img/openlayers/layer-switcher-maximize.png"
+    path="/media/img/openlayers/layer-switcher-maximize.png"
+    postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="11"
+    responseSize="0" serverUid="ushahidi.demo" slaProfileEnabled="false"
+    uid="45daa5d4-a856-487b-ae97-5df0d1a2ebb7" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_2691409d-b1ed-4bf8-8a69-3a566ace2595.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2691409d-b1ed-4bf8-8a69-3a566ace2595.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="image/png,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:42 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "63a44-12f-4cee7bb4d1180"
+Accept-Ranges: bytes
+Content-Length: 303
+Keep-Alive: timeout=15, max=87
+Connection: Keep-Alive
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;63a45-16f-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/media/img/openlayers/layer-switcher-minimize.png"
+    path="/media/img/openlayers/layer-switcher-minimize.png"
+    postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="7" responseSize="0"
+    serverUid="ushahidi.demo" slaProfileEnabled="false"
+    uid="49ae3ebd-a580-4dea-a44c-bf6deaa1394d" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_9e13a829-7b6e-40f5-b9b4-35c3b025bfde.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9e13a829-7b6e-40f5-b9b4-35c3b025bfde.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="image/png,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:42 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "63a45-16f-4cee7bb4d1180"
+Accept-Ranges: bytes
+Content-Length: 367
+Keep-Alive: timeout=15, max=88
+Connection: Keep-Alive
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;63a38-1d20-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/img/openlayers/cloud-popup-relative.png"
+    path="/media/img/openlayers/cloud-popup-relative.png" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="7" responseSize="0"
+    serverUid="ushahidi.demo" slaProfileEnabled="false"
+    uid="6e0a9e54-ef1a-490f-b9d2-cd36da5f3633" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_e08e48cd-6a86-4b73-9446-d370ad184734.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e08e48cd-6a86-4b73-9446-d370ad184734.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="image/png,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:42 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "63a38-1d20-4cee7bb4d1180"
+Accept-Ranges: bytes
+Content-Length: 7456
+Keep-Alive: timeout=15, max=91
+Connection: Keep-Alive
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;63a6f-6e-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/media/img/themeroller/ui-bg_glass_75_e6e6e6_1x400.png"
+    path="/media/img/themeroller/ui-bg_glass_75_e6e6e6_1x400.png"
+    postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="13"
+    responseSize="0" serverUid="ushahidi.demo" slaProfileEnabled="false"
+    uid="75352b76-c217-4f58-9042-7e4de4952457" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_b8c181bd-5d02-4f51-949d-559e9661937c.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b8c181bd-5d02-4f51-949d-559e9661937c.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="image/png,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/media/css/jquery-ui-themeroller.css"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:42 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "63a6f-6e-4cee7bb4d1180"
+Accept-Ranges: bytes
+Content-Length: 110
+Keep-Alive: timeout=15, max=89
+Connection: Keep-Alive
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;63a6b-b2-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/media/img/themeroller/ui-bg_flat_75_ffffff_40x100.png"
+    path="/media/img/themeroller/ui-bg_flat_75_ffffff_40x100.png"
+    postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="13"
+    responseSize="0" serverUid="ushahidi.demo" slaProfileEnabled="false"
+    uid="97afcfe3-8ae2-4056-89e6-b0568d18b188" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_616a62d6-9324-45be-8fc2-d723bbc6a340.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_616a62d6-9324-45be-8fc2-d723bbc6a340.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="image/png,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/media/css/jquery-ui-themeroller.css"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:42 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "63a6b-b2-4cee7bb4d1180"
+Accept-Ranges: bytes
+Content-Length: 178
+Keep-Alive: timeout=15, max=86
+Connection: Keep-Alive
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;63a71-65-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/media/img/themeroller/ui-bg_highlight-soft_75_cccccc_1x100.png"
+    path="/media/img/themeroller/ui-bg_highlight-soft_75_cccccc_1x100.png"
+    postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="10"
+    responseSize="0" serverUid="ushahidi.demo" slaProfileEnabled="false"
+    uid="a5787e35-4909-4661-9c9a-37738bc818eb" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_c1fbe3d7-690c-4568-8d15-1788b9f18734.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c1fbe3d7-690c-4568-8d15-1788b9f18734.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="image/png,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/media/css/jquery-ui-themeroller.css"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:42 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "63a71-65-4cee7bb4d1180"
+Accept-Ranges: bytes
+Content-Length: 101
+Keep-Alive: timeout=15, max=90
+Connection: Keep-Alive
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/scheduler" path="/scheduler" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="20"
+    responseSize="0" serverUid="ushahidi.demo" slaProfileEnabled="false"
+    uid="d3830e23-545e-4124-8b24-0d698ef771e8" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_9ec36b39-84a1-4798-b216-389abf480b3e.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9ec36b39-84a1-4798-b216-389abf480b3e.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="image/png,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Referer" value="http://192.168.100.114/"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:42 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze16
+Expires: Wed, 11 Nov 1998 11:11:11 GMT
+Cache-Control: must-revalidate
+Pragma: no-cache
+Set-Cookie: ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6; expires=Tue, 14-Jan-2014 13:04:42 GMT; path=/; httponly
+Content-Length: 49
+Keep-Alive: timeout=15, max=85
+Connection: Keep-Alive
+Content-Type: image/gif</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/json/cluster" path="/json/cluster" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="16"
+    responseSize="42" serverUid="ushahidi.demo"
+    slaProfileEnabled="false" uid="9d4af863-2a77-43b7-a6f8-ede70ee77d42" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_33511a40-7d89-40e3-bd4d-7d43a04cda91</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_33511a40-7d89-40e3-bd4d-7d43a04cda91.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="z"
+        recordRawValue="12" separator="=" value="12" valueMode="USE_VALUE"/>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="X-Requested-With" value="XMLHttpRequest"/>
+    <header name="Referer" value="http://192.168.100.114/"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:43 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze16
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6; expires=Tue, 14-Jan-2014 13:04:43 GMT; path=/; httponly
+Content-Length: 42
+Keep-Alive: timeout=15, max=88
+Connection: Keep-Alive
+Content-Type: application/json; charset=utf-8</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/x-icon"
+    eTag="&quot;63927-47e-4cee7bb4d1180&quot;" enabled="false"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 20 Nov 2012 06:56:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/favicon.ico" path="/favicon.ico" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    recordedResponseCode="200" recordedResponseTime="12"
+    responseSize="0" serverUid="ushahidi.demo" slaProfileEnabled="false"
+    uid="a3e87916-d401-459b-a9e6-4031d134d90f" useKeepAlive="true">
+    <responsePageFileDescription>recorded-responses/res_51d50ec5-e0a4-4403-9fcc-103dfb287470</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_51d50ec5-e0a4-4403-9fcc-103dfb287470.txt</requestContentFileDescription>
+    <header name="Host" value="192.168.100.114"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"/>
+    <header name="Accept-Language" value="fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Cookie" value="ushahidi=fj4cdhdlivm3l5dkqm2q2ullj6"/>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 14 Jan 2014 11:04:43 GMT
+Server: Apache/2.2.16 (Debian)
+Last-Modified: Tue, 20 Nov 2012 06:56:22 GMT
+ETag: "63927-47e-4cee7bb4d1180"
+Accept-Ranges: bytes
+Content-Length: 1150
+Keep-Alive: timeout=15, max=84
+Connection: Keep-Alive
+Content-Type: image/x-icon</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-dynamic-resources-action actionType="1"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6" name=""
+    path="&lt;dynamic resources>" postType="1"
+    recordedArtifactZipFileName="team/shared-containers/@home@page/%resources%/recorded-artifacts/4ef06f41-768f-4899-a04c-c635dc53d169.zip"
+    serverUid="10.0.0.159" slaProfileEnabled="false"
+    uid="38c42244-eeaa-45a6-9ccf-f6827f46b917" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_38c42244-eeaa-45a6-9ccf-f6827f46b917</responsePageFileDescription>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-dynamic-resources-action>

@@ -1,0 +1,20 @@
+<http-soap-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" extractorServerUid="technodemo"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="mySOAPRequest"
+    path="/application/services/serviceName" postType="4"
+    serverUid="technodemo" slaProfileEnabled="false" soap-mode="0"
+    uid="32d7150f-4f41-4fa9-aec9-a904c180bfd2" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5e849a0b-d4c3-4df3-9ee2-68095f33f8de</responsePageFileDescription>
+    <header name="SOAPAction" value="&quot;&quot;"/>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <soapenv:Body>
+
+ </soapenv:Body>
+</soapenv:Envelope>]]></textPostContent>
+</http-soap-action>

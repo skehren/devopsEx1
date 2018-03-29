@@ -1,0 +1,15 @@
+<custom-action actionType="Executable Test Script Action" isHit="false"
+    name="executable_test_script" uid="6e38f546-6b21-4410-ada6-b0f4cb06cf54">
+    <description>Launches an executable test script on the Load Generator machine.  Executables and resources copied under the 'custom-resources' folder of the project are automatically copied to all Load Generators.
+Use the variable '${NL-CustomResources}' to access the synchronized folder on the Load Generator.
+Possible parameters are:
+- command: The program executable file.
+- argX: Test argument number X (eg: arg1, arg2, ...)
+- charset: The charset used by the console. Default platform charset is used if not set.</description>
+    <custom-action-parameter name="command" type="TEXT" value="C:/Program Files/TRICENTIS/Tosca Testsuite/ToscaCommander/ToscaCI/NeoloadIntegration/NeoloadIntegration.exe"/>
+    <custom-action-parameter name="arg1" type="TEXT" value="-m"/>
+    <custom-action-parameter name="arg2" type="TEXT" value="distributed"/>
+    <custom-action-parameter name="arg3" type="TEXT" value="-host"/>
+    <custom-action-parameter name="arg4" type="TEXT" value="10.0.0.101"/>
+    <responsePageFileDescription>recorded-responses/res_638c195e-3ce6-464c-a993-4b2fbf4c1cbf</responsePageFileDescription>
+</custom-action>

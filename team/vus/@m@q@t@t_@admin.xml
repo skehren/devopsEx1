@@ -1,0 +1,29 @@
+<virtual-user errorPolicy="DO_NOTHING"
+    failedAssertionPolicy="DO_NOTHING" slaProfileEnabled="false" uid="MQTT_Admin">
+    <init-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed once when the Virtual User starts.</description>
+        <weighted-embedded-action uid="73426e8b-0187-41e1-99d6-f2bdf719626e"/>
+    </init-container>
+    <actions-container clearUserIterationDataMode="AUTO"
+        element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_PACING_SIMPLE" pacingStart="0"
+        pacingValue="${MaxWaitTimeForMQTTAdmin}"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements repeated until the Virtual User stops.</description>
+        <weighted-embedded-action uid="3b0bc5bd-b2fb-4a5a-83f7-26cb420373f0"/>
+        <weighted-embedded-action uid="ea596486-19c9-4078-b250-aa26b47b551a"/>
+        <weighted-embedded-action uid="bf103a88-bf69-467a-a317-fb9a254c00c1"/>
+    </actions-container>
+    <end-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed before the Virtual User stops.</description>
+        <weighted-embedded-action uid="32a68cad-3740-4b1c-8956-fc5c88a3c5b3"/>
+        <weighted-embedded-action uid="0b057b4e-21a9-4ddb-be88-52320a840f14"/>
+    </end-container>
+    <thinktime-policy thinkTimeMode="MODE_SIMPLE_THINK_TIME"
+        thinktimeFactorValue="100" thinktimePolicy="0"
+        thinktimeRangeValue="0" thinktimeValue="5000"/>
+</virtual-user>
